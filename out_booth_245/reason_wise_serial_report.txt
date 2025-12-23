@@ -1,0 +1,293 @@
+ADOPTED_NO_RELATIVE - total suspects ---- 37
+--------------------------------------------------
+Ser No: 1247
+Ser No: 1266
+Ser No: 1273
+Ser No: 1277
+Ser No: 1292
+Ser No: 1295
+Ser No: 1305
+Ser No: 1313
+Ser No: 1326
+Ser No: 1332
+Ser No: 1355
+Ser No: 1358
+Ser No: 1360
+Ser No: 1379
+Ser No: 1381
+Ser No: 1393
+Ser No: 1394
+Ser No: 1396
+Ser No: 1397
+Ser No: 1442
+Ser No: 1480
+Ser No: 1507
+Ser No: 1512
+Ser No: 1580
+Ser No: 1645
+Ser No: 1658
+Ser No: 1686
+Ser No: 1689
+Ser No: 1736
+Ser No: 1737
+Ser No: 1786
+Ser No: 1787
+Ser No: 1793
+Ser No: 1832
+Ser No: 1859
+Ser No: 1887
+Ser No: 1891
+
+AGE_ZERO_OR_INVALID - total suspects ---- 10
+--------------------------------------------------
+Ser No: 1328
+Ser No: 1329
+Ser No: 1345
+Ser No: 1436
+Ser No: 1449
+Ser No: 1459
+Ser No: 1629
+Ser No: 1639
+Ser No: 1816
+Ser No: 1873
+
+BULK_10_PLUS - total suspects ---- 26
+--------------------------------------------------
+Ser No: 1234
+Ser No: 1235
+Ser No: 1236
+Ser No: 1237
+Ser No: 1238
+Ser No: 1239
+Ser No: 1240
+Ser No: 1241
+Ser No: 1242
+Ser No: 1243
+Ser No: 1244
+Ser No: 1245
+Ser No: 1246
+Ser No: 1249
+Ser No: 1552
+Ser No: 1554
+Ser No: 1555
+Ser No: 1556
+Ser No: 1557
+Ser No: 1558
+Ser No: 1559
+Ser No: 1560
+Ser No: 1561
+Ser No: 1562
+Ser No: 1563
+Ser No: 1564
+
+COPY_SAME_PERSON_DIFFERENT_DOOR - total suspects ---- 06
+--------------------------------------------------
+Ser No: 1235
+Ser No: 1439
+Ser No: 1441
+Ser No: 1733
+Ser No: 1800
+Ser No: 1810
+
+DUPLICATE_DETAILS - total suspects ---- 04
+--------------------------------------------------
+Ser No: 1210
+Ser No: 1211
+Ser No: 1282
+Ser No: 1330
+
+DUPLICATE_EPIC_ID - total suspects ---- 02
+--------------------------------------------------
+Ser No: 1907
+Ser No: 1911
+
+HOUSE_NO_UNAVAILABLE - total suspects ---- 29
+--------------------------------------------------
+Ser No: 1196
+Ser No: 1202
+Ser No: 1226
+Ser No: 1256
+Ser No: 1280
+Ser No: 1286
+Ser No: 1345
+Ser No: 1346
+Ser No: 1376
+Ser No: 1401
+Ser No: 1406
+Ser No: 1459
+Ser No: 1466
+Ser No: 1553
+Ser No: 1616
+Ser No: 1655
+Ser No: 1670
+Ser No: 1676
+Ser No: 1776
+Ser No: 1792
+Ser No: 1801
+Ser No: 1806
+Ser No: 1816
+Ser No: 1819
+Ser No: 1831
+Ser No: 1860
+Ser No: 1864
+Ser No: 1872
+Ser No: 1896
+
+INVALID_HOUSE_NO - total suspects ---- 04
+--------------------------------------------------
+Ser No: 1365
+Ser No: 1699
+Ser No: 1777
+Ser No: 1778
+
+ORPHAN_ONLY_PERSON_IN_HOME - total suspects ---- 115
+--------------------------------------------------
+Ser No: 1194
+Ser No: 1201
+Ser No: 1212
+Ser No: 1213
+Ser No: 1214
+Ser No: 1215
+Ser No: 1225
+Ser No: 1257
+Ser No: 1258
+Ser No: 1259
+Ser No: 1267
+Ser No: 1269
+Ser No: 1270
+Ser No: 1288
+Ser No: 1303
+Ser No: 1304
+Ser No: 1307
+Ser No: 1311
+Ser No: 1314
+Ser No: 1322
+Ser No: 1328
+Ser No: 1329
+Ser No: 1330
+Ser No: 1334
+Ser No: 1338
+Ser No: 1347
+Ser No: 1359
+Ser No: 1362
+Ser No: 1365
+Ser No: 1366
+Ser No: 1367
+Ser No: 1368
+Ser No: 1371
+Ser No: 1378
+Ser No: 1384
+Ser No: 1385
+Ser No: 1390
+Ser No: 1392
+Ser No: 1395
+Ser No: 1404
+Ser No: 1405
+Ser No: 1407
+Ser No: 1421
+Ser No: 1424
+Ser No: 1425
+Ser No: 1432
+Ser No: 1433
+Ser No: 1434
+Ser No: 1439
+Ser No: 1440
+Ser No: 1444
+Ser No: 1450
+Ser No: 1463
+Ser No: 1477
+Ser No: 1486
+Ser No: 1487
+Ser No: 1492
+Ser No: 1514
+Ser No: 1523
+Ser No: 1536
+Ser No: 1565
+Ser No: 1566
+Ser No: 1577
+Ser No: 1578
+Ser No: 1583
+Ser No: 1593
+Ser No: 1595
+Ser No: 1612
+Ser No: 1613
+Ser No: 1662
+Ser No: 1693
+Ser No: 1694
+Ser No: 1697
+Ser No: 1698
+Ser No: 1699
+Ser No: 1707
+Ser No: 1708
+Ser No: 1742
+Ser No: 1743
+Ser No: 1749
+Ser No: 1759
+Ser No: 1770
+Ser No: 1771
+Ser No: 1772
+Ser No: 1773
+Ser No: 1774
+Ser No: 1775
+Ser No: 1785
+Ser No: 1788
+Ser No: 1789
+Ser No: 1790
+Ser No: 1791
+Ser No: 1795
+Ser No: 1820
+Ser No: 1824
+Ser No: 1830
+Ser No: 1837
+Ser No: 1843
+Ser No: 1844
+Ser No: 1845
+Ser No: 1846
+Ser No: 1847
+Ser No: 1848
+Ser No: 1849
+Ser No: 1850
+Ser No: 1851
+Ser No: 1858
+Ser No: 1862
+Ser No: 1880
+Ser No: 1881
+Ser No: 1892
+Ser No: 1893
+Ser No: 1894
+Ser No: 1895
+Ser No: 1897
+
+SAME_NAME_IN_SAME_HOUSE - total suspects ---- 04
+--------------------------------------------------
+Ser No: 1239
+Ser No: 1240
+Ser No: 1868
+Ser No: 1870
+
+STREET_NAME_UNAVAILABLE - total suspects ---- 14
+--------------------------------------------------
+Ser No: 1898
+Ser No: 1899
+Ser No: 1900
+Ser No: 1901
+Ser No: 1902
+Ser No: 1903
+Ser No: 1904
+Ser No: 1905
+Ser No: 1906
+Ser No: 1907
+Ser No: 1908
+Ser No: 1909
+Ser No: 1910
+Ser No: 1911
+
+UNDER_18 - total suspects ---- 06
+--------------------------------------------------
+Ser No: 1375
+Ser No: 1411
+Ser No: 1561
+Ser No: 1651
+Ser No: 1675
+Ser No: 1871
+
