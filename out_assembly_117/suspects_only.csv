@@ -1,0 +1,113 @@
+serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gender,house_no,street,part_no,assembly,assembly_no,house_no_norm,street_norm,suspect_reasons,is_suspect
+88,NAN,Parvathi,nan,nan,Natarajan,nan,73,F,7/24,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/24,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+275,NAN,PRADEEP.S,SARAVANAN,nan,nan,nan,26,M,24,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,24,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+276,NAN,MATHUMITHA,SARAVANAN,nan,nan,nan,22,F,24,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,24,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+325,NAN,Kamalakannan -,Thangarasu -,nan,nan,nan,48,M,28-3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,28-3,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+355,NAN,Velusamy -,Chellappagounder -,nan,nan,nan,73,M,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+358,NAN,GOKULA KRISHNAN,SELVAKKUMAR,nan,nan,nan,24,M,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+433,NAN,Radhika,nan,nan,Ashok,nan,35,F,1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1,2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
+492,NAN,Maveeran A,Alagumalai,nan,nan,nan,30,M,"7/13,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7/13,",2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
+493,NAN,SNEHA E,ESWARAN,nan,nan,nan,22,F,"7-13,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7-13,",2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
+662,NAN,Leelavathy -,nan,nan,Kandhasamy -,nan,62,F,69,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,69,2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
+691,NAN,Perumal -,Ramaya -,nan,nan,nan,49,M,1,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+717,WJB4784468,MANIMEKALAI S,SUDALAIMUTHU,nan,nan,nan,25,F,1D,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1D,3-WARD NO 6 ARULANANTHAM NAGAR,['DUPLICATE_DETAILS'],True
+718,WJB4821443,manimekalai s,sudalaimuthu,nan,nan,nan,25,F,1D,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1D,3-WARD NO 6 ARULANANTHAM NAGAR,['DUPLICATE_DETAILS'],True
+743,NAN,Balasundharam -,Sinthan -,nan,nan,nan,52,NAN,2-1R,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2-1R,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+773,NAN,Rasalya -,Marimuthu -,nan,nan,nan,69,M,5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,5,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+776,NAN,Sathyamoorthy -,Thangavel -,nan,nan,nan,45,M,5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,5,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+803,NAN,nan,Thangamani,nan,nan,nan,24,M,7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+806,NAN,nan,Ganesh -,nan,nan,nan,39,M,7/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/4,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+895,NAN,Aswathi,Surendran,nan,nan,nan,24,F,16,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,16,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+911,WJB4663365,Manikandan,Subramaniyam,nan,nan,nan,20,M,17,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,17,3-WARD NO 6 ARULANANTHAM NAGAR,['DUPLICATE_DETAILS'],True
+912,WJB4941100,Manikandan,SUBRAMANIYAM,nan,nan,nan,20,M,17,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,17,3-WARD NO 6 ARULANANTHAM NAGAR,['DUPLICATE_DETAILS'],True
+985,NAN,Deivanai -,nan,nan,Arjunan -,nan,79,F,32,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,32,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+1045,NAN,Govindarajan -,Chinnappan -,nan,nan,nan,52,M,40,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,40,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+1072,NAN,JOHNSON,PALANISWAMY,nan,nan,nan,47,M,"5,",3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,"5,",3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+1082,NAN,DHANALAKSHMI S,nan,nan,SIVAKUMAR N,nan,0,NAN,71,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,71,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+1126,NAN,Rajeswari -,nan,nan,Ganeshan -,nan,50,F,4,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1153,NAN,Sathyapama -,nan,nan,babhu -,nan,38,F,7,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1156,NAN,Aishvariya,Karthikeyan,nan,nan,nan,23,F,7/2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7/2,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1183,NAN,dheepika -,Rajendran -,nan,nan,nan,33,F,7-551A1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-551A1,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1186,NAN,Aiswarya RV,Radhakrishnan P,nan,nan,nan,26,F,8,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,8,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1222,NAN,Nataraj -,Krishnasamy -,nan,nan,nan,57,M,19-1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,19-1,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1246,NAN,K S Vignesh,Selvaraju,nan,nan,nan,22,M,29,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1273,NAN,Maheswari -,nan,nan,saravanlingam -,nan,36,F,49,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,49,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1284,NAN,Sanmugasundaram -,planivelan -,nan,nan,nan,55,M,504A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,504A,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1303,NAN,Vijayakumar -,kanthasamy -,nan,nan,nan,56,M,58,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,58,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1306,NAN,Kathirvel -,Vijayakumar -,nan,nan,nan,29,M,58-7,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,58-7,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1336,NAN,nan,Muthupandiyan -,nan,nan,nan,50,M,96,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,96,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1368,NAN,R Ramya,Ramachandran T,nan,nan,nan,19,F,36,nan,421,117-KAVUNDAMPALAYAM,117,36,NAN,['EPIC_ID_MISSING'],True
+1388,NAN,T G Nishanth,Gopal,nan,nan,nan,18,M,33,nan,421,117-KAVUNDAMPALAYAM,117,33,NAN,['EPIC_ID_MISSING'],True
+1397,NAN,G Retheswaran,Gopal,nan,nan,nan,23,M,35,nan,421,117-KAVUNDAMPALAYAM,117,35,NAN,['EPIC_ID_MISSING'],True
+55,NAN,Pushpalatha -,nan,nan,Shanmugasundaram -,nan,63,F,12-33,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-33,1-WARD NO 23 MADHUSOODHANAN NAGAR,['EPIC_ID_MISSING'],True
+85,NAN,Balasubramaniam -,Krishnasamy -,nan,nan,nan,55,M,19-1,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,19-1,1-WARD NO 23 MADHUSOODHANAN NAGAR,['EPIC_ID_MISSING'],True
+126,NAN,bakkiyam -,nan,nan,balan -,nan,54,F,72,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,72,1-WARD NO 23 MADHUSOODHANAN NAGAR,['EPIC_ID_MISSING'],True
+156,NAN,manojkumar -,narayanan -,nan,nan,nan,44,M,NO,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,NO,1-WARD NO 23 MADHUSOODHANAN NAGAR,['EPIC_ID_MISSING'],True
+169,WJB4308698,Prem kumar ou,Patieape,nan,nan,nan,0,NAN,nan,2-Ward No 7 Chellakutty Gounder Thottam,427,117-KAVUNDAMPALAYAM,117,NAN,2-WARD NO 7 CHELLAKUTTY GOUNDER THOTTAM,['DUPLICATE_EPIC_ID'],True
+174,NAN,Hari Jayram -,Mani -,nan,nan,nan,30,M,4,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,4,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+194,NAN,Rani -,nan,nan,Chinnaraj -,nan,41,F,10,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,10,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+197,NAN,SHAKTHIVEL,KARUPUSAMY,nan,nan,nan,31,M,11,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,11,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+284,NAN,nan,Rajendran -,nan,nan,nan,39,M,40,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,40,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+287,NAN,Prathap -,Pichaimani -,nan,nan,nan,35,M,40,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,40,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+344,NAN,Nithya,nan,nan,karthikeyan,nan,38,F,62,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,62,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+347,NAN,Sivaraj -,Arumugam ~-,nan,nan,nan,44,M,64,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,64,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+374,NAN,Suresh Kumaar -,Kesavan -,nan,nan,nan,45,M,74,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,74,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+377,NAN,Kalavathi -,nan,nan,Suresh Kumar -,nan,38,F,74,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,74,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+404,NAN,nan,nan,nan,nan,MEGALA WIFE,38,M,83,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,83,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+467,NAN,Sunil kishore,Balan,nan,nan,nan,25,M,102A,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,102A,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+595,NAN,Sindhu -,Balan -,nan,nan,nan,35,F,149,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,149,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+617,NAN,Divya -,Kittusarny -,nan,nan,nan,35,F,156,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,156,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+644,NAN,Loganathan -,nan,Nachammal -,nan,nan,50,M,166,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,166,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+647,NAN,velmani,nan,nan,Bannari -,nan,54,F,168,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,168,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+655,NAN,JENIFAR,JAGANATHAN,nan,nan,nan,25,F,173,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,173,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+733,NAN,Ramprasad -,nan,Selvi -,nan,nan,29,M,206,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,206,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+736,NAN,Arukkani -,nan,nan,Kumarasamy -,nan,52,F,210,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,210,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+763,NAN,Muthu Pandiyammal -,nan,nan,Marimuthu -,nan,41,F,222,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,222,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+766,NAN,Ramathal -,nan,nan,Velusamy -,nan,84,NAN,225,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,225,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+774,NAN,Arunkumar,Palanisamy,nan,nan,nan,24,M,229,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,229,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+823,NAN,Saraswathy -,nan,nan,Kittusamy -,nan,59,F,255,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,255,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+826,NAN,Chitra -,nan,nan,Muthusamy -,nan,33,F,257,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,257,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
+858,WJB4308698,Prem kumar,Patteaswaran,nan,nan,nan,25,M,172,nan,427,117-KAVUNDAMPALAYAM,117,172,NAN,['DUPLICATE_EPIC_ID'],True
+28,NAN,Selva Sudha -,nan,nan,Saint Petar -,nan,41,F,5-52,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-52,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
+117,NAN,Rangaju -,Pichai -,nan,nan,nan,63,M,147,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,147,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
+125,NAN,Kannammal Subbiramaniyan,nan,nan,Subbiramaniyan,nan,46,F,270,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,270,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
+147,NAN,Palanisamy -,Maruthappan -,nan,nan,nan,81,M,c152-153,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,C152-153,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
+177,NAN,JESLIN jeslin,nan,nan,Sunil Rajesh Sunil Rajesh,nan,37,F,house,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,HOUSE,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
+216,NAN,Thangavel -,Thangaraj -,nan,nan,nan,51,M,5-63,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,5-63,2-WARD NO 1S P NAGAR,['EPIC_ID_MISSING'],True
+222,WJB4684791,Raju Raman,Raman,nan,nan,nan,0,NAN,5,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,5,2-WARD NO 1S P NAGAR,['DUPLICATE_DETAILS'],True
+223,WJB4684882,Raju Raman,Raman,nan,nan,nan,0,NAN,5,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,5,2-WARD NO 1S P NAGAR,['DUPLICATE_DETAILS'],True
+274,NAN,Ananthi -,Yuvaraj,nan,nan,nan,60,F,9-39a,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-39A,2-WARD NO 1S P NAGAR,['EPIC_ID_MISSING'],True
+301,NAN,Yogeshrajaa E,Eswaramoorthy -,nan,nan,nan,40,M,26,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,26,2-WARD NO 1S P NAGAR,['EPIC_ID_MISSING'],True
+340,NAN,Shobana -,Srithar -,nan,nan,nan,33,F,1,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+359,NAN,Devikarani -,nan,nan,Poovalingam -,nan,73,F,1X,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1X,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+389,NAN,Kathirvel -,Kaliyappan -,nan,nan,nan,46,M,6-1,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,6-1,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+392,NAN,Theventhiran -,Balasubramaniyan -,nan,nan,nan,36,M,6-29,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,6-29,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+395,NAN,Nandhini -,Ponnan -,nan,nan,nan,38,F,7,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,7,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+520,NAN,Krishnamuthi -,Parasuraman -,nan,nan,nan,73,M,G1,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,G1,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
+587,NAN,Geetha Gayathri,nan,nan,Nipendar,nan,40,F,E-4,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,E-4,4-WARD NO 1 SHANTHAM APARTMENTS,['EPIC_ID_MISSING'],True
+590,NAN,Kowsalyadevi -,Thirumurugan -,nan,nan,nan,34,F,na,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,NA,4-WARD NO 1 SHANTHAM APARTMENTS,['EPIC_ID_MISSING'],True
+645,NAN,Anoop Gopikumar -,Gopikumar -,nan,nan,nan,41,M,18-184,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,18-184,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),['EPIC_ID_MISSING'],True
+702,NAN,Narayanasami -,Chinnsami -,nan,nan,nan,6,M,G2,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,G2,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),['EPIC_ID_MISSING'],True
+720,NAN,Praveena -,nan,nan,Ashok kumar -,nan,42,F,3,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,3,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),['EPIC_ID_MISSING'],True
+739,NAN,Antony Aru! Prakash -,Balu -,nan,nan,nan,50,M,D-11,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,D-11,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),['EPIC_ID_MISSING'],True
+769,NAN,varsshini -,venkitapathy -,nan,nan,nan,27,F,9,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9,8-WARD NO 1 SUBRAMANIAM LAYOUT,['EPIC_ID_MISSING'],True
+810,NAN,Subash,Ramachandran,nan,nan,nan,27,M,1/3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+897,NAN,Kavitha -,nan,nan,Suresh -,nan,48,F,7B,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,7B,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+900,NAN,Banumathi -,nan,nan,Sivasuppramaniya -,nan,67,F,8,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,8,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+1016,NAN,Sugumaran -,Somasundaram -,nan,nan,nan,75,M,30-B,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,30-B,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+1057,NAN,Yogalakshmi -,nan,nan,dhandapani -,nan,41,NAN,1044,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1044,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+1076,NAN,nan,nan,nan,Dhamodharan,nan,63,F,"No.2,",9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,"NO.2,",9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+1079,NAN,nan,nan,nan,Kumar,nan,47,F,no,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,NO,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+1154,NAN,Selvapriya -,nan,nan,Sampath -,nan,36,F,1-1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1-1,11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
+1174,NAN,Santha Priya -,Marimuthu -,nan,nan,nan,33,F,9-9,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-9,11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
+1177,NAN,Kumar -,Billan -,nan,nan,nan,68,M,9-23A1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-23A1,11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
+1234,NAN,KARTHIKEYAN R,RAVICHANDRAN,nan,nan,nan,0,NAN,"NO.15,",11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,"NO.15,",11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
+1237,NAN,Gopalakrishnan -,Parameswara lyer -,nan,nan,nan,65,M,SF3,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,SF3,11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
+1285,NAN,Kumar -,Sellappan -,nan,nan,nan,53,M,12-S-6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-S-6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,['EPIC_ID_MISSING'],True
+1308,NAN,! Archana,R lyyappan,nan,nan,nan,21,F,No,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,NO,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,['EPIC_ID_MISSING'],True
+1315,NAN,Priyanka,Suriya Prkash M,nan,nan,nan,29,F,VB-188,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,VB-188,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,['EPIC_ID_MISSING'],True
+1319,NAN,JEEN FROID,nan,nan,FROID JOSEPH,nan,45,F,3,14-Ward No 14 V R V Nagar Nikethan Apartments,95,117-KAVUNDAMPALAYAM,117,3,14-WARD NO 14 V R V NAGAR NIKETHAN APARTMENTS,['EPIC_ID_MISSING'],True
+1320,NAN,Visvanathan -,Sundaram -,nan,nan,nan,37,M,6,14-Ward No 14 V R V Nagar Nikethan Apartments,95,117-KAVUNDAMPALAYAM,117,6,14-WARD NO 14 V R V NAGAR NIKETHAN APARTMENTS,['EPIC_ID_MISSING'],True
+1333,NAN,Vigayalakhshmi cv,nan,nan,Manohar Parasuraman,nan,55,F,143,999-Overseas Electors,95,117-KAVUNDAMPALAYAM,117,143,999-OVERSEAS ELECTORS,['EPIC_ID_MISSING'],True
+1334,NAN,Radheesh,Dhanasegaran,nan,nan,nan,32,M,a,999-Overseas Electors,95,117-KAVUNDAMPALAYAM,117,A,999-OVERSEAS ELECTORS,['EPIC_ID_MISSING'],True
+1335,NAN,Karthikeyan,Sathasivan,nan,nan,nan,29,M,unit,999-Overseas Electors,95,117-KAVUNDAMPALAYAM,117,UNIT,999-OVERSEAS ELECTORS,['EPIC_ID_MISSING'],True

@@ -1,32 +1,54 @@
 from models import reasons
+import pandas as pd
 
 
 def apply_global_duplicate_rules(df):
     """
     Apply booth-independent duplicate checks.
-    These run on the FULL dataset before hierarchical segregation.
     """
 
     # -------------------------------------------------
-    # 1. DUPLICATE_EPIC_ID (global)
+    # NORMALIZE EPIC ID
     # -------------------------------------------------
+    epic_raw = df["epic_id"]
+
     epic_norm = (
-        df["epic_id"]
+        epic_raw
         .astype(str)
         .str.strip()
         .str.upper()
     )
 
-    dup_epic_mask = epic_norm.duplicated(keep=False)
+    # -------------------------------------------------
+    # 0. EPIC_ID_MISSING (GLOBAL)
+    # -------------------------------------------------
+    missing_mask = (
+        epic_raw.isna() |
+        epic_norm.isin(["", "NAN", "NONE"])
+    )
 
-    for idx in df[dup_epic_mask].index:
+    for idx in df[missing_mask].index:
+        if reasons.EPIC_ID_MISSING not in df.at[idx, "suspect_reasons"]:
+            df.at[idx, "suspect_reasons"].append(
+                reasons.EPIC_ID_MISSING
+            )
+
+    # -------------------------------------------------
+    # 1. DUPLICATE_EPIC_ID (GLOBAL, VALID ONLY)
+    # -------------------------------------------------
+    valid_mask = ~missing_mask
+    valid_epic = epic_norm[valid_mask]
+
+    dup_mask = valid_epic.duplicated(keep=False)
+
+    for idx in valid_epic[dup_mask].index:
         if reasons.DUPLICATE_EPIC_ID not in df.at[idx, "suspect_reasons"]:
             df.at[idx, "suspect_reasons"].append(
                 reasons.DUPLICATE_EPIC_ID
             )
 
     # -------------------------------------------------
-    # 2. DUPLICATE_DETAILS (global)
+    # 2. DUPLICATE_DETAILS (GLOBAL)
     # -------------------------------------------------
     detail_cols = [
         "name",
@@ -37,9 +59,9 @@ def apply_global_duplicate_rules(df):
         "age",
         "gender",
         "house_no",
+        "street",
     ]
 
-    # Normalize details strictly
     norm_df = df[detail_cols].copy()
     for col in detail_cols:
         norm_df[col] = (
@@ -49,12 +71,21 @@ def apply_global_duplicate_rules(df):
             .str.upper()
         )
 
-    detail_groups = norm_df.groupby(detail_cols)
+    groups = norm_df.groupby(detail_cols, dropna=False)
 
-    for _, grp in detail_groups:
+    for _, grp in groups:
         if len(grp) > 1:
-            epic_ids = df.loc[grp.index, "epic_id"].astype(str).str.upper()
-            if epic_ids.nunique() > 1:
+            epics = (
+                df.loc[grp.index, "epic_id"]
+                .astype(str)
+                .str.strip()
+                .str.upper()
+            )
+
+            # ignore missing EPIC IDs
+            valid_epics = epics[~epics.isin(["", "NAN", "NONE"])]
+
+            if valid_epics.nunique() > 1:
                 for idx in grp.index:
                     if reasons.DUPLICATE_DETAILS not in df.at[idx, "suspect_reasons"]:
                         df.at[idx, "suspect_reasons"].append(

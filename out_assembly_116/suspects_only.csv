@@ -1,56 +1,62 @@
 serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gender,house_no,street,part_no,assembly,assembly_no,house_no_norm,street_norm,suspect_reasons,is_suspect
-113,DHH5473301,Loganathan - v,Ranga,nan,nan,nan,0,NAN,nan,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,NAN,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
-160,NHH0469429,Ravikumar -,Palanisamy -,nan,nan,nan,41,M,26,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,26,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
+113,DHH5473301,Loganathan - ou,Panga,nan,nan,nan,0,NAN,nan,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,NAN,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
 198,NHH2352482,ramalakshmi Ae,nan,nan,nan,nan,0,NAN,nan,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,NAN,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
-337,NHH1608627,Naveen kumar -,Chinnasamy -,nan,nan,nan,27,M,77,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,77,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
+337,NHH1608827,Naveen kumar -,Chinnasamy -,nan,nan,nan,27,M,77,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,77,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
 338,NHH1675255,Naveen kumar -,Chinnasamy -,nan,nan,nan,27,M,77,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,77,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
 434,NHH2697829,Arumugam -,Rangan -,nan,nan,nan,50,M,114,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,114,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
 435,NHHO0992131,Arumugam -,Rangan -,nan,nan,nan,50,M,114,1-Karupparayan Kovil Street Ward No-9,244,116-SULUR,116,114,1-KARUPPARAYAN KOVIL STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-483,NHH1240514,Senthilkumar -,Natesan -,nan,nan,nan,46,M,3,2-Water Tank Street Ward No-9,244,116-SULUR,116,3,2-WATER TANK STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-484,NHH1240761,Janaki -,nan,nan,Senthilkumar -,nan,38,F,3,2-Water Tank Street Ward No-9,244,116-SULUR,116,3,2-WATER TANK STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-596,NHH1239706,Ramakrishnan -,Shanmugam -,nan,nan,nan,32,M,12,2-Water Tank Street Ward No-9,244,116-SULUR,116,12,2-WATER TANK STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-691,NHH1381898,Loganathan - ev,suns -,nan,nan,nan,0,NAN,nan,2-Water Tank Street Ward No-9,244,116-SULUR,116,NAN,2-WATER TANK STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
+691,NHH1381898,Loganathan - ev,suns .,nan,nan,nan,0,NAN,nan,2-Water Tank Street Ward No-9,244,116-SULUR,116,NAN,2-WATER TANK STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
 755,NHH3642865,NAVEEN,SAKTHIVEL,nan,nan,nan,22,M,38/1,2-Water Tank Street Ward No-9,244,116-SULUR,116,38/1,2-WATER TANK STREET WARD NO-9,['DUPLICATE_DETAILS'],True
 756,NHH3541430,NAVEEN,SAKTHIVEL,nan,nan,nan,22,M,38/1,2-Water Tank Street Ward No-9,244,116-SULUR,116,38/1,2-WATER TANK STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-901,NHH0851071,Vijayalakshmi = 0,nan,nan,Mea,nan,0,NAN,nan,2-Water Tank Street Ward No-9,244,116-SULUR,116,NAN,2-WATER TANK STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
+901,NHH0851071,Vijayalakshmi ~ Au,nan,nan,Mea,nan,0,NAN,nan,2-Water Tank Street Ward No-9,244,116-SULUR,116,NAN,2-WATER TANK STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
 1176,NHH2352482,ramalakshmi,nan,nan,muthu,nan,43,F,37C,nan,244,116-SULUR,116,37C,NAN,['DUPLICATE_EPIC_ID'],True
-1177,DHH5473301,Loganathan -,Rangasamy -,nan,nan,nan,41,M,6/1,nan,244,116-SULUR,116,6/1,NAN,['DUPLICATE_EPIC_ID'],True
-31,NHH1643717,Senthilkumar -,Natesan -,nan,nan,nan,46,M,3,1-West Street Ward No-9,245,116-SULUR,116,3,1-WEST STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-32,NHH1643725,Janaki -,nan,nan,Senthilkumar -,nan,38,F,3,1-West Street Ward No-9,245,116-SULUR,116,3,1-WEST STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-103,NHHO0533893,Ramakrishnan -,Shanmugam -,nan,nan,nan,32,M,12,1-West Street Ward No-9,245,116-SULUR,116,12,1-WEST STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-151,NHH0533836,Ravikumar -,Palanisamy -,nan,nan,nan,41,M,26,1-West Street Ward No-9,245,116-SULUR,116,26,1-WEST STREET WARD NO-9,['DUPLICATE_DETAILS'],True
-728,NHH1381898,Loganathan -,Subramaniyam -,nan,nan,nan,39,M,9/14,nan,245,116-SULUR,116,9/14,NAN,['DUPLICATE_EPIC_ID'],True
-732,NHH0851071,Vijayalakshmi -,nan,nan,Murali -,nan,40,F,45,nan,245,116-SULUR,116,45,NAN,['DUPLICATE_EPIC_ID'],True
-596,SE,nan,nan,nan,nan,nan,0,NAN,nan,1-Ratchakar Street Ward No-10,246,116-SULUR,116,NAN,1-RATCHAKAR STREET WARD NO-10,"['DUPLICATE_EPIC_ID', 'DUPLICATE_DETAILS']",True
-926,NS,nan,nan,nan,nan,nan,0,NAN,nan,3-South Street Ward No-10,246,116-SULUR,116,NAN,3-SOUTH STREET WARD NO-10,['DUPLICATE_DETAILS'],True
-1200,NHH3446127,sunil,palanisamy,nan,nan,nan,21,M,33,nan,246,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
-1201,NHH3648706,MATHAN MATHAN RAJ,PALANISAMY M,nan,nan,nan,19,M,35,nan,246,116-SULUR,116,35,NAN,['DUPLICATE_EPIC_ID'],True
-1202,NHH3446549,arun prasath,ammasai yappan,nan,nan,nan,22,M,3,nan,246,116-SULUR,116,3,NAN,['DUPLICATE_EPIC_ID'],True
-1209,DHH6038301,Velmurugan -,Rangasamy -,nan,nan,nan,40,M,47,nan,246,116-SULUR,116,47,NAN,['DUPLICATE_EPIC_ID'],True
-1210,NHH0128785,Suresh -,Rangasamy -,nan,nan,nan,37,M,42,nan,246,116-SULUR,116,42,NAN,['DUPLICATE_EPIC_ID'],True
-753,NHH2755940,Velusamy - ou,Pane,nan,nan,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-755,NHH0130153,Padmavathi - D,nan,nan,Vetus .,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-783,NHH1128743,Vijayakumar -,Balakrishnan -,nan,nan,nan,37,M,49,2-West Street Ward No-10,247,116-SULUR,116,49,2-WEST STREET WARD NO-10,['DUPLICATE_DETAILS'],True
-815,NHH3509478,BALASUBRA N,PA,nan,nan,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-1088,NHH3509478,BALASUBRAMANIAYAN,PALANISAMY,nan,nan,nan,48,M,17/23,nan,247,116-SULUR,116,17/23,NAN,['DUPLICATE_EPIC_ID'],True
-47,NHH3446549,arun prasath YQ,am By,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-50,NHH1129295,Prabhavathi - &,nan,nan,vee,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-398,NHH3446127,sunil XY,palage,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-512,NHH0128785,Suresh - ou,Ranga,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-640,NHH3648706,"MATHAN MAT, wD",P. M,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-757,NHH2770295,Vadivel - 9),Pazbani >,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-860,NHH0471730,Senthil kumar Ze?,Avi :,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-873,DHH6038301,Velmurugan - vy,nang,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
-896,SE,nan,nan,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,"['DUPLICATE_EPIC_ID', 'DUPLICATE_DETAILS']",True
-1020,NHH0128603,Vijayakumar -,Balakrishnan -,nan,nan,nan,37,M,49,2-West Street Ward No-10,248,116-SULUR,116,49,2-WEST STREET WARD NO-10,['DUPLICATE_DETAILS'],True
-1164,NHH2812519,Kuppusamy -,Murugesan -,nan,nan,nan,53,M,49,nan,248,116-SULUR,116,49,NAN,['DUPLICATE_EPIC_ID'],True
-1173,NHH0472209,Devi -,nan,nan,Vadivel -,nan,41,F,16/25,nan,248,116-SULUR,116,16/25,NAN,['DUPLICATE_EPIC_ID'],True
-1174,NHH3336617,sathyapriya,vacivel,nan,nan,nan,23,F,16/25,nan,248,116-SULUR,116,16/25,NAN,['DUPLICATE_EPIC_ID'],True
-1175,NHH0471730,Senthil kumar -,Avinasiappan -,nan,nan,nan,52,M,131,nan,248,116-SULUR,116,131,NAN,['DUPLICATE_EPIC_ID'],True
-231,NHH3336617,sathyapriya Ae,vac,nan,nan,nan,0,NAN,nan,2-Samalapuram Ward No-10,249,116-SULUR,116,NAN,2-SAMALAPURAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
-808,NHH2812519,Kuppusamy - &,Mu s,nan,nan,nan,0,NAN,nan,3-Sendevipalayam Ward No-10,249,116-SULUR,116,NAN,3-SENDEVIPALAYAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
-949,NHH0472209,Devi - &,nan,nan,V; my,nan,0,NAN,nan,4-Bharathi Nagar Ward No-10,249,116-SULUR,116,NAN,4-BHARATHI NAGAR WARD NO-10,['DUPLICATE_EPIC_ID'],True
-1314,NHH2755940,Velusamy ~,Palanisarny -,nan,nan,nan,55,M,33,nan,249,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
-1315,NHH0130153,Padmavathi -,nan,nan,Velusamy -,nan,46,F,33,nan,249,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
-1338,NHH1129295,Prabhavathi -,nan,nan,Vadivel -,nan,41,F,15B2,nan,249,116-SULUR,116,15B2,NAN,['DUPLICATE_EPIC_ID'],True
-1339,NHH2770295,Vadivel -,Pazhanisarni -,nan,nan,nan,51,M,1582,nan,249,116-SULUR,116,1582,NAN,['DUPLICATE_EPIC_ID'],True
+1177,DHH5473301,Loganathan -,Rangasamy -,nan,nan,nan,41,M,4/1,nan,244,116-SULUR,116,4/1,NAN,['DUPLICATE_EPIC_ID'],True
+130,NAN,Perumal,Raj,nan,nan,nan,49,M,16,1-West Street Ward No-9,245,116-SULUR,116,16,1-WEST STREET WARD NO-9,['DUPLICATE_EPIC_ID'],True
+725,NHH1381898,Loganathan -,Subramaniyam -,nan,nan,nan,39,M,9/14,nan,245,116-SULUR,116,9/14,NAN,['DUPLICATE_EPIC_ID'],True
+729,NHH0851071,Vijayalakshmi -,nan,nan,Murali -,nan,40,F,45,nan,245,116-SULUR,116,45,NAN,['DUPLICATE_EPIC_ID'],True
+800,NAN,Pattu Koilpillai -,Thangapandi -,nan,nan,nan,66,M,63-94,2-East Street Ward No-10,246,116-SULUR,116,63-94,2-EAST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+888,NAN,Muthaiya -,Ayyannan -,nan,nan,nan,60,M,28E,3-South Street Ward No-10,246,116-SULUR,116,28E,3-SOUTH STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+1193,NHH3446127,sunil,palanisamy,nan,nan,nan,21,M,33,nan,246,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
+1194,NHH3648706,MATHAN MATHAN RAJ,PALANISAMY M,nan,nan,nan,19,M,35,nan,246,116-SULUR,116,35,NAN,['DUPLICATE_EPIC_ID'],True
+1195,NHH3446549,arun prasath,ammasai yappan,nan,nan,nan,22,M,3,nan,246,116-SULUR,116,3,NAN,['DUPLICATE_EPIC_ID'],True
+1202,DHH6038301,nan,Rangasamy -,nan,nan,nan,40,M,47,nan,246,116-SULUR,116,47,NAN,['DUPLICATE_EPIC_ID'],True
+1203,NHH0128785,Suresh -,Rangasamy -,nan,nan,nan,37,M,42,nan,246,116-SULUR,116,42,NAN,['DUPLICATE_EPIC_ID'],True
+750,NHH2755940,Velusamy - ou,Pal Sy,nan,nan,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+752,NHH0130153,Padmavathi - D,nan,nan,see .,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+812,NHH3509478,BALASUBRA N,PA,nan,nan,nan,0,NAN,nan,2-West Street Ward No-10,247,116-SULUR,116,NAN,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+1083,NHH3509478,BALASUBRAMANIAYAN,PALANISAMY,nan,nan,nan,48,M,17/23,nan,247,116-SULUR,116,17/23,NAN,['DUPLICATE_EPIC_ID'],True
+6,NAN,Kumar mathu,maathu,nan,nan,nan,42,M,1,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,1,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+47,NHH3446549,arun prasath YQ,ares,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+50,NHH1129295,Prabhavathi - &,nan,nan,V; ny,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+327,NAN,Thangamani -,nan,nan,Palanisamy -,nan,53,F,28F,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,28F,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+397,NHH3446127,sunil &X,palapé,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+511,NHH0128785,Suresh - &v,ranges,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+639,NHH3648706,MATHAN MAT. wy,P M,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+756,NHH2770295,Vadivel - O,Pazbani -,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+858,NHH0471730,Senthil kumar ; Oo,Avi .,nan,nan,nan,0,NAN,nan,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,NAN,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+871,DHH6038301,Shivakumar -,Shanmugasundam -,nan,nan,nan,47,M,331A,1-Mariamman Kovil Street Ward No-10,248,116-SULUR,116,331A,1-MARIAMMAN KOVIL STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+1102,NAN,nan,nan,nan,sakthivel,nan,28,F,86C,2-West Street Ward No-10,248,116-SULUR,116,86C,2-WEST STREET WARD NO-10,['DUPLICATE_EPIC_ID'],True
+1159,NHH2812519,Kuppusamy -,Murugesan -,nan,nan,nan,0,M,49,nan,248,116-SULUR,116,49,NAN,['DUPLICATE_EPIC_ID'],True
+1169,NHH3336617,sathyapriya,vadivel,nan,nan,nan,23,F,16/25,nan,248,116-SULUR,116,16/25,NAN,['DUPLICATE_EPIC_ID'],True
+1170,NHH0471730,Senthil kumar -,Avinasiappan -,nan,nan,nan,52,M,131,nan,248,116-SULUR,116,131,NAN,['DUPLICATE_EPIC_ID'],True
+143,NAN,YOGAM,nan,nan,SURESH,nan,43,F,152-9,1-Ram Nagar Ward No-10,249,116-SULUR,116,152-9,1-RAM NAGAR WARD NO-10,['DUPLICATE_EPIC_ID'],True
+158,NAN,Gomathi,nan,nan,Kumar,nan,38,F,1,2-Samalapuram Ward No-10,249,116-SULUR,116,1,2-SAMALAPURAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
+229,NHH3336617,sathyapriya Ae,va at,nan,nan,nan,0,NAN,nan,2-Samalapuram Ward No-10,249,116-SULUR,116,NAN,2-SAMALAPURAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
+365,NAN,Sumathi 19),Dh,nan,nan,nan,0,NAN,nan,3-Sendevipalayam Ward No-10,249,116-SULUR,116,NAN,3-SENDEVIPALAYAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
+717,NHH3567427,KAVIN,VARATHARAJ,nan,nan,nan,19,M,124G,3-Sendevipalayam Ward No-10,249,116-SULUR,116,124G,3-SENDEVIPALAYAM WARD NO-10,['DUPLICATE_DETAILS'],True
+718,NHH3567435,KAVIN,VARATHARAJ,nan,nan,nan,19,M,124G,3-Sendevipalayam Ward No-10,249,116-SULUR,116,124G,3-SENDEVIPALAYAM WARD NO-10,['DUPLICATE_DETAILS'],True
+806,NHH2812519,Kuppusamy - ou,muryerty,nan,nan,nan,0,NAN,nan,3-Sendevipalayam Ward No-10,249,116-SULUR,116,NAN,3-SENDEVIPALAYAM WARD NO-10,['DUPLICATE_EPIC_ID'],True
+868,NAN,nan,jayaraman -,nan,nan,nan,33,M,12,4-Bharathi Nagar Ward No-10,249,116-SULUR,116,12,4-BHARATHI NAGAR WARD NO-10,['DUPLICATE_EPIC_ID'],True
+1311,NHH2755940,Velusamy ~-,Palanisarny -,nan,nan,nan,55,M,33,nan,249,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
+1312,NHH0130153,Padmavathi -,nan,nan,Velusamy -,nan,46,F,33,nan,249,116-SULUR,116,33,NAN,['DUPLICATE_EPIC_ID'],True
+1335,NHH1129295,Prabhavathi -,nan,nan,Vadivel -,nan,41,F,15B2,nan,249,116-SULUR,116,15B2,NAN,['DUPLICATE_EPIC_ID'],True
+1336,NHH2770295,Vadivel -,Pazhanisami -,nan,nan,nan,51,M,1582,nan,249,116-SULUR,116,1582,NAN,['DUPLICATE_EPIC_ID'],True
+88,NAN,Vignesh,Nataraj,nan,nan,nan,27,M,1/54,1-Nallagoundenpalayam Ward No.1,5,116-SULUR,116,1/54,1-NALLAGOUNDENPALAYAM WARD NO.1,['DUPLICATE_EPIC_ID'],True
+264,NAN,Natarajan,Krishna Goundar,nan,nan,nan,59,M,1/154,1-Nallagoundenpalayam Ward No.1,5,116-SULUR,116,1/154,1-NALLAGOUNDENPALAYAM WARD NO.1,['DUPLICATE_EPIC_ID'],True
+504,NAN,Karupathal -,nan,nan,Muthusamy -,nan,65,F,50,1-Nallagoundenpalayam Ward No.1,5,116-SULUR,116,50,1-NALLAGOUNDENPALAYAM WARD NO.1,['DUPLICATE_EPIC_ID'],True
+927,NHH2454262,Mahalingam - ou,Panga,nan,nan,nan,0,NAN,nan,2-Muthugoundenputhur Ward No.2,5,116-SULUR,116,NAN,2-MUTHUGOUNDENPUTHUR WARD NO.2,['DUPLICATE_EPIC_ID'],True
+947,NHH3684016,suganthi,murugan,nan,nan,nan,19,F,1/92,3-Nallagoundenpalayam Arijana Colony Ward No.1,5,116-SULUR,116,1/92,3-NALLAGOUNDENPALAYAM ARIJANA COLONY WARD NO.1,['DUPLICATE_DETAILS'],True
+948,NHH3684735,Suganthi,Murugan,nan,nan,nan,19,F,1/92,3-Nallagoundenpalayam Arijana Colony Ward No.1,5,116-SULUR,116,1/92,3-NALLAGOUNDENPALAYAM ARIJANA COLONY WARD NO.1,['DUPLICATE_DETAILS'],True
+964,NHH3684008,Ramya,Palanisamy,nan,nan,nan,19,F,1/130,3-Nallagoundenpalayam Arijana Colony Ward No.1,5,116-SULUR,116,1/130,3-NALLAGOUNDENPALAYAM ARIJANA COLONY WARD NO.1,['DUPLICATE_DETAILS'],True
+965,NHH3686045,Ramya,palanisamy,nan,nan,nan,19,F,1/130,3-Nallagoundenpalayam Arijana Colony Ward No.1,5,116-SULUR,116,1/130,3-NALLAGOUNDENPALAYAM ARIJANA COLONY WARD NO.1,['DUPLICATE_DETAILS'],True
+997,NHH2454262,Mahalingam -,Palanisamy -,nan,nan,nan,48,M,131a,nan,5,116-SULUR,116,131A,NAN,['DUPLICATE_EPIC_ID'],True

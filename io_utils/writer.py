@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-from collections import defaultdict
 
 
 # --------------------------------------------------
@@ -8,15 +7,40 @@ from collections import defaultdict
 # --------------------------------------------------
 
 def _norm(x):
-    """Safe, writer-level normalization (NO dependency on rule internals)"""
+    """Safe normalization for writer-level comparisons"""
     if pd.isna(x):
         return ""
     return str(x).strip().upper()
 
 
+def _location_context(df):
+    """
+    Build location context text like:
+    'in part 247 inside assembly 116'
+    """
+    parts = sorted(df["part_no"].dropna().astype(str).unique())
+    assemblies = sorted(
+        df["assembly"]
+        .dropna()
+        .astype(str)
+        .str.extract(r"(\d+)", expand=False)
+        .dropna()
+        .unique()
+    )
+
+    part_txt = f"part(s) {parts}" if parts else ""
+    asm_txt = f"assembly {assemblies}" if assemblies else ""
+
+    if part_txt and asm_txt:
+        return f"in {part_txt} inside {asm_txt}"
+    if asm_txt:
+        return f"in {asm_txt}"
+    return ""
+
+
 def _explanation_1(row, df, reason):
     """
-    WHY this particular voter was flagged (DETAILED & EVIDENCE-BASED)
+    WHY this particular voter was flagged
     """
     sn = int(row["serial_no"])
     house = row.get("house_no", "")
@@ -27,18 +51,27 @@ def _explanation_1(row, df, reason):
     # --------------------------------------------------
     # GLOBAL RULES
     # --------------------------------------------------
+    if reason == "EPIC_ID_MISSING":
+       return (
+        f"Serial number {sn} does not have a valid EPIC ID recorded, "
+        f"which is mandatory for voter identification."
+    )
+
     if reason == "DUPLICATE_EPIC_ID":
+        matches = df[df["epic_id"] == row["epic_id"]]
         others = (
-            df[df["epic_id"] == row["epic_id"]]["serial_no"]
+            matches["serial_no"]
             .dropna()
             .astype(int)
             .tolist()
         )
         others = [o for o in others if o != sn]
 
+        location = _location_context(matches)
+
         return (
             f"Serial number {sn} shares the same EPIC ID ({row['epic_id']}) "
-            f"with serial number(s) {others}."
+            f"with serial number(s) {others} {location}."
         )
 
     if reason == "DUPLICATE_DETAILS":
@@ -48,14 +81,25 @@ def _explanation_1(row, df, reason):
             (df["father_name"].apply(_norm) == _norm(row["father_name"])) &
             (df["mother_name"].apply(_norm) == _norm(row["mother_name"])) &
             (df["husband_name"].apply(_norm) == _norm(row["husband_name"])) &
+            (df["other_name"].apply(_norm) == _norm(row["other_name"])) &
             (df["age"] == row["age"]) &
             (df["gender"].apply(_norm) == _norm(row["gender"])) &
-            (df["street"].apply(_norm) == _norm(row["street"]))
-        ]["serial_no"].astype(int).tolist()
+            (df["house_no"].apply(_norm) == _norm(row["house_no"]))
+        ]
+
+        serials = matches["serial_no"].astype(int).tolist()
+        location = _location_context(matches)
+
+        if serials:
+            return (
+                f"Serial number {sn} has identical personal and family details "
+                f"as serial number(s) {serials} {location}, "
+                f"but appears under a different EPIC ID."
+            )
 
         return (
             f"Serial number {sn} has identical personal and family details "
-            f"as serial number(s) {matches}, but appears under a different EPIC ID."
+            f"as another voter {location}, but appears under a different EPIC ID."
         )
 
     # --------------------------------------------------
@@ -69,8 +113,9 @@ def _explanation_1(row, df, reason):
 
     if reason == "ADOPTED_NO_RELATIVE":
         return (
-            f"Serial number {sn} has no valid family linkage with any other "
-            f"voter in the same house."
+            f"Serial number {sn} does not have any valid parent or spouse "
+            f"relationship with other voters in house number {house} "
+            f"on street '{street}'."
         )
 
     if reason == "SAME_NAME_IN_SAME_HOUSE":
@@ -84,6 +129,8 @@ def _explanation_1(row, df, reason):
             (df["serial_no"] != sn) &
             (df["name"].apply(_norm) == _norm(row["name"])) &
             (df["father_name"].apply(_norm) == _norm(row["father_name"])) &
+            (df["mother_name"].apply(_norm) == _norm(row["mother_name"])) &
+            (df["husband_name"].apply(_norm) == _norm(row["husband_name"])) &
             (df["age"] == row["age"]) &
             (df["gender"].apply(_norm) == _norm(row["gender"])) &
             (df["house_no"] != row["house_no"])
@@ -93,8 +140,8 @@ def _explanation_1(row, df, reason):
         serials = matches["serial_no"].astype(int).tolist()
 
         return (
-            f"Serial number {sn} has identical personal details as "
-            f"serial number(s) {serials}, but appears under different "
+            f"Serial number {sn} has identical personal and family details "
+            f"as serial number(s) {serials}, but appears under different "
             f"house number(s): {doors}."
         )
 
@@ -102,14 +149,14 @@ def _explanation_1(row, df, reason):
     # BULK / ADDRESS RULES
     # --------------------------------------------------
     if reason == "BULK_10_PLUS":
-        house_count = df[
+        count = df[
             (df["house_no"] == row["house_no"]) &
             (df["street"] == row["street"])
         ].shape[0]
 
         return (
             f"House number {house} on street '{street}' contains "
-            f"{house_count} voters including serial number {sn}, "
+            f"{count} registered voters including serial number {sn}, "
             f"which exceeds the household size threshold."
         )
 
@@ -153,7 +200,7 @@ def write_outputs(df, output_dir):
 
 
 # --------------------------------------------------
-# EXCEL SUMMARY (FINAL — SINGLE EXPLANATION COLUMN)
+# EXCEL SUMMARY (FINAL)
 # --------------------------------------------------
 
 def write_excel_summary(df, output_dir):

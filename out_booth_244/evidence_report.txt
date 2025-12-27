@@ -8,7 +8,7 @@ Total flagged: 61
 ----------------------------------------------------
 EPIC: NHH2757672
 Serial No: 56
-Name: Amulraj -
+Name: Amulraj 
 House: 7
 Reasons:
  - ADOPTED_NO_RELATIVE

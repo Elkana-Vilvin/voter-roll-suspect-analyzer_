@@ -1,6 +1,7 @@
 from models import reasons
 from utils.names import normalize
 import re
+import pandas as pd
 
 
 def apply_id_age_rules(df):
@@ -9,32 +10,57 @@ def apply_id_age_rules(df):
     """
 
     # --------------------------------------------------
-    # INVALID_EPIC_ID (GLOBAL + LOCAL)
-    # Format: 3 letters + 7 digits (AAA1234567)
+    # NORMALIZE EPIC ID ONCE
     # --------------------------------------------------
-    epic_pattern = re.compile(r"^[A-Z]{3}\d{7}$")
+    epic_raw = df["epic_id"]
 
-    for idx, row in df.iterrows():
-        epic = str(row["epic_id"]).strip().upper()
-        if not epic_pattern.match(epic):
+    epic_norm = (
+        epic_raw
+        .astype(str)
+        .str.strip()
+        .str.upper()
+    )
+
+    # --------------------------------------------------
+    # EPIC_ID_MISSING (GLOBAL + LOCAL)
+    # --------------------------------------------------
+    missing_mask = (
+        epic_raw.isna() |
+        epic_norm.isin(["", "NAN", "NONE"])
+    )
+
+    for idx in df[missing_mask].index:
+        if reasons.EPIC_ID_MISSING not in df.at[idx, "suspect_reasons"]:
             df.at[idx, "suspect_reasons"].append(
-                reasons.INVALID_EPIC_ID
+                reasons.EPIC_ID_MISSING
             )
 
     # --------------------------------------------------
-    # DUPLICATE_EPIC_ID (same file only)
+    # INVALID_EPIC_ID (FORMAT CHECK — ONLY IF PRESENT)
+    # Format: AAA1234567
     # --------------------------------------------------
-    epic_counts = (
-        df["epic_id"]
-        .astype(str)
-        .str.strip()
-        .value_counts()
-    )
+    epic_pattern = re.compile(r"^[A-Z]{3}\d{7}$")
 
-    duplicate_epics = epic_counts[epic_counts > 1].index.tolist()
+    valid_mask = ~missing_mask
 
-    for idx, row in df.iterrows():
-        if str(row["epic_id"]).strip() in duplicate_epics:
+    for idx in df[valid_mask].index:
+        epic = epic_norm.loc[idx]
+
+        if not epic_pattern.fullmatch(epic):
+            if reasons.INVALID_EPIC_ID not in df.at[idx, "suspect_reasons"]:
+                df.at[idx, "suspect_reasons"].append(
+                    reasons.INVALID_EPIC_ID
+                )
+
+    # --------------------------------------------------
+    # DUPLICATE_EPIC_ID (VALID EPIC ONLY)
+    # --------------------------------------------------
+    valid_epics = epic_norm[valid_mask]
+
+    dup_mask = valid_epics.duplicated(keep=False)
+
+    for idx in valid_epics[dup_mask].index:
+        if reasons.DUPLICATE_EPIC_ID not in df.at[idx, "suspect_reasons"]:
             df.at[idx, "suspect_reasons"].append(
                 reasons.DUPLICATE_EPIC_ID
             )
@@ -43,16 +69,21 @@ def apply_id_age_rules(df):
     # AGE RULES
     # --------------------------------------------------
     for idx, row in df.iterrows():
-        age = int(row["age"])
+        try:
+            age = int(row["age"])
+        except Exception:
+            age = -1
 
         if age <= 0:
-            df.at[idx, "suspect_reasons"].append(
-                reasons.AGE_ZERO_OR_INVALID
-            )
+            if reasons.AGE_ZERO_OR_INVALID not in df.at[idx, "suspect_reasons"]:
+                df.at[idx, "suspect_reasons"].append(
+                    reasons.AGE_ZERO_OR_INVALID
+                )
         elif age < 18:
-            df.at[idx, "suspect_reasons"].append(
-                reasons.UNDER_18
-            )
+            if reasons.UNDER_18 not in df.at[idx, "suspect_reasons"]:
+                df.at[idx, "suspect_reasons"].append(
+                    reasons.UNDER_18
+                )
 
     # --------------------------------------------------
     # COPY_SAME_PERSON_DIFFERENT_DOOR (STRICT MATCH)
@@ -76,6 +107,7 @@ def apply_id_age_rules(df):
     for _, grp in df.groupby(identity_cols, dropna=False):
         if grp["house_no"].nunique() > 1:
             for idx in grp.index:
-                df.at[idx, "suspect_reasons"].append(
-                    reasons.COPY_SAME_PERSON_DIFFERENT_DOOR
-                )
+                if reasons.COPY_SAME_PERSON_DIFFERENT_DOOR not in df.at[idx, "suspect_reasons"]:
+                    df.at[idx, "suspect_reasons"].append(
+                        reasons.COPY_SAME_PERSON_DIFFERENT_DOOR
+                    )

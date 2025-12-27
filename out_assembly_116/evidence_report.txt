@@ -1,23 +1,12 @@
 EVIDENCE-BACKED SUSPECT REPORT
 ============================================================
-Total voters: 6753
-Total suspects: 55
+Total voters: 7739
+Total suspects: 61
 
 Reason: DUPLICATE_DETAILS
-Total flagged: 19
+Total flagged: 12
 ----------------------------------------------------
-EPIC: NHH0469429
-Serial No: 160
-Name: Ravikumar -
-House: 26
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH1608627
+EPIC: NHH1608827
 Serial No: 337
 Name: Naveen kumar -
 House: 77
@@ -61,39 +50,6 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHH1240514
-Serial No: 483
-Name: Senthilkumar -
-House: 3
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH1240761
-Serial No: 484
-Name: Janaki -
-House: 3
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH1239706
-Serial No: 596
-Name: Ramakrishnan -
-House: 12
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
 EPIC: NHH3642865
 Serial No: 755
 Name: NAVEEN
@@ -116,10 +72,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHH1643717
-Serial No: 31
-Name: Senthilkumar -
-House: 3
+EPIC: NHH3567427
+Serial No: 717
+Name: KAVIN
+House: 124G
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -127,10 +83,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHH1643725
-Serial No: 32
-Name: Janaki -
-House: 3
+EPIC: NHH3567435
+Serial No: 718
+Name: KAVIN
+House: 124G
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -138,10 +94,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHHO0533893
-Serial No: 103
-Name: Ramakrishnan -
-House: 12
+EPIC: NHH3684016
+Serial No: 947
+Name: suganthi
+House: 1/92
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -149,10 +105,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHH0533836
-Serial No: 151
-Name: Ravikumar -
-House: 26
+EPIC: NHH3684735
+Serial No: 948
+Name: Suganthi
+House: 1/92
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -160,22 +116,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: SE
-Serial No: 596
-Name: nan
-House: nan
-Reasons:
- - DUPLICATE_EPIC_ID
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NS
-Serial No: 926
-Name: nan
-House: nan
+EPIC: NHH3684008
+Serial No: 964
+Name: Ramya
+House: 1/130
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -183,33 +127,10 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
-EPIC: NHH1128743
-Serial No: 783
-Name: Vijayakumar -
-House: 49
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: SE
-Serial No: 896
-Name: nan
-House: nan
-Reasons:
- - DUPLICATE_EPIC_ID
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH0128603
-Serial No: 1020
-Name: Vijayakumar -
-House: 49
+EPIC: NHH3686045
+Serial No: 965
+Name: Ramya
+House: 1/130
 Reasons:
  - DUPLICATE_DETAILS
 
@@ -218,11 +139,11 @@ Explanation:
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
 Reason: DUPLICATE_EPIC_ID
-Total flagged: 38
+Total flagged: 49
 ----------------------------------------------------
 EPIC: DHH5473301
 Serial No: 113
-Name: Loganathan - v
+Name: Loganathan - ou
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -255,7 +176,7 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH0851071
 Serial No: 901
-Name: Vijayalakshmi = 0
+Name: Vijayalakshmi ~ Au
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -278,7 +199,7 @@ Explanation:
 EPIC: DHH5473301
 Serial No: 1177
 Name: Loganathan -
-House: 6/1
+House: 4/1
 Reasons:
  - DUPLICATE_EPIC_ID
 
@@ -286,8 +207,19 @@ Explanation:
   EPIC ID 'DHH5473301' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
+EPIC: NAN
+Serial No: 130
+Name: Perumal
+House: 16
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
 EPIC: NHH1381898
-Serial No: 728
+Serial No: 725
 Name: Loganathan -
 House: 9/14
 Reasons:
@@ -298,7 +230,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0851071
-Serial No: 732
+Serial No: 729
 Name: Vijayalakshmi -
 House: 45
 Reasons:
@@ -308,20 +240,30 @@ Explanation:
   EPIC ID 'NHH0851071' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: SE
-Serial No: 596
-Name: nan
-House: nan
+EPIC: NAN
+Serial No: 800
+Name: Pattu Koilpillai -
+House: 63-94
 Reasons:
  - DUPLICATE_EPIC_ID
- - DUPLICATE_DETAILS
 
 Explanation:
-  EPIC ID 'SE' appears more than once in this booth
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 888
+Name: Muthaiya -
+House: 28E
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3446127
-Serial No: 1200
+Serial No: 1193
 Name: sunil
 House: 33
 Reasons:
@@ -332,7 +274,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3648706
-Serial No: 1201
+Serial No: 1194
 Name: MATHAN MATHAN RAJ
 House: 35
 Reasons:
@@ -343,7 +285,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3446549
-Serial No: 1202
+Serial No: 1195
 Name: arun prasath
 House: 3
 Reasons:
@@ -354,8 +296,8 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: DHH6038301
-Serial No: 1209
-Name: Velmurugan -
+Serial No: 1202
+Name: nan
 House: 47
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -365,7 +307,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0128785
-Serial No: 1210
+Serial No: 1203
 Name: Suresh -
 House: 42
 Reasons:
@@ -376,7 +318,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2755940
-Serial No: 753
+Serial No: 750
 Name: Velusamy - ou
 House: nan
 Reasons:
@@ -387,7 +329,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0130153
-Serial No: 755
+Serial No: 752
 Name: Padmavathi - D
 House: nan
 Reasons:
@@ -398,7 +340,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3509478
-Serial No: 815
+Serial No: 812
 Name: BALASUBRA N
 House: nan
 Reasons:
@@ -409,7 +351,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3509478
-Serial No: 1088
+Serial No: 1083
 Name: BALASUBRAMANIAYAN
 House: 17/23
 Reasons:
@@ -417,6 +359,17 @@ Reasons:
 
 Explanation:
   EPIC ID 'NHH3509478' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 6
+Name: Kumar mathu
+House: 1
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3446549
@@ -441,9 +394,20 @@ Explanation:
   EPIC ID 'NHH1129295' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
+EPIC: NAN
+Serial No: 327
+Name: Thangamani -
+House: 28F
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
 EPIC: NHH3446127
-Serial No: 398
-Name: sunil XY
+Serial No: 397
+Name: sunil &X
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -453,8 +417,8 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0128785
-Serial No: 512
-Name: Suresh - ou
+Serial No: 511
+Name: Suresh - &v
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -464,8 +428,8 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3648706
-Serial No: 640
-Name: MATHAN MAT, wD
+Serial No: 639
+Name: MATHAN MAT. wy
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -475,8 +439,8 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2770295
-Serial No: 757
-Name: Vadivel - 9)
+Serial No: 756
+Name: Vadivel - O
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -486,8 +450,8 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0471730
-Serial No: 860
-Name: Senthil kumar Ze?
+Serial No: 858
+Name: Senthil kumar ; Oo
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -497,9 +461,9 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: DHH6038301
-Serial No: 873
-Name: Velmurugan - vy
-House: nan
+Serial No: 871
+Name: Shivakumar -
+House: 331A
 Reasons:
  - DUPLICATE_EPIC_ID
 
@@ -507,20 +471,19 @@ Explanation:
   EPIC ID 'DHH6038301' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: SE
-Serial No: 896
+EPIC: NAN
+Serial No: 1102
 Name: nan
-House: nan
+House: 86C
 Reasons:
  - DUPLICATE_EPIC_ID
- - DUPLICATE_DETAILS
 
 Explanation:
-  EPIC ID 'SE' appears more than once in this booth
+  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2812519
-Serial No: 1164
+Serial No: 1159
 Name: Kuppusamy -
 House: 49
 Reasons:
@@ -530,19 +493,8 @@ Explanation:
   EPIC ID 'NHH2812519' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NHH0472209
-Serial No: 1173
-Name: Devi -
-House: 16/25
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NHH0472209' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH3336617
-Serial No: 1174
+Serial No: 1169
 Name: sathyapriya
 House: 16/25
 Reasons:
@@ -553,7 +505,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0471730
-Serial No: 1175
+Serial No: 1170
 Name: Senthil kumar -
 House: 131
 Reasons:
@@ -563,8 +515,30 @@ Explanation:
   EPIC ID 'NHH0471730' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
+EPIC: NAN
+Serial No: 143
+Name: YOGAM
+House: 152-9
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 158
+Name: Gomathi
+House: 1
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
 EPIC: NHH3336617
-Serial No: 231
+Serial No: 229
 Name: sathyapriya Ae
 House: nan
 Reasons:
@@ -574,9 +548,20 @@ Explanation:
   EPIC ID 'NHH3336617' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
+EPIC: NAN
+Serial No: 365
+Name: Sumathi 19)
+House: nan
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
 EPIC: NHH2812519
-Serial No: 808
-Name: Kuppusamy - &
+Serial No: 806
+Name: Kuppusamy - ou
 House: nan
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -585,20 +570,20 @@ Explanation:
   EPIC ID 'NHH2812519' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NHH0472209
-Serial No: 949
-Name: Devi - &
-House: nan
+EPIC: NAN
+Serial No: 868
+Name: nan
+House: 12
 Reasons:
  - DUPLICATE_EPIC_ID
 
 Explanation:
-  EPIC ID 'NHH0472209' appears more than once in this booth
+  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2755940
-Serial No: 1314
-Name: Velusamy ~
+Serial No: 1311
+Name: Velusamy ~-
 House: 33
 Reasons:
  - DUPLICATE_EPIC_ID
@@ -608,7 +593,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0130153
-Serial No: 1315
+Serial No: 1312
 Name: Padmavathi -
 House: 33
 Reasons:
@@ -619,7 +604,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH1129295
-Serial No: 1338
+Serial No: 1335
 Name: Prabhavathi -
 House: 15B2
 Reasons:
@@ -630,7 +615,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2770295
-Serial No: 1339
+Serial No: 1336
 Name: Vadivel -
 House: 1582
 Reasons:
@@ -638,5 +623,60 @@ Reasons:
 
 Explanation:
   EPIC ID 'NHH2770295' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 88
+Name: Vignesh
+House: 1/54
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 264
+Name: Natarajan
+House: 1/154
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 504
+Name: Karupathal -
+House: 50
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NAN' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHH2454262
+Serial No: 927
+Name: Mahalingam - ou
+House: nan
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NHH2454262' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHH2454262
+Serial No: 997
+Name: Mahalingam -
+House: 131a
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'NHH2454262' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
