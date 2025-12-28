@@ -13,7 +13,7 @@ Ser No: 8745
 Ser No: 8761
 Ser No: 8762
 
-DUPLICATE_EPIC_ID - total suspects ---- 49
+DUPLICATE_EPIC_ID - total suspects ---- 36
 --------------------------------------------------
 Ser No: 1180
 Ser No: 1265
@@ -21,11 +21,8 @@ Ser No: 1758
 Ser No: 1968
 Ser No: 2243
 Ser No: 2244
-Ser No: 2376
 Ser No: 2971
 Ser No: 2975
-Ser No: 3775
-Ser No: 3863
 Ser No: 4168
 Ser No: 4169
 Ser No: 4170
@@ -35,33 +32,39 @@ Ser No: 4930
 Ser No: 4932
 Ser No: 4992
 Ser No: 5263
-Ser No: 5285
 Ser No: 5326
 Ser No: 5329
-Ser No: 5606
 Ser No: 5676
 Ser No: 5790
 Ser No: 5918
 Ser No: 6035
 Ser No: 6137
 Ser No: 6150
-Ser No: 6381
 Ser No: 6438
 Ser No: 6448
 Ser No: 6449
-Ser No: 6601
-Ser No: 6616
 Ser No: 6687
-Ser No: 6823
 Ser No: 7264
-Ser No: 7326
 Ser No: 7769
 Ser No: 7770
 Ser No: 7793
 Ser No: 7794
+Ser No: 8724
+Ser No: 8794
+
+EPIC_ID_MISSING - total suspects ---- 13
+--------------------------------------------------
+Ser No: 2376
+Ser No: 3775
+Ser No: 3863
+Ser No: 5285
+Ser No: 5606
+Ser No: 6381
+Ser No: 6601
+Ser No: 6616
+Ser No: 6823
+Ser No: 7326
 Ser No: 7885
 Ser No: 8061
 Ser No: 8301
-Ser No: 8724
-Ser No: 8794
 

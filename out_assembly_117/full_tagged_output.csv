@@ -11,9 +11,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 10,WJB4375762,GOKILA,SIVARAJ,nan,nan,nan,24,F,1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 6 BHOOPATHY STREET,[],False
 11,WJB4348538,M.REMIKA,MANIKAVASAGAM,nan,nan,nan,23,F,1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 6 BHOOPATHY STREET,[],False
 12,WJB4375739,GIRI SHANKAR,SIVARAJ,nan,nan,nan,22,M,1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 6 BHOOPATHY STREET,[],False
-13,WJB4454948,nan,LAKSHMANAN,nan,nan,nan,24,M,1/40,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1/40,1-WARD NO 6 BHOOPATHY STREET,[],False
+13,WJB4454948,nan,LAKSHMANAN,nan,nan,nan,24,M,1/40,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1-40,1-WARD NO 6 BHOOPATHY STREET,[],False
 14,WJB0762963,seethalakshmi -,nan,nan,Veeraiah -,nan,58,F,1H-12,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1H-12,1-WARD NO 6 BHOOPATHY STREET,[],False
-15,WJB4446902,Aruna R,Ravindran. K,nan,nan,nan,21,F,1/L,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1/L,1-WARD NO 6 BHOOPATHY STREET,[],False
+15,WJB4446902,Aruna R,Ravindran. K,nan,nan,nan,21,F,1/L,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,1-L,1-WARD NO 6 BHOOPATHY STREET,[],False
 16,JRT2024404,Prabhakaran -,Chinnasami -,nan,nan,nan,54,M,2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2,1-WARD NO 6 BHOOPATHY STREET,[],False
 17,WJB3942679,Jayasri -,nan,nan,Balasubramaniam -,nan,0,F,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
 18,JRT1927326,RAJALAKSHMI -,nan,nan,Prabhakaran -,nan,51,F,2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -22,7 +22,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 21,WJB4355525,KEERTHIKA.P,PRABAKARAN,nan,nan,nan,26,F,2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2,1-WARD NO 6 BHOOPATHY STREET,[],False
 22,WJB4347407,PRASEETA.P,PRABAKARAN,nan,nan,nan,24,F,2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2,1-WARD NO 6 BHOOPATHY STREET,[],False
 23,WJB4375713,PRANESH,RAJALINGAM,nan,nan,nan,24,M,02,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,02,1-WARD NO 6 BHOOPATHY STREET,[],False
-24,WJB4447074,B.padma,nan,nan,Bhaskar. T,nan,34,F,2/1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2/1,1-WARD NO 6 BHOOPATHY STREET,[],False
+24,WJB4447074,B.padma,nan,nan,Bhaskar. T,nan,34,F,2/1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2-1,1-WARD NO 6 BHOOPATHY STREET,[],False
 25,WJB3363314,Mohanasundaram,Venugopal,nan,nan,nan,26,M,2-2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2-2,1-WARD NO 6 BHOOPATHY STREET,[],False
 26,JRT1630342,Kandhasamy -,Ganapathi -,nan,nan,nan,80,M,2-3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2-3,1-WARD NO 6 BHOOPATHY STREET,[],False
 27,JRT4479424,Puspavathy -,nan,nan,Kandhasamy -,nan,74,F,2-3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,2-3,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -32,10 +32,10 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 31,JRT4480513,Ashok -,Aruchamy -,nan,nan,nan,38,M,3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 6 BHOOPATHY STREET,[],False
 32,WJB2551430,Vijayakumar -,Viswanathan -,nan,nan,nan,27,M,3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 6 BHOOPATHY STREET,[],False
 33,WJB4057782,Lakshan,duraisamny,nan,nan,nan,24,M,3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 6 BHOOPATHY STREET,[],False
-34,WJB4332029,MATHIVATHANI V,nan,nan,ACHIKANNU,nan,45,F,3/1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3/1,1-WARD NO 6 BHOOPATHY STREET,[],False
-35,WJB3404688,Swetha,nan,nan,nan,nan,24,F,3/4,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3/4,1-WARD NO 6 BHOOPATHY STREET,[],False
-36,WJB4454906,SOUNTHARYA,nan,nan,MADHUBALAN,nan,31,F,3/5,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3/5,1-WARD NO 6 BHOOPATHY STREET,[],False
-37,WJB3413192,Keerthana,nan,nan,Sathya,nan,24,F,3/6,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3/6,1-WARD NO 6 BHOOPATHY STREET,[],False
+34,WJB4332029,MATHIVATHANI V,nan,nan,ACHIKANNU,nan,45,F,3/1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3-1,1-WARD NO 6 BHOOPATHY STREET,[],False
+35,WJB3404688,Swetha,nan,nan,nan,nan,24,F,3/4,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3-4,1-WARD NO 6 BHOOPATHY STREET,[],False
+36,WJB4454906,SOUNTHARYA,nan,nan,MADHUBALAN,nan,31,F,3/5,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3-5,1-WARD NO 6 BHOOPATHY STREET,[],False
+37,WJB3413192,Keerthana,nan,nan,Sathya,nan,24,F,3/6,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3-6,1-WARD NO 6 BHOOPATHY STREET,[],False
 38,WJB4037560,Velumani,nan,nan,Palanisamy,nan,72,F,3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 6 BHOOPATHY STREET,[],False
 39,WJB2169738,Anitha -,nan,nan,Sivakumar -,nan,43,F,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,[],False
 40,WJB2169746,Nirmala -,nan,nan,Rajan -,nan,43,F,3B,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,3B,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -57,7 +57,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 56,WJB3363256,Amirthavalli,nan,nan,Palaniyappan,nan,60,F,5-17B,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,5-17B,1-WARD NO 6 BHOOPATHY STREET,[],False
 57,WJB2551562,Bala Sundram -,Nanjuppan -,nan,nan,nan,60,M,5A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,5A,1-WARD NO 6 BHOOPATHY STREET,[],False
 58,WJB2551612,Revathi -,nan,nan,Balasundram -,nan,52,F,54,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,54,1-WARD NO 6 BHOOPATHY STREET,[],False
-59,WJB4722757,SS KIRTHIK,Santhishkumar,nan,nan,nan,20,M,5A/9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,5A/9,1-WARD NO 6 BHOOPATHY STREET,[],False
+59,WJB4722757,SS KIRTHIK,Santhishkumar,nan,nan,nan,20,M,5A/9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,5A-9,1-WARD NO 6 BHOOPATHY STREET,[],False
 60,WJB2169779,Sangeetha -,Elango -,nan,nan,nan,28,F,5C,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,5C,1-WARD NO 6 BHOOPATHY STREET,[],False
 61,WJB3942695,Subbathal -,nan,nan,Vellingiri -,nan,59,F,6,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,6,1-WARD NO 6 BHOOPATHY STREET,[],False
 62,WJB3363322,Indhira,nan,nan,Jayaprakash,nan,45,F,6,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,6,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -79,15 +79,15 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 78,WJB2016277,Sikamani -,Kanthan -,nan,nan,nan,48,M,7-5,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-5,1-WARD NO 6 BHOOPATHY STREET,[],False
 79,WJB2016772,Kaalithash -,Balanayar -,nan,nan,nan,50,M,7-8,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-8,1-WARD NO 6 BHOOPATHY STREET,[],False
 80,WJB1599562,Sasikala -,nan,nan,Kalidass -,nan,45,F,7-8,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-8,1-WARD NO 6 BHOOPATHY STREET,[],False
-81,WJB4446696,nan,Kalidass,nan,nan,nan,21,M,7/8,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/8,1-WARD NO 6 BHOOPATHY STREET,[],False
+81,WJB4446696,nan,Kalidass,nan,nan,nan,21,M,7/8,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-8,1-WARD NO 6 BHOOPATHY STREET,[],False
 82,WJB2283335,Velmani -,nan,nan,Dhanapal -,nan,48,F,7-9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-9,1-WARD NO 6 BHOOPATHY STREET,[],False
 83,WJB2283343,Dhanapal -,Mahalingam -,nan,nan,nan,46,M,7-9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-9,1-WARD NO 6 BHOOPATHY STREET,[],False
 84,WJB0305342,Sarathy -,nan,nan,Soundar rajan -,nan,37,F,7-16,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-16,1-WARD NO 6 BHOOPATHY STREET,[],False
 85,WJB2169803,Palanisamy -,Kumar -,nan,nan,nan,42,M,7-17,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-17,1-WARD NO 6 BHOOPATHY STREET,[],False
 86,WJB2016491,Santhamani -,Nanthakumar -,nan,nan,nan,29,F,7-17,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-17,1-WARD NO 6 BHOOPATHY STREET,[],False
 87,WJB0762971,Rajendran -,Ramajayam -,nan,nan,nan,63,M,7-21,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-21,1-WARD NO 6 BHOOPATHY STREET,[],False
-88,NAN,Parvathi,nan,nan,Natarajan,nan,73,F,7/24,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/24,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
-89,JRT2566123,Rathinasamy -,Suppanagoundar -,nan,nan,nan,59,M,7/29,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/29,1-WARD NO 6 BHOOPATHY STREET,[],False
+88,NAN,Parvathi,nan,nan,Natarajan,nan,73,F,7/24,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-24,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
+89,JRT2566123,Rathinasamy -,Suppanagoundar -,nan,nan,nan,59,M,7/29,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-29,1-WARD NO 6 BHOOPATHY STREET,[],False
 90,WJB2551893,Ragupathi -,Ramaswamy -,nan,nan,nan,0,NAN,7-37,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-37,1-WARD NO 6 BHOOPATHY STREET,[],False
 91,WJB2016426,Komaladevi -,nan,nan,Eashwaran -,nan,33,F,7-37,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-37,1-WARD NO 6 BHOOPATHY STREET,[],False
 92,WJB2551901,Bharath Ragupathi -,Ragupathi -,nan,nan,nan,30,M,7-37,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-37,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -100,9 +100,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 99,JRT4481107,Shanthikrishna -,nan,nan,selvaraaju,nan,46,F,7-388,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-388,1-WARD NO 6 BHOOPATHY STREET,[],False
 100,WJB2016467,Divya -,nan,nan,Sakravarthy -,nan,37,F,7-41,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-41,1-WARD NO 6 BHOOPATHY STREET,[],False
 101,WJB3040417,thirupathi -,ramaiya -,nan,nan,nan,80,M,7-63,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-63,1-WARD NO 6 BHOOPATHY STREET,[],False
-102,WJB4446464,Neelambari,nan,nan,Balasubramaniyan,nan,46,F,7/63,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/63,1-WARD NO 6 BHOOPATHY STREET,[],False
-103,WJB4036091,Venugoppal,Muruga samy,nan,nan,nan,41,M,7/65,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/65,1-WARD NO 6 BHOOPATHY STREET,[],False
-104,WJB4036059,Agilandeswari,nan,nan,Venugopal,nan,35,F,7/65,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7/65,1-WARD NO 6 BHOOPATHY STREET,[],False
+102,WJB4446464,Neelambari,nan,nan,Balasubramaniyan,nan,46,F,7/63,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-63,1-WARD NO 6 BHOOPATHY STREET,[],False
+103,WJB4036091,Venugoppal,Muruga samy,nan,nan,nan,41,M,7/65,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-65,1-WARD NO 6 BHOOPATHY STREET,[],False
+104,WJB4036059,Agilandeswari,nan,nan,Venugopal,nan,35,F,7/65,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-65,1-WARD NO 6 BHOOPATHY STREET,[],False
 105,WJB2169811,Deepa -,Palanivel -,nan,nan,nan,39,F,7-49,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7-49,1-WARD NO 6 BHOOPATHY STREET,[],False
 106,WJB4580692,inthurani S,nan,nan,Selvaraj,nan,60,F,7A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,7A,1-WARD NO 6 BHOOPATHY STREET,[],False
 107,WJB2016673,Selavakumar -,Kaalimuthu -,nan,nan,nan,45,M,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -159,8 +159,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 158,JRT2462166,Anjali -,nan,nan,Subramani -,nan,41,F,12-2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,12-2,1-WARD NO 6 BHOOPATHY STREET,[],False
 159,WJB4463980,Anitha,nan,nan,Steaphan,nan,45,F,13-30,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13-30,1-WARD NO 6 BHOOPATHY STREET,[],False
 160,WJB4463972,Steephan,Francis,nan,nan,nan,43,M,13-30,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13-30,1-WARD NO 6 BHOOPATHY STREET,[],False
-161,WJB4395687,Kannan saminathan,saminathan,nan,nan,nan,44,M,13/31,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13/31,1-WARD NO 6 BHOOPATHY STREET,[],False
-162,WJB4454864,GOKILA,nan,nan,KANNAN,nan,39,F,13/31,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13/31,1-WARD NO 6 BHOOPATHY STREET,[],False
+161,WJB4395687,Kannan saminathan,saminathan,nan,nan,nan,44,M,13/31,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13-31,1-WARD NO 6 BHOOPATHY STREET,[],False
+162,WJB4454864,GOKILA,nan,nan,KANNAN,nan,39,F,13/31,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13-31,1-WARD NO 6 BHOOPATHY STREET,[],False
 163,WJB4540100,nan,ramasamy,nan,nan,nan,41,M,13,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,13,1-WARD NO 6 BHOOPATHY STREET,[],False
 164,WJB2169845,Sarasu ammal -,nan,nan,Nagan -,nan,74,F,14,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,14,1-WARD NO 6 BHOOPATHY STREET,[],False
 165,WJB2016335,Ramya -,nan,nan,Selvaraj -,nan,36,F,14,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,14,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -180,8 +180,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 179,WJB4375648,SUNDHARI,nan,nan,KANNUSAMY,nan,44,F,15,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,15,1-WARD NO 6 BHOOPATHY STREET,[],False
 180,WJB2283347,Gokul -,Balasubramaniyan -,nan,nan,nan,28,M,154,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,154,1-WARD NO 6 BHOOPATHY STREET,[],False
 181,WJB3423720,Lavanya,Kavimani,nan,nan,nan,30,F,16,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16,1-WARD NO 6 BHOOPATHY STREET,[],False
-182,WJB4454898,SANGEETHA,nan,nan,KAMARAJ,nan,30,F,16/5,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16/5,1-WARD NO 6 BHOOPATHY STREET,[],False
-183,WJB2551604,Karthika -,Balasundram -,nan,nan,nan,32,F,16/38,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16/38,1-WARD NO 6 BHOOPATHY STREET,[],False
+182,WJB4454898,SANGEETHA,nan,nan,KAMARAJ,nan,30,F,16/5,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16-5,1-WARD NO 6 BHOOPATHY STREET,[],False
+183,WJB2551604,Karthika -,Balasundram -,nan,nan,nan,32,F,16/38,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16-38,1-WARD NO 6 BHOOPATHY STREET,[],False
 184,WJB2016368,Manimegalai -,Thamotharan -,nan,nan,nan,35,M,16C,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16C,1-WARD NO 6 BHOOPATHY STREET,[],False
 185,WJB2551810,Logendharan -,Marimuthu -,nan,nan,nan,33,M,16C,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16C,1-WARD NO 6 BHOOPATHY STREET,[],False
 186,WJB1395607,Suresh -,Marimuthu -,nan,nan,nan,31,M,16C,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,16C,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -223,8 +223,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 222,JRT4481859,Prabhakaran -,Kuppannan -,nan,nan,nan,37,M,18-4,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,18-4,1-WARD NO 6 BHOOPATHY STREET,[],False
 223,WJB4454880,nan,RAMMAIYAN,nan,nan,nan,39,M,19,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19,1-WARD NO 6 BHOOPATHY STREET,[],False
 224,WJB2016509,Sagunthala -,nan,nan,Yogenthiran -,nan,38,F,19,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19,1-WARD NO 6 BHOOPATHY STREET,[],False
-225,WJB4749958,NATARAJ,KULASEKARAN,nan,nan,nan,48,M,19/20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19/20,1-WARD NO 6 BHOOPATHY STREET,[],False
-226,WJB4446951,S.Nivetha,R.Sivakumar,nan,nan,nan,21,F,19/20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19/20,1-WARD NO 6 BHOOPATHY STREET,[],False
+225,WJB4749958,NATARAJ,KULASEKARAN,nan,nan,nan,48,M,19/20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19-20,1-WARD NO 6 BHOOPATHY STREET,[],False
+226,WJB4446951,S.Nivetha,R.Sivakumar,nan,nan,nan,21,F,19/20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19-20,1-WARD NO 6 BHOOPATHY STREET,[],False
 227,WJB3423688,Divya,Nataraj,nan,nan,nan,28,F,19,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,19,1-WARD NO 6 BHOOPATHY STREET,[],False
 228,JRT2363695,Ramasamy -,Nanjappan -,nan,nan,nan,79,M,20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20,1-WARD NO 6 BHOOPATHY STREET,[],False
 229,WJB3943016,nan,nan,nan,Ramasamy -,nan,69,F,20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -235,7 +235,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 234,JRT7582141,Shanthi -,nan,nan,Srinivasan -,nan,42,F,20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20,1-WARD NO 6 BHOOPATHY STREET,[],False
 235,JRT7582349,Menaka - 19),nan,nan,ar -,nan,0,NAN,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
 236,WJB4454914,HEMA VARSHITHA,SAKTHI KUMAR,nan,nan,nan,21,F,20,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20,1-WARD NO 6 BHOOPATHY STREET,[],False
-237,WJB4446662,Duraisamy,Rathinam,nan,nan,nan,50,M,20/10,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20/10,1-WARD NO 6 BHOOPATHY STREET,[],False
+237,WJB4446662,Duraisamy,Rathinam,nan,nan,nan,50,M,20/10,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,20-10,1-WARD NO 6 BHOOPATHY STREET,[],False
 238,WJB3184900,nan,dharmalingam -,nan,nan,nan,40,M,21,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,21,1-WARD NO 6 BHOOPATHY STREET,[],False
 239,WJB2551786,Priya -,nan,nan,kathir vel -,nan,33,F,21,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,21,1-WARD NO 6 BHOOPATHY STREET,[],False
 240,JRT1626480,Subramaniam -,Ramasamy -,nan,nan,nan,64,M,21-1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,21-1,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -257,7 +257,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 256,WJB2551802,Panneer Selvam -,Krishnamoorthy -,nan,nan,nan,29,M,22,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,22,1-WARD NO 6 BHOOPATHY STREET,[],False
 257,WJB3943065,Sivasamy -,Maruthachalam -,nan,nan,nan,57,M,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
 258,JRT1633080,AMSAVENI -,nan,nan,Sivasami -,nan,51,F,22-1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,22-1,1-WARD NO 6 BHOOPATHY STREET,[],False
-259,WJB3434305,Deepa,nan,nan,Sasidharan,nan,46,F,22/,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,22/,1-WARD NO 6 BHOOPATHY STREET,[],False
+259,WJB3434305,Deepa,nan,nan,Sasidharan,nan,46,F,22/,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,22-,1-WARD NO 6 BHOOPATHY STREET,[],False
 260,WJB1599893,Ramachandran -,Krishnamoorthy -,nan,nan,nan,32,M,22A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,22A,1-WARD NO 6 BHOOPATHY STREET,[],False
 261,WJB3943073,Maruthachalam -,Ramanagounder -,nan,nan,nan,71,M,23,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23,1-WARD NO 6 BHOOPATHY STREET,[],False
 262,WJB3943081,Sivamami -,nan,nan,Maruthachalam -,nan,61,F,23,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -267,7 +267,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 266,JRT7583180,Subramaniam -,Munisamy -,nan,nan,nan,42,M,23-1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23-1,1-WARD NO 6 BHOOPATHY STREET,[],False
 267,JRT4479820,Jayakumari -,Poormachandran -,nan,nan,nan,45,F,23-2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23-2,1-WARD NO 6 BHOOPATHY STREET,[],False
 268,JRT4479487,Thangaraj -,Kanthaboyan -,nan,nan,nan,42,M,23-2,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23-2,1-WARD NO 6 BHOOPATHY STREET,[],False
-269,WJB0686451,Manikkam -,Aarumugam -,nan,nan,nan,44,M,23/16,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23/16,1-WARD NO 6 BHOOPATHY STREET,[],False
+269,WJB0686451,Manikkam -,Aarumugam -,nan,nan,nan,44,M,23/16,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23-16,1-WARD NO 6 BHOOPATHY STREET,[],False
 270,WJB41046467,Sindhu,Thangaraj,nan,nan,nan,24,F,234,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,234,1-WARD NO 6 BHOOPATHY STREET,[],False
 271,WJB4298501,nan,thangaraj,nan,nan,nan,22,M,23a,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23A,1-WARD NO 6 BHOOPATHY STREET,[],False
 272,WJB4471215,Pandeeswari,Sathish,nan,nan,nan,32,M,23-A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,23-A,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -352,7 +352,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 351,WJB0687285,Tamil selvi -,nan,nan,Ramesh raja -,nan,36,F,33,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,33,1-WARD NO 6 BHOOPATHY STREET,[],False
 352,WJB4454922,SARANYA,nan,nan,MANIKANDAN,nan,26,F,33,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,33,1-WARD NO 6 BHOOPATHY STREET,[],False
 353,WJB4375622,HARI GAREN,CHANDRASEKARAN,nan,nan,nan,24,M,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
-354,WJB3363355,SINDHU,GOPALAN,nan,nan,nan,25,F,33/9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,33/9,1-WARD NO 6 BHOOPATHY STREET,[],False
+354,WJB3363355,SINDHU,GOPALAN,nan,nan,nan,25,F,33/9,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,33-9,1-WARD NO 6 BHOOPATHY STREET,[],False
 355,NAN,Velusamy -,Chellappagounder -,nan,nan,nan,73,M,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,['EPIC_ID_MISSING'],True
 356,JRT1943091,Ramesh -,Velusamy -,nan,nan,nan,41,M,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,[],False
 357,WJB4446852,Ishwarya.S,Selvakumar. V,nan,nan,nan,27,F,34,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,34,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -367,7 +367,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 366,JAT1635051,Eswari -,nan,nan,Mani -,nan,54,F,36,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,36,1-WARD NO 6 BHOOPATHY STREET,[],False
 367,WJB4454971,: HAJAY,RAMACHANDRAN,nan,nan,nan,21,M,36,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,36,1-WARD NO 6 BHOOPATHY STREET,[],False
 368,JRT2462281,Lakshmi -,nan,nan,Subramani -,nan,74,F,36-1,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,36-1,1-WARD NO 6 BHOOPATHY STREET,[],False
-369,WJB4884268,P Jayanthi,nan,nan,Palaniswamy,nan,55,F,36/37,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,36/37,1-WARD NO 6 BHOOPATHY STREET,[],False
+369,WJB4884268,P Jayanthi,nan,nan,Palaniswamy,nan,55,F,36/37,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,36-37,1-WARD NO 6 BHOOPATHY STREET,[],False
 370,WJB4375630,THAIYAMMAL,nan,nan,VELU,nan,72,F,38,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,38,1-WARD NO 6 BHOOPATHY STREET,[],False
 371,WJB2016632,Ashok kumar -,Sawntharajan -,nan,nan,nan,40,M,38,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,38,1-WARD NO 6 BHOOPATHY STREET,[],False
 372,WJB4375697,KAVITHA,NAGENDRAN,nan,nan,nan,26,F,38,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,38,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -389,7 +389,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 388,WIB2169985,Induja -,Jayakumar -,nan,nan,nan,31,F,43,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,43,1-WARD NO 6 BHOOPATHY STREET,[],False
 389,WJB2169993,Babu -,Vasudevan -,nan,nan,nan,36,M,44,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,44,1-WARD NO 6 BHOOPATHY STREET,[],False
 390,WJB4446449,Vijay,Sivasamy,nan,nan,nan,25,M,47,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,47,1-WARD NO 6 BHOOPATHY STREET,[],False
-391,WJB4454856,VIVEKANANDAN,MUTHAIYA,nan,nan,nan,42,M,50/A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,50/A,1-WARD NO 6 BHOOPATHY STREET,[],False
+391,WJB4454856,VIVEKANANDAN,MUTHAIYA,nan,nan,nan,42,M,50/A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,50-A,1-WARD NO 6 BHOOPATHY STREET,[],False
 392,WJB3413143,Pravin kumar,Sundharam,nan,nan,nan,26,M,52,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,52,1-WARD NO 6 BHOOPATHY STREET,[],False
 393,JRT1633197,Sambathkumar -,Maruthachalam -,nan,nan,nan,44,M,54,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,54,1-WARD NO 6 BHOOPATHY STREET,[],False
 394,WJB0231365,Prabhu -,Ramasamy -,nan,nan,nan,42,M,"57,",1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,"57,",1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -419,7 +419,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 418,WJB4231643,KAMALASH,SELVARAJ,nan,nan,nan,23,M,106,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,106,1-WARD NO 6 BHOOPATHY STREET,[],False
 419,WJB4375655,CHANDNI SARCAR,nan,nan,nan,nan,28,F,197,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,197,1-WARD NO 6 BHOOPATHY STREET,[],False
 420,WJB4694444,AJAY KUMAR 9),nan,GAIT,nan,nan,0,NAN,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
-421,WJB4454831,PRADEEP,SURIYA GANDHI,nan,nan,nan,40,M,827/1A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,827/1A,1-WARD NO 6 BHOOPATHY STREET,[],False
+421,WJB4454831,PRADEEP,SURIYA GANDHI,nan,nan,nan,40,M,827/1A,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,827-1A,1-WARD NO 6 BHOOPATHY STREET,[],False
 422,WJB2551943,Ramachandran -,Mokkaichamy -,nan,nan,nan,75,M,G3,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,G3,1-WARD NO 6 BHOOPATHY STREET,[],False
 423,WJB3184843,sumathi -,selvaraj -,nan,nan,nan,33,F,na,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NA,1-WARD NO 6 BHOOPATHY STREET,[],False
 424,WJB4688446,Ajay kumar 19),nan,Ka j,nan,nan,0,NAN,nan,1-Ward No 6 Bhoopathy Street,421,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 6 BHOOPATHY STREET,[],False
@@ -434,10 +434,10 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 433,NAN,Radhika,nan,nan,Ashok,nan,35,F,1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1,2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
 434,WJB2170066,Sathishkumar -,Mani -,nan,nan,nan,28,M,1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1,2-WARD NO 6 VALLUVAR STREET,[],False
 435,WJB4761524,V Rudresh,C vijayakumar,nan,nan,nan,20,M,1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1,2-WARD NO 6 VALLUVAR STREET,[],False
-436,WJB1599497,Chandrakala -,nan,nan,Hanumanthappa -,nan,38,F,1/203/1D,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1/203/1D,2-WARD NO 6 VALLUVAR STREET,[],False
+436,WJB1599497,Chandrakala -,nan,nan,Hanumanthappa -,nan,38,F,1/203/1D,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1-203-1D,2-WARD NO 6 VALLUVAR STREET,[],False
 437,WJB2551646,ponraj - ou,Parasy -,nan,nan,nan,0,NAN,nan,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,NAN,2-WARD NO 6 VALLUVAR STREET,[],False
 438,WJB2551638,saratha -,nan,nan,ponraj -,nan,53,F,1A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1A,2-WARD NO 6 VALLUVAR STREET,[],False
-439,WJB4815775,KOWSALYA,nan,nan,UJANTH,nan,22,F,1/NA,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1/NA,2-WARD NO 6 VALLUVAR STREET,[],False
+439,WJB4815775,KOWSALYA,nan,nan,UJANTH,nan,22,F,1/NA,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,1-NA,2-WARD NO 6 VALLUVAR STREET,[],False
 440,WJB0686683,nan,Kaliannan ~,nan,nan,nan,69,M,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
 441,WJB0686691,Kamalam -,Pugalendhi -,nan,nan,nan,68,M,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
 442,WJB3943347,Ragupathi -,Govindaraj -,nan,nan,nan,64,M,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -452,7 +452,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 451,WJB2551877,Pandidurai -,Palanisamy -,nan,nan,nan,29,M,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
 452,WJB2551968,Vijayalaksmi -,Palanisamy -,nan,nan,nan,28,F,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
 453,WJB3184801,suresh -,marimuthu -,nan,nan,nan,27,M,2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2,2-WARD NO 6 VALLUVAR STREET,[],False
-454,WJB4349494,BUVANESHWARI.P.L,BALAMURUGAN,nan,nan,nan,22,F,2/8,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2/8,2-WARD NO 6 VALLUVAR STREET,[],False
+454,WJB4349494,BUVANESHWARI.P.L,BALAMURUGAN,nan,nan,nan,22,F,2/8,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2-8,2-WARD NO 6 VALLUVAR STREET,[],False
 455,WJB7005366,Vellaiyammal,nan,nan,Raju,nan,60,F,2A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2A,2-WARD NO 6 VALLUVAR STREET,[],False
 456,WJB1599620,Indhumathi -,nan,nan,nan,nan,57,F,2-A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2-A,2-WARD NO 6 VALLUVAR STREET,[],False
 457,WJB0495275,Munusamy -,Munusamy -,nan,nan,nan,41,M,2-4,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2-4,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -462,12 +462,12 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 461,WJB0495291,Ravi -,Karuppusami -,nan,nan,nan,40,M,2-B,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2-B,2-WARD NO 6 VALLUVAR STREET,[],False
 462,WJB0495309,MUTHURANI RAVI,nan,nan,Ravi -,nan,37,F,2-B,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,2-B,2-WARD NO 6 VALLUVAR STREET,[],False
 463,WJB4587739,Manoj Aruchamy,Aruchamy,nan,nan,nan,34,M,3,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3,2-WARD NO 6 VALLUVAR STREET,[],False
-464,ULS0579482,Veerachami -,Alagarsami -,nan,nan,nan,34,M,3/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3/1,2-WARD NO 6 VALLUVAR STREET,[],False
-465,ULS0940783,Alagumeena -,Vellaisamy -,nan,nan,nan,29,F,3/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3/1,2-WARD NO 6 VALLUVAR STREET,[],False
-466,WJB3415007,Amutha,nan,nan,Sadha sivam,nan,35,F,3/6,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3/6,2-WARD NO 6 VALLUVAR STREET,[],False
+464,ULS0579482,Veerachami -,Alagarsami -,nan,nan,nan,34,M,3/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3-1,2-WARD NO 6 VALLUVAR STREET,[],False
+465,ULS0940783,Alagumeena -,Vellaisamy -,nan,nan,nan,29,F,3/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3-1,2-WARD NO 6 VALLUVAR STREET,[],False
+466,WJB3415007,Amutha,nan,nan,Sadha sivam,nan,35,F,3/6,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,3-6,2-WARD NO 6 VALLUVAR STREET,[],False
 467,WJB0763029,Sanmugasundaram -,Palaisamy -,nan,nan,nan,53,M,4,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,4,2-WARD NO 6 VALLUVAR STREET,[],False
 468,WJB0763011,Sorojini -,nan,nan,Shanmugasundharam -,nan,49,F,4,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,4,2-WARD NO 6 VALLUVAR STREET,[],False
-469,WJB4328746,GOVIDARAJU,MAGALINGAM,nan,nan,nan,49,M,4/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,4/1,2-WARD NO 6 VALLUVAR STREET,[],False
+469,WJB4328746,GOVIDARAJU,MAGALINGAM,nan,nan,nan,49,M,4/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,4-1,2-WARD NO 6 VALLUVAR STREET,[],False
 470,WJB1871003,nan,Narayanapanikkar -,nan,nan,nan,79,M,5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,5,2-WARD NO 6 VALLUVAR STREET,[],False
 471,WJB2283383,KanagaRaj -,SundaraRajan ~,nan,nan,nan,62,M,5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,5,2-WARD NO 6 VALLUVAR STREET,[],False
 472,WJB2283391,Suriyajothi Sree -,nan,nan,KanagaRaj -,nan,53,F,5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,5,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -484,26 +484,26 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 483,WJB6609416,Shanmugapriya,nan,nan,Prabhakaran,nan,31,F,7,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7,2-WARD NO 6 VALLUVAR STREET,[],False
 484,WJB0763037,Myilsamy - &,Ma Se caer -,nan,nan,nan,0,NAN,nan,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,NAN,2-WARD NO 6 VALLUVAR STREET,[],False
 485,WJB2551596,Keerthi -,nan,nan,Mahesh kumar -,nan,38,F,7-2E,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-2E,2-WARD NO 6 VALLUVAR STREET,[],False
-486,WJB4733804,M senthilkumar,N M Mayilsarny,nan,nan,nan,40,M,7/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7/2,2-WARD NO 6 VALLUVAR STREET,[],False
+486,WJB4733804,M senthilkumar,N M Mayilsarny,nan,nan,nan,40,M,7/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-2,2-WARD NO 6 VALLUVAR STREET,[],False
 487,WJB1871037,Ganesan -,Ramasami -,nan,nan,nan,77,NAN,7-5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-5,2-WARD NO 6 VALLUVAR STREET,[],False
 488,WJB1871045,Arunpriya ~,nan,nan,Duraisamy -,nan,42,F,7-5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-5,2-WARD NO 6 VALLUVAR STREET,[],False
 489,WJB1871052,Priya -,nan,nan,Sampathkumar -,nan,37,F,7-5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-5,2-WARD NO 6 VALLUVAR STREET,[],False
 490,WJB2551588,Eswaran -,nan,Jayanthi -,nan,nan,45,M,7-13,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-13,2-WARD NO 6 VALLUVAR STREET,[],False
-491,WJB4861761,G Saranya,nan,nan,Maveeran,nan,30,F,07/13,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,07/13,2-WARD NO 6 VALLUVAR STREET,[],False
-492,NAN,Maveeran A,Alagumalai,nan,nan,nan,30,M,"7/13,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7/13,",2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
+491,WJB4861761,G Saranya,nan,nan,Maveeran,nan,30,F,07/13,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,07-13,2-WARD NO 6 VALLUVAR STREET,[],False
+492,NAN,Maveeran A,Alagumalai,nan,nan,nan,30,M,"7/13,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7-13,",2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
 493,NAN,SNEHA E,ESWARAN,nan,nan,nan,22,F,"7-13,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7-13,",2-WARD NO 6 VALLUVAR STREET,['EPIC_ID_MISSING'],True
 494,WJB1599992,Ravikumar -,Selvaraj -,nan,nan,nan,42,M,7-14,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-14,2-WARD NO 6 VALLUVAR STREET,[],False
 495,WJB1599935,Kiruthiga -,nan,nan,Ravikumar -,nan,34,F,7-14,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-14,2-WARD NO 6 VALLUVAR STREET,[],False
 496,WJB0687111,Prakasam -,Arumugam -,nan,nan,nan,53,M,7-21,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-21,2-WARD NO 6 VALLUVAR STREET,[],False
-497,WJB4911319,Sanjai G,Guruswamy,nan,nan,nan,19,M,7/24,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7/24,2-WARD NO 6 VALLUVAR STREET,[],False
+497,WJB4911319,Sanjai G,Guruswamy,nan,nan,nan,19,M,7/24,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-24,2-WARD NO 6 VALLUVAR STREET,[],False
 498,WJB0231464,Shanmughasundaram -,Sundaram -,nan,nan,nan,49,M,7-264,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-264,2-WARD NO 6 VALLUVAR STREET,[],False
-499,WJB0231480,Prabhu -,Rathinasamy -,nan,nan,nan,36,M,7/29,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7/29,2-WARD NO 6 VALLUVAR STREET,[],False
+499,WJB0231480,Prabhu -,Rathinasamy -,nan,nan,nan,36,M,7/29,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-29,2-WARD NO 6 VALLUVAR STREET,[],False
 500,WJB2170082,Gopalbisai -,Banshidar -,nan,nan,nan,35,M,7-346,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-346,2-WARD NO 6 VALLUVAR STREET,[],False
 501,WJB2551992,Vasanthi -,nan,nan,Eswaran -,nan,57,F,7-37,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-37,2-WARD NO 6 VALLUVAR STREET,[],False
 502,WJB2016574,Devakumar -,Arulsamy ~,nan,nan,nan,74,M,7-38,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-38,2-WARD NO 6 VALLUVAR STREET,[],False
 503,WJB0763052,Nadarajan -,Arukkutty -,nan,nan,nan,62,M,7-38,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-38,2-WARD NO 6 VALLUVAR STREET,[],False
-504,WJB4046652,muthulakshmi,nan,nan,thangaduraj,nan,44,F,7/38b,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7/38B,2-WARD NO 6 VALLUVAR STREET,[],False
-505,WJB3363272,Kabildev,nan,nan,Samnmugapriya,nan,41,F,"7/38,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7/38,",2-WARD NO 6 VALLUVAR STREET,[],False
+504,WJB4046652,muthulakshmi,nan,nan,thangaduraj,nan,44,F,7/38b,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-38B,2-WARD NO 6 VALLUVAR STREET,[],False
+505,WJB3363272,Kabildev,nan,nan,Samnmugapriya,nan,41,F,"7/38,",2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,"7-38,",2-WARD NO 6 VALLUVAR STREET,[],False
 506,WJB3184876,thangadurai -,cheliya -,nan,nan,nan,28,M,7-385,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,7-385,2-WARD NO 6 VALLUVAR STREET,[],False
 507,WJB1395573,Kavitha -,Sibi Sakkaravarthi -,nan,nan,nan,32,F,8,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,8,2-WARD NO 6 VALLUVAR STREET,[],False
 508,WJB2016517,Ramani -,nan,nan,Varasun -,nan,37,F,8-5,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,8-5,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -513,9 +513,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 512,WJB0763060,Lakshmi -,nan,nan,Gopal -,nan,49,F,9,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,9,2-WARD NO 6 VALLUVAR STREET,[],False
 513,WJB1871094,Krishnaveni -,nan,nan,Duraisamy -,nan,41,F,9,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,9,2-WARD NO 6 VALLUVAR STREET,[],False
 514,WJB4817482,Rajeshkanna Tharmaraj,Tharmaraj,nan,nan,nan,24,M,9,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,9,2-WARD NO 6 VALLUVAR STREET,[],False
-515,WJB4116794,sruthi,kanagaraj,nan,nan,nan,24,F,9/27a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,9/27A,2-WARD NO 6 VALLUVAR STREET,[],False
+515,WJB4116794,sruthi,kanagaraj,nan,nan,nan,24,F,9/27a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,9-27A,2-WARD NO 6 VALLUVAR STREET,[],False
 516,WJB1871102,Manorajitham -,nan,nan,Sivaraj -,nan,53,F,10,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,10,2-WARD NO 6 VALLUVAR STREET,[],False
-517,WJB4301644,AKSHAYA,PRABHAKARAN,nan,nan,nan,26,F,10/6,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,10/6,2-WARD NO 6 VALLUVAR STREET,[],False
+517,WJB4301644,AKSHAYA,PRABHAKARAN,nan,nan,nan,26,F,10/6,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,10-6,2-WARD NO 6 VALLUVAR STREET,[],False
 518,WJB1871110,Balayi -,nan,nan,Ramasamy -,nan,80,F,11,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,11,2-WARD NO 6 VALLUVAR STREET,[],False
 519,WJB1871128,Chandraleela -,nan,nan,Ganesan -,nan,58,F,11,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,11,2-WARD NO 6 VALLUVAR STREET,[],False
 520,WJB1871136,THirunavukarasu ~,Ganesan -,nan,nan,nan,36,M,11,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,11,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -554,7 +554,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 553,WJB1871185,Kumar -,Duraisamy -,nan,nan,nan,30,M,17,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17,2-WARD NO 6 VALLUVAR STREET,[],False
 554,WJB3363389,Ragu,Gopal,nan,nan,nan,25,M,17,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17,2-WARD NO 6 VALLUVAR STREET,[],False
 555,WJB4881264,Lakshana R,Rathinavel,nan,nan,nan,19,F,17,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17,2-WARD NO 6 VALLUVAR STREET,[],False
-556,WJB4794624,S ERAAGAVI,S Saravanan S Saravanan,nan,nan,nan,19,F,17/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17/1,2-WARD NO 6 VALLUVAR STREET,[],False
+556,WJB4794624,S ERAAGAVI,S Saravanan S Saravanan,nan,nan,nan,19,F,17/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17-1,2-WARD NO 6 VALLUVAR STREET,[],False
 557,WJB2551539,selvaraj -,Duraisamy -,nan,nan,nan,59,M,17a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17A,2-WARD NO 6 VALLUVAR STREET,[],False
 558,WJB2551521,anuradha -,nan,nan,selvaraj -,nan,50,F,17a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17A,2-WARD NO 6 VALLUVAR STREET,[],False
 559,WJB0686972,Sathish kumar -,Kandhaswamy -,nan,nan,nan,35,M,17A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,17A,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -567,18 +567,18 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 566,WJB1871227,nan,Saiyathu mohammed -,nan,nan,nan,42,M,20,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,20,2-WARD NO 6 VALLUVAR STREET,[],False
 567,WJB1599513,Fathima -,nan,nan,Rabeek Raja -,nan,42,F,20,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,20,2-WARD NO 6 VALLUVAR STREET,[],False
 568,WJB1871235,Banu -,nan,nan,Abdul samathu -,nan,40,F,20,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,20,2-WARD NO 6 VALLUVAR STREET,[],False
-569,WJB4760856,R Thamimulansari,Rafiaraja,nan,nan,nan,19,M,20/10,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,20/10,2-WARD NO 6 VALLUVAR STREET,[],False
+569,WJB4760856,R Thamimulansari,Rafiaraja,nan,nan,nan,19,M,20/10,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,20-10,2-WARD NO 6 VALLUVAR STREET,[],False
 570,WJB4311536,SIVAM KALIDAS,SIVAN,nan,nan,nan,51,M,21,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,21,2-WARD NO 6 VALLUVAR STREET,[],False
 571,WJB0763110,Ranganathan -,subaramai -,nan,nan,nan,35,M,21,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,21,2-WARD NO 6 VALLUVAR STREET,[],False
 572,WJB2283415,nan,nan,nan,Rangasamy -,nan,63,F,22,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,22,2-WARD NO 6 VALLUVAR STREET,[],False
 573,JRT5496922,Sumathi -,nan,nan,Jayachanthran -,nan,53,F,22,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,22,2-WARD NO 6 VALLUVAR STREET,[],False
 574,WJB2283423,Narendra Babu -,Rangasamy -,nan,nan,nan,38,M,22,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,22,2-WARD NO 6 VALLUVAR STREET,[],False
 575,WJB2016268,Divya -,nan,nan,Sampathkumar -,nan,37,F,23,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23,2-WARD NO 6 VALLUVAR STREET,[],False
-576,WJB4039418,Balasubramaniam,Rakkiya govudar,nan,nan,nan,70,M,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23/1,2-WARD NO 6 VALLUVAR STREET,[],False
-577,WJB4039335,Velumani,nan,nan,Rakkiya govudar,nan,61,F,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23/1,2-WARD NO 6 VALLUVAR STREET,[],False
-578,WJB4040135,Saravanakumar,Duraisamy,nan,nan,nan,38,M,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23/1,2-WARD NO 6 VALLUVAR STREET,[],False
-579,WJB4039392,Preethi,nan,nan,Paneer selvam,nan,37,F,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23/1,2-WARD NO 6 VALLUVAR STREET,[],False
-580,WJB4040093,Dineshkumar,Duraisamy,nan,nan,nan,41,M,23/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23/2,2-WARD NO 6 VALLUVAR STREET,[],False
+576,WJB4039418,Balasubramaniam,Rakkiya govudar,nan,nan,nan,70,M,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23-1,2-WARD NO 6 VALLUVAR STREET,[],False
+577,WJB4039335,Velumani,nan,nan,Rakkiya govudar,nan,61,F,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23-1,2-WARD NO 6 VALLUVAR STREET,[],False
+578,WJB4040135,Saravanakumar,Duraisamy,nan,nan,nan,38,M,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23-1,2-WARD NO 6 VALLUVAR STREET,[],False
+579,WJB4039392,Preethi,nan,nan,Paneer selvam,nan,37,F,23/1,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23-1,2-WARD NO 6 VALLUVAR STREET,[],False
+580,WJB4040093,Dineshkumar,Duraisamy,nan,nan,nan,41,M,23/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,23-2,2-WARD NO 6 VALLUVAR STREET,[],False
 581,WJB2283431,Sajitha -,nan,nan,Vadivel -,nan,40,F,234A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,234A,2-WARD NO 6 VALLUVAR STREET,[],False
 582,WJB3040524,Narayanasamy -,Ramasamy -,nan,nan,nan,48,M,24a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,24A,2-WARD NO 6 VALLUVAR STREET,[],False
 583,JRT2363927,Kumar -,Kumarasamy -,nan,nan,nan,53,M,24-4,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,24-4,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -587,7 +587,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 586,WJB2170116,Rani -,nan,nan,Ramkumar -,nan,32,F,25,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,25,2-WARD NO 6 VALLUVAR STREET,[],False
 587,WJB1871243,Devi Priya -,Duraisamy -,nan,nan,nan,31,F,258,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,258,2-WARD NO 6 VALLUVAR STREET,[],False
 588,WJB0763136,Savitha -,Shanmugasundharam -,nan,nan,nan,40,F,26A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,26A,2-WARD NO 6 VALLUVAR STREET,[],False
-589,WJB4864054,Balasubramani,Pichai,nan,nan,nan,36,M,26/A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,26/A,2-WARD NO 6 VALLUVAR STREET,[],False
+589,WJB4864054,Balasubramani,Pichai,nan,nan,nan,36,M,26/A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,26-A,2-WARD NO 6 VALLUVAR STREET,[],False
 590,WJB1871250,nan,Velu -,nan,nan,nan,46,M,27,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,27,2-WARD NO 6 VALLUVAR STREET,[],False
 591,WJB1871268,Pandiswari -,nan,nan,Kannan -,nan,35,F,27,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,27,2-WARD NO 6 VALLUVAR STREET,[],False
 592,WJB2551984,Mumtaj Bebi -,nan,nan,Appas -,nan,69,F,28,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,28,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -610,7 +610,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 609,WJB1599836,Murugesan -,Durai Raj -,nan,nan,nan,46,M,32-2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-2,2-WARD NO 6 VALLUVAR STREET,[],False
 610,WJB1599828,Looga -,nan,nan,Murugan -,nan,42,F,32-2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-2,2-WARD NO 6 VALLUVAR STREET,[],False
 611,WJB2551687,Baby -,nan,nan,Eswaramoorthy -,nan,2,F,32-2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-2,2-WARD NO 6 VALLUVAR STREET,[],False
-612,WJB84298733,mohanapriya,murugesan,nan,nan,nan,23,F,32/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32/2,2-WARD NO 6 VALLUVAR STREET,[],False
+612,WJB84298733,mohanapriya,murugesan,nan,nan,nan,23,F,32/2,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-2,2-WARD NO 6 VALLUVAR STREET,[],False
 613,WJB1871284,Neelavathi -,nan,nan,Thangavel -,nan,46,F,324,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,324,2-WARD NO 6 VALLUVAR STREET,[],False
 614,WJB3228103,Mani Megalai,Thangavel,nan,nan,nan,27,F,32-A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-A,2-WARD NO 6 VALLUVAR STREET,[],False
 615,WJB3228111,Ranjith Kumar,Thangavel,nan,nan,nan,26,M,32-A,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,32-A,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -679,7 +679,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 678,JRT4480216,Kannalyan -,Thirumalaisamy -,nan,nan,nan,64,M,117,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,117,2-WARD NO 6 VALLUVAR STREET,[],False
 679,JRT4479051,Thilagavathi -,nan,nan,Kannalyan -,nan,55,F,117,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,117,2-WARD NO 6 VALLUVAR STREET,[],False
 680,WJB4116828,siva sakthi,sivanandham,nan,nan,nan,24,F,139a,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,139A,2-WARD NO 6 VALLUVAR STREET,[],False
-681,WJB4454849,DIVYA,nan,nan,PRADEEP,nan,31,F,827/14,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,827/14,2-WARD NO 6 VALLUVAR STREET,[],False
+681,WJB4454849,DIVYA,nan,nan,PRADEEP,nan,31,F,827/14,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,827-14,2-WARD NO 6 VALLUVAR STREET,[],False
 682,WJB4116471,senthil kumar,Ganesan,nan,nan,nan,51,M,837-3,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,837-3,2-WARD NO 6 VALLUVAR STREET,[],False
 683,WJB4116455,Kavitha,nan,nan,senthil kumar,nan,50,F,837-3,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,837-3,2-WARD NO 6 VALLUVAR STREET,[],False
 684,WJB4352803,MIRUTHULA .S,SENTHIL KUMAR,nan,nan,nan,22,F,nan,2-Ward No 6 Valluvar Street,421,117-KAVUNDAMPALAYAM,117,NAN,2-WARD NO 6 VALLUVAR STREET,[],False
@@ -699,11 +699,11 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 698,WJB2170199,Bhuvaneshwari -,nan,nan,Balasundaram -,nan,49,F,1-4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 699,WJB2170207,Lakhsmanan -,Velu -,nan,nan,nan,66,M,1-5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-5,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 700,WJB1103936,Shanthi -,nan,nan,Muthu -,nan,40,F,1-7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-7,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-701,WJB4348066,nan,RAJENDHIRAN,nan,nan,nan,22,M,1/7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/7,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-702,UKW0128058,Mageshwari,nan,nan,Devadass,nan,64,F,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-703,WJB4369039,ESWARAN D,nan,MOTHER MAHESWARI,nan,nan,32,M,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-704,UWW1018068,Sundari,Subramani,nan,nan,nan,27,F,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-705,WJB4563169,Geethanjali C,Chandhiran,nan,nan,nan,21,F,1/56,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/56,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+701,WJB4348066,nan,RAJENDHIRAN,nan,nan,nan,22,M,1/7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-7,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+702,UKW0128058,Mageshwari,nan,nan,Devadass,nan,64,F,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+703,WJB4369039,ESWARAN D,nan,MOTHER MAHESWARI,nan,nan,32,M,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+704,UWW1018068,Sundari,Subramani,nan,nan,nan,27,F,1/12,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-12,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+705,WJB4563169,Geethanjali C,Chandhiran,nan,nan,nan,21,F,1/56,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-56,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 706,WJB4786372,KUMARAGURU T THANGAMAN! K,THANGAMANI K,nan,nan,nan,19,M,nan,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,NAN,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 707,WJB1871912,nan,luvekumar -,nan,nan,nan,33,M,1A,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 708,WJB2551463,shanmuga priya -,ponraj -,nan,nan,nan,30,F,1a,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -729,7 +729,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 728,WJB6595110,Ponnar,Aarumugam,nan,nan,nan,49,M,1-N,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-N,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 729,WJB6595128,Jegajothy,nan,nan,Ponnar,nan,45,F,1-N,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-N,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 730,WJB2016541,Roobakkumar -,Sankar -,nan,nan,nan,29,M,1-N,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-N,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-731,WJB4914495,SOWMIYARANI MS,SHANKAR MR,nan,nan,nan,24,F,1/n,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1/N,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+731,WJB4914495,SOWMIYARANI MS,SHANKAR MR,nan,nan,nan,24,F,1/n,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1-N,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 732,WJB2170215,Sugnaya -,Mohanasundaram -,nan,nan,nan,28,F,10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 733,WJB4758199,B Logeshwaran,S Balasundaram,nan,nan,nan,23,M,1R,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,1R,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 734,JRT1948033,Neelamegam -,Ramaiah -,nan,nan,nan,75,M,2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -742,8 +742,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 741,WJB2016442,Thanabakyameri -,nan,nan,Sebashthiyan -,nan,37,F,2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 742,WJB4298709,deepan,rajalingam,nan,nan,nan,25,M,2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 743,NAN,Balasundharam -,Sinthan -,nan,nan,nan,52,NAN,2-1R,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2-1R,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
-744,WJB4764510,R Dhinadhayalan,V Ramakrishnan,nan,nan,nan,21,M,2/35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2/35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-745,WJB4769956,R sakthivel,V ramakrishnan,nan,nan,nan,19,M,2/35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2/35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+744,WJB4764510,R Dhinadhayalan,V Ramakrishnan,nan,nan,nan,21,M,2/35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2-35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+745,WJB4769956,R sakthivel,V ramakrishnan,nan,nan,nan,19,M,2/35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2-35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 746,WJB0231233,Jagadeesh -,Venugopal -,nan,nan,nan,35,M,2A,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 747,NHH2588572,Dhaneshwari -,nan,nan,Sakthivel -,nan,48,F,2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 748,WJB1871383,Balasubramaniyam ~,Ramasamy -,nan,nan,nan,72,NAN,3,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -752,12 +752,12 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 751,JRT4477410,Sambath -,Chinnasamy -,nan,nan,nan,39,M,3,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 752,JRT2365013,Chellalyah -,Vellaisamy -,nan,nan,nan,64,M,3-1,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-1,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 753,JRT1952134,Achikkannu -,nan,nan,Vellaisamy -,nan,85,F,3-2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-754,WJB0687335,Murugan -,Sundaram -,nan,nan,nan,63,M,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-755,WJB0687319,llaiarasai -,nan,nan,Murugam -,nan,48,F,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-756,WJB2170231,Marisevam -,Murugan -,nan,nan,nan,29,M,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-757,WJB2170249,Mahalakshmi -,Elayarashi -,nan,nan,nan,28,F,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-758,WJB3421344,Krishnaveni,nan,nan,Kannan,nan,65,F,3/6,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/6,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-759,WJB3425543,Sathya,Kannan,nan,nan,nan,42,F,3/6,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3/6,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+754,WJB0687335,Murugan -,Sundaram -,nan,nan,nan,63,M,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+755,WJB0687319,llaiarasai -,nan,nan,Murugam -,nan,48,F,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+756,WJB2170231,Marisevam -,Murugan -,nan,nan,nan,29,M,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+757,WJB2170249,Mahalakshmi -,Elayarashi -,nan,nan,nan,28,F,3/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+758,WJB3421344,Krishnaveni,nan,nan,Kannan,nan,65,F,3/6,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-6,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+759,WJB3425543,Sathya,Kannan,nan,nan,nan,42,F,3/6,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3-6,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 760,WJB0150300,Radhika -,nan,nan,Radhakrishnan -,nan,42,F,3A,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,3A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 761,JRT2837177,Muthuswamy -,Kovindasami -,nan,nan,nan,67,M,4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 762,WJB6599260,K Nandhakumar,Kandasamy,nan,nan,nan,44,M,4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -804,22 +804,22 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 803,NAN,nan,Thangamani,nan,nan,nan,24,M,7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
 804,WJB1871482,Maruthachalam -,Palaniyappan -,nan,nan,nan,62,M,7-4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 805,WJB1871490,Maragatham -,nan,nan,Maruthachalam -,nan,52,F,7-4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-806,NAN,nan,Ganesh -,nan,nan,nan,39,M,7/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/4,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
+806,NAN,nan,Ganesh -,nan,nan,nan,39,M,7/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-4,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
 807,WJB1871508,Ambika -,Maruthachalarmn -,nan,nan,nan,34,F,7-4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-808,DHH6060537,GIRWA,nan,nan,Rajan -,nan,71,F,7/8,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/8,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+808,DHH6060537,GIRWA,nan,nan,Rajan -,nan,71,F,7/8,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-8,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 809,WJB0687368,nan,Karuppanan -,nan,nan,nan,49,M,7-9,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-9,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 810,WJB0687376,Sumati -,nan,nan,Murugesan -,nan,46,F,7-9,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-9,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-811,WJB4819322,M Logesh,Murugesan,nan,nan,nan,21,M,7/9,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/9,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+811,WJB4819322,M Logesh,Murugesan,nan,nan,nan,21,M,7/9,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-9,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 812,WJB2551570,Kaliannan -,Marappan -,nan,nan,nan,53,M,7-10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 813,WJB1871516,Selvaraj -,Sivalingam -,nan,nan,nan,51,M,7-10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 814,WJB2551620,Kavitha -,nan,nan,Kaliannan -,nan,50,F,7-10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-815,WJB4311494,LOGNATHAN,KUZHANTHAISWAMY,nan,nan,nan,49,M,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+815,WJB4311494,LOGNATHAN,KUZHANTHAISWAMY,nan,nan,nan,49,M,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 816,WJB2689487,Selvarani -,nan,nan,Rajendran -,nan,46,F,7-10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 817,WJB2283455,Gokila -,nan,nan,Logananthan -,nan,41,F,7-10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-818,WJB4905147,KOWSALYA S KOWSALYA S,SELVARAJ S,nan,nan,nan,27,F,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-819,WJB3264462,Manikandan,Selvaraj,nan,nan,nan,0,M,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+818,WJB4905147,KOWSALYA S KOWSALYA S,SELVARAJ S,nan,nan,nan,27,F,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+819,WJB3264462,Manikandan,Selvaraj,nan,nan,nan,0,M,7/10,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-10,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 820,WJB1871532,GURUSWAMY NATARAJAN,Natarajan -,nan,nan,nan,51,M,7-24,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-24,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-821,WJB1871557,nan,nan,nan,Gurusamy -,nan,45,F,7/24,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/24,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+821,WJB1871557,nan,nan,nan,Gurusamy -,nan,45,F,7/24,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-24,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 822,WJB0231258,Vijayarathinam -,Chellaperumal ~,nan,nan,nan,75,M,7-25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 823,WJB0231266,Malaiyathal V,nan,nan,Vijayarathinam -,nan,70,F,7-25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 824,WJB0150318,Yogewaran -,Vijayarathinam -,nan,nan,nan,44,M,7-25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -827,7 +827,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 826,WJB2170256,Jagatheesh -,Rajarathinam -,nan,Yogeswaran -,nan,38,M,7-25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 827,WJB1599943,Priya -,nan,nan,Rajeshwaran -,nan,36,F,7-25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 828,WJB1871565,Chandrasekar -,Purushothaman -,nan,nan,nan,45,M,7-32,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-32,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-829,WJB4298626,baranidharan,bhuvaneshwaran,nan,nan,nan,22,M,7/32,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7/32,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+829,WJB4298626,baranidharan,bhuvaneshwaran,nan,nan,nan,22,M,7/32,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-32,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 830,WJB1871573,Ravi -,Jegavel -,nan,nan,nan,49,M,7-36,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-36,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 831,WJB1871581,Shoba -,nan,nan,Ravi -,nan,47,F,7-36,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-36,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 832,WJB2016384,Geetha -,nan,nan,Suresh -,nan,40,F,7-366,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,7-366,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -925,7 +925,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 924,WJB4468567,karthikeyan,Chinnasamy,nan,nan,nan,54,M,20,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,20,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 925,WJB1600006,Sakthy kumar -,Mariappan -,nan,nan,nan,48,M,20,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,20,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 926,WJB1599950,Munieswari -,nan,nan,Sakthi kumar -,nan,48,F,20,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,20,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-927,WJB4346862,KISHORE.S,SAKTH! KUMAR,nan,nan,nan,22,M,20/7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,20/7,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+927,WJB4346862,KISHORE.S,SAKTH! KUMAR,nan,nan,nan,22,M,20/7,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,20-7,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 928,JRT4478186,Kamalam -,nan,nan,GJ -,nan,56,F,21,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,21,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 929,WJB4311510,MAHESWARI,nan,nan,KALIDAS,nan,50,F,21,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,21,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 930,JRT4478707,Vasumathi -,nan,nan,Govindaraj -,nan,46,F,21,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,21,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -951,7 +951,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 950,JRT4480067,Sagunthala -,nan,nan,Shankar -,nan,44,F,25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 951,WJB2283471,Ramani -,nan,nan,Perumalsamy -,nan,42,F,25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 952,WJB2551489,mahesh kumar -,palanisamy -,nan,nan,nan,28,M,25,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,25,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-953,WJB4178851,KARTHIKEYAN,SENHIL KUMAR,nan,nan,nan,32,M,25/26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,25/26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+953,WJB4178851,KARTHIKEYAN,SENHIL KUMAR,nan,nan,nan,32,M,25/26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,25-26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 954,JRT4478392,Rangasamy -,Azhagan -,nan,nan,nan,69,M,26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 955,JRT2804458,Ganesh -,Kasamadan -,nan,nan,nan,60,M,26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 956,JRT4478129,Rajeshwari -,nan,nan,Rangasamy -,nan,55,F,26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -961,7 +961,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 960,WJB2283479,Mahendaran -,Ramasamy -,nan,nan,nan,31,M,27,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,27,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 961,WJB1871748,Viajayalakshmi -,Ramachandran -,nan,nan,nan,31,F,27,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,27,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 962,WJB4862892,SUGANYA R,RAMASAMY M,nan,nan,nan,24,F,27,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,27,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-963,WJB4890950,SANKAR V,Vaithiyalingam,nan,nan,nan,24,M,27/26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,27/26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+963,WJB4890950,SANKAR V,Vaithiyalingam,nan,nan,nan,24,M,27/26,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,27-26,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 964,JRT4477618,Muthusamy -,Muniandi -,nan,nan,nan,60,F,28,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,28,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 965,JRT4477923,Sarojini -,nan,nan,Muthuswamy -,nan,59,F,28,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,28,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 966,JRT4477964,Meenakshi -,Muthuswamy -,nan,nan,nan,40,F,28,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,28,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -1001,12 +1001,12 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1000,JRT1945716,Jegadhambal -,nan,nan,Kb -,nan,59,F,34,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1001,JRT4478657,Suresh kumar -,Kb -,nan,nan,nan,39,M,34,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1002,JRT4478731,Lalitkumar -,Kb -,nan,nan,nan,39,M,34,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1003,WJB1871474,Ramaraj -,VENKATESALU AL,nan,nan,nan,72,M,34/2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34/2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1003,WJB1871474,Ramaraj -,VENKATESALU AL,nan,nan,nan,72,M,34/2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34-2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1004,JRT4480364,Rajeshkumar -,Muthayiah -,nan,nan,nan,46,M,nan,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,NAN,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1005,JRT4480588,Thilagavathi -,nan,nan,Rajeshkumar -,nan,43,F,34-2,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34-2,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1006,WJB2170272,nan,Devaraj -,nan,nan,nan,47,M,34-5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34-5,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1007,WJB2170280,Gnanasundhari -,nan,nan,James -,nan,39,F,34-5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34-5,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1008,UHX0925651,Michael Sathesh,Iruthayam,nan,nan,nan,35,M,34/5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34/5,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1008,UHX0925651,Michael Sathesh,Iruthayam,nan,nan,nan,35,M,34/5,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,34-5,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1009,WJB2283487,Gopalsamy -,Ramaiya -,nan,nan,nan,77,M,35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1010,WJB2283495,Elangovan -,Gopalsamy -,nan,nan,nan,42,M,35,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,35,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1011,JRT4480885,Kanagaraj -,Kandhasamy -,nan,nan,nan,0,M,35-1,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,35-1,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -1041,7 +1041,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1040,WJB4733952,D Revathy,nan,nan,P kulanthaivelu,nan,41,F,38,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,38,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1041,JRT4479994,Balasubramaniyam -,Veerappan -,nan,nan,nan,0,M,39,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,39,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1042,JR74480133,Selvarani -,nan,nan,Balasubramaniam -,nan,54,F,39,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,39,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1043,WJB4733895,¥ mikelraj,N Yesudoss,nan,nan,nan,36,M,39A/na,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,39A/NA,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1043,WJB4733895,¥ mikelraj,N Yesudoss,nan,nan,nan,36,M,39A/na,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,39A-NA,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1044,JRT4478483,Krishnan -,Subbiah -,nan,nan,nan,61,M,40,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,40,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1045,NAN,Govindarajan -,Chinnappan -,nan,nan,nan,52,M,40,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,40,3-WARD NO 6 ARULANANTHAM NAGAR,['EPIC_ID_MISSING'],True
 1046,WJB1871839,Bhuvaneswari -,nan,nan,Govindrajan -,nan,42,F,40,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,40,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -1089,11 +1089,11 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1088,WJB0686808,anitha sarkar -,nan,nan,suail sarkar -,nan,60,F,197,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,197,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1089,WJB0686782,susilsarkar -,himansu kumar sarkar -,nan,nan,nan,45,M,197,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,197,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1090,WJB0686816,siththartha sarkar -,suail sarkar -,nan,nan,nan,33,M,197,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,197,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1091,WJB3185113,Premkumar -,Rajendran -,nan,nan,nan,26,M,835/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,835/4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1092,WJB4948758,Radha Ramachandran,nan,nan,Ramachandran,nan,56,F,853/14,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,853/14,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1093,WJB4760021,C Pappaththi,nan,nan,Chinnasamy,nan,63,F,856/A,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,856/A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1094,WJB4552790,Nithya,nan,nan,Elangovan,nan,42,F,858/,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,858/,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
-1095,WJB4759874,A chinnasamy,Arumugam,nan,nan,nan,65,M,858/24,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,858/24,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1091,WJB3185113,Premkumar -,Rajendran -,nan,nan,nan,26,M,835/4,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,835-4,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1092,WJB4948758,Radha Ramachandran,nan,nan,Ramachandran,nan,56,F,853/14,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,853-14,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1093,WJB4760021,C Pappaththi,nan,nan,Chinnasamy,nan,63,F,856/A,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,856-A,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1094,WJB4552790,Nithya,nan,nan,Elangovan,nan,42,F,858/,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,858-,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
+1095,WJB4759874,A chinnasamy,Arumugam,nan,nan,nan,65,M,858/24,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,858-24,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1096,WJB2288280,Manda Babjee -,Manda Jayarao -,nan,nan,nan,50,M,H,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,H,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1097,WJB4885877,Shobana R,nan,nan,Selvaganesh K,nan,30,F,No.17,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,NO.17,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
 1098,WJB1871540,SUMAN RAMARAJU SUMAN,Ramaraju -,nan,nan,nan,0,NAN,OLD,3-Ward No 6 Arulanantham Nagar,421,117-KAVUNDAMPALAYAM,117,OLD,3-WARD NO 6 ARULANANTHAM NAGAR,[],False
@@ -1129,7 +1129,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1128,WJB1599877,Dency flora -,Gnanaraj -,nan,nan,nan,30,F,4,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1129,WJB0687459,Ambika -,nan,nan,Mohan -,nan,58,F,4-16,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4-16,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1130,WJB2170348,Saranya -,nan,nan,Gokul -,nan,31,F,4-16,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4-16,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1131,WJB1599471,Gowri -,nan,nan,Vijayanathan -,nan,42,F,4/34,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4/34,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1131,WJB1599471,Gowri -,nan,nan,Vijayanathan -,nan,42,F,4/34,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,4-34,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1132,WJ80305359,Pradeep -,Marusamy -,nan,nan,nan,35,M,5,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,5,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1133,WJB1395615,Sindhu -,Maruchamy -,nan,nan,nan,32,F,5,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,5,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1134,WJB1395623,Rajkumar -,Shanmugasundram -,nan,nan,nan,32,M,5,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,5,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1154,20 +1154,20 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1153,NAN,Sathyapama -,nan,nan,babhu -,nan,38,F,7,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
 1154,WJB1599216,Vijayakanth -,Pichai -,nan,nan,nan,30,M,7,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1155,WJB2170363,Sumithra -,nan,nan,Balasubramani -,nan,41,F,7-2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-2,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1156,NAN,Aishvariya,Karthikeyan,nan,nan,nan,23,F,7/2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7/2,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
+1156,NAN,Aishvariya,Karthikeyan,nan,nan,nan,23,F,7/2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-2,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
 1157,WJB0687038,Kaviman i -,Vishwanathan -,nan,nan,nan,59,M,7-6,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-6,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1158,HBW3045341,Sathis Kumar M,Mohanchandran,nan,nan,nan,0,NAN,7/98,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7/98,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1158,HBW3045341,Sathis Kumar M,Mohanchandran,nan,nan,nan,0,NAN,7/98,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-98,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1159,WJB0687137,Amudha -,nan,nan,Kavimani -,nan,50,F,7-16,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-16,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1160,WJB1599760,Nandhakumar -,Laksmanen -,nan,nan,nan,54,M,7-17,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-17,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1161,WJB1599539,Banumathi -,nan,nan,Nandhakumar -,nan,49,F,7-17,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-17,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1162,WJB2170389,Mallika -,nan,nan,Rangasamy -,nan,60,F,7-17A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-17A,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1163,WJB2170397,Maheswari -,nan,nan,Palanisamy -,nan,39,F,7--17A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7--17A,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1163,WJB2170397,Maheswari -,nan,nan,Palanisamy -,nan,39,F,7--17A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-17A,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1164,WJB0763292,Kumaravel -,Palaisamy -,nan,nan,nan,53,M,7-18,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-18,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1165,WJB0763284,Velumani -,nan,nan,Kumaravel -,nan,48,F,7-18,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-18,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1166,WJB0687327,Rani -,nan,nan,Rajendran -,nan,58,F,7-21,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-21,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1167,WJB0687129,Arulmani -,nan,nan,Prakasam -,nan,44,F,7-21,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-21,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1168,WJB0686790,vansanthakumar -,Rajenthiran -,nan,nan,nan,34,M,7-21,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-21,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1169,WJB4298386,sharulya,prakasam,nan,nan,nan,22,M,7/21,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7/21,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1169,WJB4298386,sharulya,prakasam,nan,nan,nan,22,M,7/21,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-21,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1170,WJB1599414,Devarajan -,Vengadasami -,nan,nan,nan,67,M,7-274,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-274,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1171,WJB1599422,nan,nan,nan,Devarajan -,nan,56,F,7-27A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-27A,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1172,WJB1599356,Venkatesh -,Devarajan -,nan,nan,nan,39,M,7-27A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-27A,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1176,7 +1176,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1175,WJB0763300,Pusphalatha -,nan,nan,Nadarajan -,nan,49,F,7-38,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-38,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1176,WJB1599380,Rajendran -,Kandhasamy -,nan,nan,nan,59,M,7-55,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-55,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1177,WJB2551935,Kishore -,Rajendran -,nan,nan,nan,27,M,7-55,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-55,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1178,WJB4713426,Jenfer Saran Deena A,nan,nan,Karthik S,nan,23,F,07/58,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,07/58,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1178,WJB4713426,Jenfer Saran Deena A,nan,nan,Karthik S,nan,23,F,07/58,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,07-58,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1179,WJB1871953,Jayalakshmi -,nan,nan,Krshnasamy -,nan,56,F,7-62,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-62,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1180,WJB1871961,Ram kumar -,Krishnasamy -,nan,nan,nan,32,M,7-62,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-62,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1181,WJB1871979,Dinesh kumar -,Krishnasamy -,nan,nan,nan,29,M,7-62,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,7-62,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1191,7 +1191,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1190,ROG2433878,Kanchana -,nan,nan,Thavaraj -,nan,62,F,8,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,8,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1191,WJB1871987,Duraisamy -,Kumarasamy -,nan,nan,nan,53,M,9,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,9,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1192,WJB1599240,Tamilselvan -,Jothivel -,nan,nan,nan,31,M,9,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,9,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1193,WJB4301483,POOJASHRI K.D,DURAISAMY,nan,nan,nan,22,F,9/NA,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,9/NA,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1193,WJB4301483,POOJASHRI K.D,DURAISAMY,nan,nan,nan,22,F,9/NA,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,9-NA,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1194,WJB4794632,D YASWANTH KUMAR,K Duraisamy,nan,nan,nan,19,M,9,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,9,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1195,WJB6614820,P V Shantha Kumar,Velayudhan,nan,nan,nan,48,M,10-1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,10-1,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1196,WJB2689354,Sivaraj -,Maruthapagounder -,nan,nan,nan,56,M,10A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,10A,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1245,7 +1245,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1244,WJB1616259,Mahalakshmi -,nan,nan,Thiagarajan -,nan,43,F,29,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1245,WJB4346367,KS Arvind,Selvaraju,nan,nan,nan,23,M,29,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1246,NAN,K S Vignesh,Selvaraju,nan,nan,nan,22,M,29,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
-1247,WJB4718847,Sharnitha S R,Rajendran,nan,nan,nan,0,F,29/1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29/1,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1247,WJB4718847,Sharnitha S R,Rajendran,nan,nan,nan,0,F,29/1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,29-1,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1248,WJB1599711,Muthukumar -,Rajagopal -,nan,nan,nan,30,M,30,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,30,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1249,WJB1599737,Gopal V,Venkedusamy,nan,nan,nan,58,M,35,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,35,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1250,WJB0495531,Angels -,nan,nan,nan,chellayan -,59,F,36,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,36,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1259,7 +1259,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1258,JRT4480612,Vasudevan -,Nagan -,nan,nan,nan,63,M,44-2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,44-2,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1259,JRT4480620,Shanthi -,nan,nan,Vasudevan -,nan,57,F,44-2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,44-2,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1260,JRT4481032,Rajan -,Vasudevan -,nan,nan,nan,42,M,44-2,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,44-2,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1261,WJB0545608,Rangasamy -,Chinnasamy -,nan,nan,nan,59,M,44/4,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,44/4,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1261,WJB0545608,Rangasamy -,Chinnasamy -,nan,nan,nan,59,M,44/4,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,44-4,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1262,JRT2567287,Rangarajalu -,Narayanaswamy -,nan,nan,nan,70,M,45,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,45,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1263,JRT2567329,Parimala -,nan,nan,Rengarajalu -,nan,68,F,45,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,45,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1264,WJB0305367,Suresh - .e),Nate,nan,nan,nan,0,NAN,nan,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,NAN,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1284,7 +1284,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1283,WJB2551729,Sathasivan -,Annavi -,nan,nan,nan,48,M,50-1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,50-1,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1284,NAN,Sanmugasundaram -,planivelan -,nan,nan,nan,55,M,504A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,504A,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
 1285,WJB0495630,Selvi -,nan,nan,Shanmugasundaram -,nan,48,F,50A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,50A,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1286,WJB4878609,V Usha,nan,nan,Vivekanandan,nan,37,F,50/A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,50/A,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1286,WJB4878609,V Usha,nan,nan,Vivekanandan,nan,37,F,50/A,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,50-A,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1287,WJB0686592,Sivakami -,nan,nan,Rayappan -,nan,80,F,51,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,51,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1288,JRT1633445,Sivakumar -,Ayyappan -,nan,nan,nan,57,M,52,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,52,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1289,JRT1633478,Kavitha -,nan,nan,Sivakumar -,nan,47,F,52,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,52,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1333,7 +1333,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1332,JRT1977115,RAMESHKUMAR -,Balakrishnan -,nan,nan,nan,46,M,82,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,82,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1333,JRT2567782,srinivasaperumal -,nan,nan,Vijayakumar -,nan,40,F,82,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,82,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1334,WJB2283503,Mahalakshmi -,nan,nan,Gunasekaran -,nan,37,F,82,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,82,4-WARD NO 6 RAMASAMY NAGAR,[],False
-1335,WJB4811527,ANGELS,CHELLAYAA,nan,nan,nan,58,M,93/3,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,93/3,4-WARD NO 6 RAMASAMY NAGAR,[],False
+1335,WJB4811527,ANGELS,CHELLAYAA,nan,nan,nan,58,M,93/3,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,93-3,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1336,NAN,nan,Muthupandiyan -,nan,nan,nan,50,M,96,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,96,4-WARD NO 6 RAMASAMY NAGAR,['EPIC_ID_MISSING'],True
 1337,WJB3040409,muthupandiyan -,gurunathan -,nan,nan,nan,28,M,96,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,96,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1338,JRT2567428,Rajeshkumar -,Muthayiah -,nan,nan,nan,44,M,96-5-1,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,96-5-1,4-WARD NO 6 RAMASAMY NAGAR,[],False
@@ -1353,18 +1353,18 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1352,WJB1599612,Vijayashri -,nan,nan,Suman Ramaraju -,nan,0,NAN,OLD,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,OLD,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1353,NHH3650074,Iswariya,nan,nan,Praveenkumar,nan,0,NAN,SITE,4-Ward No 6 Ramasamy Nagar,421,117-KAVUNDAMPALAYAM,117,SITE,4-WARD NO 6 RAMASAMY NAGAR,[],False
 1354,WJB4637757,VIMAL,manoharan,nan,nan,nan,20,M,1,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,1,999-OVERSEAS ELECTORS,[],False
-1355,WJB4637773,MANIKANDAN,ravichandran,nan,nan,nan,20,M,1/30,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,1/30,999-OVERSEAS ELECTORS,[],False
+1355,WJB4637773,MANIKANDAN,ravichandran,nan,nan,nan,20,M,1/30,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,1-30,999-OVERSEAS ELECTORS,[],False
 1356,WJB4637898,RAGULRAJ,thandapani,nan,nan,nan,20,M,3,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,3,999-OVERSEAS ELECTORS,[],False
 1357,WJB4637732,DHIRAJ,jagatheesan,nan,nan,nan,20,M,7,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,7,999-OVERSEAS ELECTORS,[],False
-1358,WJB4637997,VIJAYAKUMAR,durai,nan,nan,nan,21,M,7/18,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,7/18,999-OVERSEAS ELECTORS,[],False
+1358,WJB4637997,VIJAYAKUMAR,durai,nan,nan,nan,21,M,7/18,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,7-18,999-OVERSEAS ELECTORS,[],False
 1359,WJB4637831,Sivaranjana M,nan,nan,nan,nan,23,F,9,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,9,999-OVERSEAS ELECTORS,[],False
 1360,WJB4637948,NAGARAJAPRABHU,ragavan,nan,nan,nan,22,M,22,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,22,999-OVERSEAS ELECTORS,[],False
 1361,WJB4637914,MANIKANDAPRABHU,ragavan,nan,nan,nan,21,M,22,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,22,999-OVERSEAS ELECTORS,[],False
-1362,WJB4637799,TAMILPRIYA,murugesan,nan,nan,nan,22,F,32/2,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,32/2,999-OVERSEAS ELECTORS,[],False
+1362,WJB4637799,TAMILPRIYA,murugesan,nan,nan,nan,22,F,32/2,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,32-2,999-OVERSEAS ELECTORS,[],False
 1363,WJB4637872,PREMA,nan,nan,chandrakumar,nan,35,F,39,999-Overseas Electors,421,117-KAVUNDAMPALAYAM,117,39,999-OVERSEAS ELECTORS,[],False
 1364,WJB4954616,THARUN NANDHAKUMAR,NANDHAKUMAR,nan,nan,nan,18,M,74,nan,421,117-KAVUNDAMPALAYAM,117,74,NAN,[],False
 1365,WJB4970612,JACK TITUS BABIN PRASAD,BABIN PRASAD,nan,nan,nan,20,M,22,nan,421,117-KAVUNDAMPALAYAM,117,22,NAN,[],False
-1366,WJB4984316,Kvignesh,8 Kalidass,nan,nan,nan,18,M,7/8,nan,421,117-KAVUNDAMPALAYAM,117,7/8,NAN,[],False
+1366,WJB4984316,Kvignesh,8 Kalidass,nan,nan,nan,18,M,7/8,nan,421,117-KAVUNDAMPALAYAM,117,7-8,NAN,[],False
 1367,WJB4984472,C Anusuya,K Chandra mohan,nan,nan,nan,19,F,24,nan,421,117-KAVUNDAMPALAYAM,117,24,NAN,[],False
 1368,NAN,R Ramya,Ramachandran T,nan,nan,nan,19,F,36,nan,421,117-KAVUNDAMPALAYAM,117,36,NAN,['EPIC_ID_MISSING'],True
 1369,WJB4986105,L Priyadharshini,Lalith Kumar K,nan,nan,nan,27,F,21,nan,421,117-KAVUNDAMPALAYAM,117,21,NAN,[],False
@@ -1377,28 +1377,28 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1376,WJB4993028,K sanjeevee,Kavimani,nan,nan,nan,21,M,16,nan,421,117-KAVUNDAMPALAYAM,117,16,NAN,[],False
 1377,WJB4992962,C Kiruthika,nan,nan,Pradeepkumar,nan,26,F,42,nan,421,117-KAVUNDAMPALAYAM,117,42,NAN,[],False
 1378,WJB4995155,S Naveen,Sekar,nan,nan,nan,22,M,7,nan,421,117-KAVUNDAMPALAYAM,117,7,NAN,[],False
-1379,RTG1933076,Selva -,Boopathy -,nan,nan,nan,46,M,7/644,nan,421,117-KAVUNDAMPALAYAM,117,7/644,NAN,[],False
+1379,RTG1933076,Selva -,Boopathy -,nan,nan,nan,46,M,7/644,nan,421,117-KAVUNDAMPALAYAM,117,7-644,NAN,[],False
 1380,1BU3285137,LAKSHMI.N,NATARAJ,nan,nan,nan,25,F,nan,nan,421,117-KAVUNDAMPALAYAM,117,NAN,NAN,[],False
 1381,WJB4996005,S Shrihari,Sundaram,nan,nan,nan,18,M,9,nan,421,117-KAVUNDAMPALAYAM,117,9,NAN,[],False
-1382,WJB4996245,R Amsavarthini,Radhakrishnan,nan,nan,nan,20,F,7/66,nan,421,117-KAVUNDAMPALAYAM,117,7/66,NAN,[],False
+1382,WJB4996245,R Amsavarthini,Radhakrishnan,nan,nan,nan,20,F,7/66,nan,421,117-KAVUNDAMPALAYAM,117,7-66,NAN,[],False
 1383,WJB4996567,L Shri Adhesh,Lokanathan,nan,nan,nan,19,M,38A,nan,421,117-KAVUNDAMPALAYAM,117,38A,NAN,[],False
-1384,WJB4997714,R Kirubakar,Ravindran,nan,nan,nan,19,M,1/L,nan,421,117-KAVUNDAMPALAYAM,117,1/L,NAN,[],False
+1384,WJB4997714,R Kirubakar,Ravindran,nan,nan,nan,19,M,1/L,nan,421,117-KAVUNDAMPALAYAM,117,1-L,NAN,[],False
 1385,WJB4997987,S Pavithra,Selvaraj,nan,nan,nan,18,F,14,nan,421,117-KAVUNDAMPALAYAM,117,14,NAN,[],False
 1386,WJB5005533,M Annamalai,Marimuthu,nan,nan,nan,73,M,1,nan,421,117-KAVUNDAMPALAYAM,117,1,NAN,[],False
-1387,WJB5013198,R Kishore,Ravindran,nan,nan,nan,19,M,1/L,nan,421,117-KAVUNDAMPALAYAM,117,1/L,NAN,[],False
+1387,WJB5013198,R Kishore,Ravindran,nan,nan,nan,19,M,1/L,nan,421,117-KAVUNDAMPALAYAM,117,1-L,NAN,[],False
 1388,NAN,T G Nishanth,Gopal,nan,nan,nan,18,M,33,nan,421,117-KAVUNDAMPALAYAM,117,33,NAN,['EPIC_ID_MISSING'],True
 1389,WJB5015250,A GOMATHI,nan,nan,Ansokkumar,nan,35,F,5,nan,421,117-KAVUNDAMPALAYAM,117,5,NAN,[],False
 1390,WJB5015276,K Ashokkumar,Karuppusamy,nan,nan,nan,45,M,5,nan,421,117-KAVUNDAMPALAYAM,117,5,NAN,[],False
 1391,WJB5018056,Eswari,nan,nan,nan,nan,69,F,11,nan,421,117-KAVUNDAMPALAYAM,117,11,NAN,[],False
-1392,WJB5020995,S PADMAPRIVYA,nan,nan,SUNDARAVEL,nan,35,F,13/547,nan,421,117-KAVUNDAMPALAYAM,117,13/547,NAN,[],False
-1393,WJB5021522,C UGESH,Chokkan,nan,nan,nan,43,M,861/4,nan,421,117-KAVUNDAMPALAYAM,117,861/4,NAN,[],False
-1394,WJB5021969,D Eswaran,Duraisamy,nan,nan,nan,61,M,5/38A,nan,421,117-KAVUNDAMPALAYAM,117,5/38A,NAN,[],False
-1395,WJB5022330,LNeenaRoshini,Loganathan,nan,nan,nan,18,F,7/10,nan,421,117-KAVUNDAMPALAYAM,117,7/10,NAN,[],False
-1396,W4JB5024062,G Valliamma,nan,nan,Veeraiya,nan,69,F,1/12,nan,421,117-KAVUNDAMPALAYAM,117,1/12,NAN,[],False
+1392,WJB5020995,S PADMAPRIVYA,nan,nan,SUNDARAVEL,nan,35,F,13/547,nan,421,117-KAVUNDAMPALAYAM,117,13-547,NAN,[],False
+1393,WJB5021522,C UGESH,Chokkan,nan,nan,nan,43,M,861/4,nan,421,117-KAVUNDAMPALAYAM,117,861-4,NAN,[],False
+1394,WJB5021969,D Eswaran,Duraisamy,nan,nan,nan,61,M,5/38A,nan,421,117-KAVUNDAMPALAYAM,117,5-38A,NAN,[],False
+1395,WJB5022330,LNeenaRoshini,Loganathan,nan,nan,nan,18,F,7/10,nan,421,117-KAVUNDAMPALAYAM,117,7-10,NAN,[],False
+1396,W4JB5024062,G Valliamma,nan,nan,Veeraiya,nan,69,F,1/12,nan,421,117-KAVUNDAMPALAYAM,117,1-12,NAN,[],False
 1397,NAN,G Retheswaran,Gopal,nan,nan,nan,23,M,35,nan,421,117-KAVUNDAMPALAYAM,117,35,NAN,['EPIC_ID_MISSING'],True
-1398,UKW0400408,Muthukumar -,Jayagopal -,nan,nan,nan,31,M,34/5,nan,421,117-KAVUNDAMPALAYAM,117,34/5,NAN,[],False
-1399,TUIO821314,Natarajan,Govindan,nan,nan,nan,71,M,25/A,nan,421,117-KAVUNDAMPALAYAM,117,25/A,NAN,[],False
-1400,SMP0862474,Priya -,Nallendiran -,nan,nan,nan,26,F,34/5,nan,421,117-KAVUNDAMPALAYAM,117,34/5,NAN,[],False
+1398,UKW0400408,Muthukumar -,Jayagopal -,nan,nan,nan,31,M,34/5,nan,421,117-KAVUNDAMPALAYAM,117,34-5,NAN,[],False
+1399,TUIO821314,Natarajan,Govindan,nan,nan,nan,71,M,25/A,nan,421,117-KAVUNDAMPALAYAM,117,25-A,NAN,[],False
+1400,SMP0862474,Priya -,Nallendiran -,nan,nan,nan,26,F,34/5,nan,421,117-KAVUNDAMPALAYAM,117,34-5,NAN,[],False
 1401,WJB5043880,S Dineshkumar,Sivalingam,nan,nan,nan,18,M,8,nan,421,117-KAVUNDAMPALAYAM,117,8,NAN,[],False
 1,JRT4503140,Gunavanthi -,nan,nan,Kannaiyalal -,nan,92,F,1,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 2,JRT4502977,Ashokmetha -,Kannanial -,nan,nan,nan,57,M,1,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1411,7 +1411,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 9,JRT4502167,Thivakarrao -,Subbarao -,nan,nan,nan,71,M,3,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 10,JRT4502175,Simarao -,nan,nan,Thivakarrao -,nan,66,F,3,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 11,JRT4502183,Apoorva -,nan,nan,Thivakarrao -,nan,38,F,3,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-12,WJB4436556,SHABIKA,RAJAMANI,nan,nan,nan,22,F,3/280P,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,3/280P,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+12,WJB4436556,SHABIKA,RAJAMANI,nan,nan,nan,22,F,3/280P,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,3-280P,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 13,WJB2690261,nan,Chinnasamy -,nan,nan,nan,81,M,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 14,WJB2172187,Mahakrishnan -,Eswara Vadivu -,nan,nan,nan,74,M,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 15,WJB2690253,Padmavathi -,nan,nan,Govindharaju -,nan,72,F,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1421,7 +1421,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 19,WJB2197176,Prem Anand -,Radhakrishnan -,nan,nan,nan,46,M,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 20,WJB2198117,Srikala -,nan,nan,Premanand -,nan,44,F,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 21,WJB0151027,Gokul kumar -,Mani -,nan,nan,nan,36,M,4,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-22,WJB4436861,PAGAVATHI SENTHIL KUMAR,SENTHIL KUMAR,nan,nan,nan,22,M,4/93,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4/93,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+22,WJB4436861,PAGAVATHI SENTHIL KUMAR,SENTHIL KUMAR,nan,nan,nan,22,M,4/93,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,4-93,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 23,WJB2172203,Vibitha -,Kuppusamy -,nan,nan,nan,29,F,nan,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 24,JRT2023349,Rajagopalan -,Rangasamy -,nan,nan,nan,79,M,6,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,6,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 25,JRT2023331,Vasantha -,nan,nan,Rajagopalan -,nan,75,F,6,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,6,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1457,9 +1457,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 55,NAN,Pushpalatha -,nan,nan,Shanmugasundaram -,nan,63,F,12-33,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-33,1-WARD NO 23 MADHUSOODHANAN NAGAR,['EPIC_ID_MISSING'],True
 56,WJB1056456,Vinothini -,nan,nan,nan,nan,35,F,12-33,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-33,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 57,WJB0492868,Chinnasamy -,Venkatachala Gounder -,nan,nan,nan,78,M,12-44,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-44,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-58,WJB4330155,nan,nan,nan,nan,sumathi,70,F,12/44,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12/44,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+58,WJB4330155,nan,nan,nan,nan,sumathi,70,F,12/44,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-44,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 59,WJB0492884,Dineshkumar -,Chinnasamy -,nan,nan,nan,44,M,12-44,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-44,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-60,WJB0232496,Vijay anandh -,Krishnasamy -,nan,nan,nan,46,M,12/A,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12/A,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+60,WJB0232496,Vijay anandh -,Krishnasamy -,nan,nan,nan,46,M,12/A,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,12-A,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 61,JRT4505137,Jayaraman -,Krishnamoorthy -,nan,nan,nan,85,M,13,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,13,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 62,JRT1615624,Kamala -,nan,nan,Jayaraman -,nan,77,F,13,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,13,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 63,JRT4526208,Thandavan -,Radhakrishnan -,nan,nan,nan,63,M,134,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,134,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1467,8 +1467,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 65,WJB0151100,Thangavelu -,Ramasamy -,nan,nan,nan,83,M,14,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 66,WJB39688165,Velumani -,Ramasamy -,nan,nan,nan,75,M,14,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 67,JRT2682227,Pratheepkumar -,Velumani -,nan,nan,nan,43,M,14,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-68,JRT5529318,Dhandapani S,Shanmugam K,nan,nan,nan,42,M,14/74,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14/74,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-69,KFS5571807,Suseela banu D,nan,nan,Dhandapani S,nan,38,F,14/7A,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14/7A,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+68,JRT5529318,Dhandapani S,Shanmugam K,nan,nan,nan,42,M,14/74,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14-74,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+69,KFS5571807,Suseela banu D,nan,nan,Dhandapani S,nan,38,F,14/7A,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,14-7A,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 70,JRT2682235,Thangarajan -,Kondappan -,nan,nan,nan,71,M,15,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,15,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 71,JRT2682243,Shanthi -,nan,nan,Thangarajan -,nan,66,F,15,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,15,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 72,JRT4502290,Rajeshkanna -,Thangarajan -,nan,nan,nan,38,M,15,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,15,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1476,7 +1476,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 74,WJB4890364,SUDHA,nan,nan,PUGAZHENTHI,nan,44,F,15,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,15,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 75,JRT2011617,Rejiyabanu -,nan,nan,Saleem ~,nan,53,F,17,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,17,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 76,WJB0150573,Riyaz -,Saleem -,nan,nan,nan,36,M,17-21,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,17-21,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-77,WJB3473220,Rizwana Azeem,Saleem,nan,nan,nan,26,F,17/21,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,17/21,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+77,WJB3473220,Rizwana Azeem,Saleem,nan,nan,nan,26,F,17/21,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,17-21,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 78,WJB3968823,Kasthuribai -,nan,nan,Banifacebolika -,nan,80,F,18-1,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,18-1,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 79,JRT2682276,nan,Banifacebolika -,nan,nan,nan,53,M,18-1,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,18-1,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 80,WJB0150565,Shalini -,nan,nan,Saranyan -,nan,41,F,18-19,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,18-19,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1509,7 +1509,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 107,WJB5577739,Nirmala,Sekar,nan,nan,nan,36,F,nan,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 108,TYQ0330217,Balakrishnan -,Muthusamy -,nan,nan,nan,34,M,31,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,31,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 109,WJB1874825,nan,Sampath -,nan,nan,nan,31,F,31,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,31,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
-110,WJB4330379,CHANDRA M,nan,nan,JAGADHEESAN,nan,43,F,32-32/,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,32-32/,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
+110,WJB4330379,CHANDRA M,nan,nan,JAGADHEESAN,nan,43,F,32-32/,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,32-32-,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 111,WJB4456885,Virendra M Trivedi -,Manherial Trivedi -,nan,nan,nan,78,M,36,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,36,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 112,WJB4456877,Susheela Virendra -,nan,nan,Virendra M Trivedi -,nan,68,F,36,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,36,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
 113,WJB2284327,Shanmugasundaram -,Chokkalingam -,nan,nan,nan,70,M,36-33,1-Ward No 23 Madhusoodhanan Nagar,427,117-KAVUNDAMPALAYAM,117,36-33,1-WARD NO 23 MADHUSOODHANAN NAGAR,[],False
@@ -1572,7 +1572,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 170,WJB1874833,Mangaleeswari -,Kumarsamy -,nan,nan,nan,30,F,1,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,1,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 171,WJB1874841,Yoganathan -,Srinivasan -,nan,nan,nan,37,M,1-8,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,1-8,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 172,JRT1636950,Ganeshan -,Venkatachalam -,nan,nan,nan,55,M,2,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,2,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-173,WJB1602572,Sathishkumar -,Subramani -,nan,nan,nan,33,M,2/77-3,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,2/77-3,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+173,WJB1602572,Sathishkumar -,Subramani -,nan,nan,nan,33,M,2/77-3,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,2-77-3,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 174,NAN,Hari Jayram -,Mani -,nan,nan,nan,30,M,4,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,4,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",['EPIC_ID_MISSING'],True
 175,WJB2018828,Govindasamy -,Pairaj -,nan,nan,nan,45,M,4-27,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,4-27,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 176,WJB2018836,Gomathi -,nan,nan,Govindasamy -,nan,44,F,4-27,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,4-27,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
@@ -1584,7 +1584,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 182,WJB2553410,nan,Rajenthiran -,nan,nan,nan,27,M,6A,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,6A,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 183,WJB4190633,Pavithra,Ramesh,nan,nan,nan,22,F,6B,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,6B,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 184,WJB3968872,Vasanthamani -,nan,nan,Pazhanisamy ~,nan,69,F,7,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,7,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-185,WJB4585915,Poovathal,nan,nan,Venkatachalam,nan,75,F,7/43,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,7/43,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+185,WJB4585915,Poovathal,nan,nan,Venkatachalam,nan,75,F,7/43,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,7-43,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 186,WJB3185592,ajitha -,nan,muniyandi -,nan,nan,28,F,7-e,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,7-E,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 187,WJB1874866,Ponnusamy -,Subramani -,nan,nan,nan,61,M,8,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,8,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 188,WJB2284359,Indhirani -,nan,nan,Ponnusamy -,nan,50,F,8,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,8,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
@@ -1751,7 +1751,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 349,WJB1104892,Asokan -,Sundarsan -,nan,nan,nan,45,M,65,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 350,JRT2735199,Radhika -,nan,nan,Kumarivel -,nan,42,F,65,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 351,JRT2735207,Sangeetha -,nan,nan,Asokan -,nan,39,F,65,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-352,WJB1107218,Rajlakshmi -,Ganesan -,nan,nan,nan,39,F,65/214,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65/214,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+352,WJB1107218,Rajlakshmi -,Ganesan -,nan,nan,nan,39,F,65/214,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65-214,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 353,WJB4683330,Krithesh Ashokan,Ashokan Sudharsanan,nan,nan,nan,22,M,65,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,65,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 354,JRT2682466,Selvi -,nan,nan,Nataraj -,nan,48,F,66,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,66,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 355,WJB3364288,Gokil,Natarajan,nan,nan,nan,24,M,66,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,66,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
@@ -1761,7 +1761,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 359,WJB1875061,Srikanth -,Devaraj -,nan,nan,nan,33,M,67,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,67,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 360,WJB0493163,Samsutheen -,MOhammedSait -,nan,nan,nan,35,M,68,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,68,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 361,WJB1602614,Gothar bava -,Mohamed set -,nan,nan,nan,30,M,68,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,68,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-362,WJB4585873,nan,nan,nan,Mohamed sait,nan,50,F,68/216,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,68/216,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+362,WJB4585873,nan,nan,nan,Mohamed sait,nan,50,F,68/216,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,68-216,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 363,WJB3185634,Karthick raja -,Pavun pandi -,nan,nan,nan,26,M,69,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,69,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 364,WJB1875079,Devasana -,nan,nan,Rajendran ~,nan,54,F,69A,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,69A,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 365,WJB1602838,Syedali Fathima -,nan,nan,haithar ali -,nan,48,F,70,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,70,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
@@ -1824,7 +1824,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 422,JRT4506788,Jayamani -,nan,nan,Ramasamy ~,nan,58,F,91,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,91,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 423,WJB1875145,Pappathi -,nan,nan,Ramasamy -,nan,58,F,92,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,92,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 424,WJB1875152,Ganesan -,Marappan ~-,nan,nan,nan,57,M,92,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,92,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-425,WJB3404837,Prashanth,Ganesh,nan,nan,nan,25,M,92/1134,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,92/1134,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+425,WJB3404837,Prashanth,Ganesh,nan,nan,nan,25,M,92/1134,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,92-1134,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 426,WJB3971439,Thulasimani -,nan,nan,Selvaraj -,nan,0,F,nan,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,NAN,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 427,WJB2172286,Arunkumar -,Selvaraj -,nan,nan,nan,28,M,93,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,93,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 428,WJB2284383,Priyanka -,nan,Indhira -,nan,nan,68,F,94,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,94,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
@@ -2248,10 +2248,10 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 846,WJB2018646,raj -,perumal -,nan,nan,nan,54,M,na,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,NA,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 847,WJB2018620,nan,palanisamy -,nan,nan,nan,52,M,na,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,NA,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 848,YVR0945881,KAVITHA,nan,nan,SELVARAJ,nan,47,F,NO,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,NO,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
-849,ZWY1099159,nan,Arumugam -,nan,nan,nan,27,F,W/O,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,W/O,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
+849,ZWY1099159,nan,Arumugam -,nan,nan,nan,27,F,W/O,"3-Ward No 7 Athikkuttai, Anna Nagar",427,117-KAVUNDAMPALAYAM,117,W-O,"3-WARD NO 7 ATHIKKUTTAI, ANNA NAGAR",[],False
 850,WJB3415510,Indhumathi,nan,nan,Palaniswamy,nan,42,F,92,999-Overseas Electors,427,117-KAVUNDAMPALAYAM,117,92,999-OVERSEAS ELECTORS,[],False
 851,WJB4951505,sashwath S,Saranyan,nan,nan,nan,18,M,"18,",nan,427,117-KAVUNDAMPALAYAM,117,"18,",NAN,[],False
-852,WJB4955092,VITHYATHARAN,VELAYATHANAIAR,nan,nan,nan,71,M,9/61,nan,427,117-KAVUNDAMPALAYAM,117,9/61,NAN,[],False
+852,WJB4955092,VITHYATHARAN,VELAYATHANAIAR,nan,nan,nan,71,M,9/61,nan,427,117-KAVUNDAMPALAYAM,117,9-61,NAN,[],False
 853,WJB4956868,HARINIVS,SRINIVASAN,nan,nan,nan,20,F,26,nan,427,117-KAVUNDAMPALAYAM,117,26,NAN,[],False
 854,WJB4958153,PRAVEENA,KUMARAVEL,nan,nan,nan,25,F,658,nan,427,117-KAVUNDAMPALAYAM,117,658,NAN,[],False
 855,WJB4959508,Jothika Nagaraj,Nagaraj,nan,nan,nan,23,F,45,nan,427,117-KAVUNDAMPALAYAM,117,45,NAN,[],False
@@ -2269,20 +2269,20 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 867,WJB5016050,LATHIGA GUNASEKARAN,GUNASEGARAN,nan,nan,nan,19,F,94,nan,427,117-KAVUNDAMPALAYAM,117,94,NAN,[],False
 868,WJB5022033,VINITA P,nan,nan,PRABHU,nan,39,F,118,nan,427,117-KAVUNDAMPALAYAM,117,118,NAN,[],False
 869,WJB5025135,nan,MARUDHACHALAM,nan,nan,nan,21,M,230,nan,427,117-KAVUNDAMPALAYAM,117,230,NAN,[],False
-870,WJB5040787,VITHYATHARAN,VELAYATHANAIAR,nan,nan,nan,0,NAN,9/61,nan,427,117-KAVUNDAMPALAYAM,117,9/61,NAN,[],False
+870,WJB5040787,VITHYATHARAN,VELAYATHANAIAR,nan,nan,nan,0,NAN,9/61,nan,427,117-KAVUNDAMPALAYAM,117,9-61,NAN,[],False
 1,WJB0711440,Rani -,nan,nan,Vijian -,nan,66,F,1,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 2,WJB4462651,Hemavathy,nan,nan,Prashanth,nan,33,F,1-1A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-1A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-3,WJB4189304,DIVYA SHAI.S,SAMINATHAN.L,nan,nan,nan,22,F,1/1A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1/1A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+3,WJB4189304,DIVYA SHAI.S,SAMINATHAN.L,nan,nan,nan,22,F,1/1A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-1A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 4,WJB3220464,Ganesh,Dhamotharan,nan,nan,nan,33,M,1-2b,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-2B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-5,WJB4314977,Revathi,nan,nan,Chandrasekaran,nan,28,F,1/12,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1/12,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+5,WJB4314977,Revathi,nan,nan,Chandrasekaran,nan,28,F,1/12,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-12,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 6,WJB1444538,Leela -,nan,nan,Murugesh -,nan,57,F,1-15,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-15,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-7,WJB4189312,PREETI.C.P,PRABHAKARAN.C,nan,nan,nan,0,NAN,1/23,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1/23,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+7,WJB4189312,PREETI.C.P,PRABHAKARAN.C,nan,nan,nan,0,NAN,1/23,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-23,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 8,WJB2225863,Daisy -,nan,nan,Michael -,nan,61,F,1-25,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-25,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 9,WJB2225895,Vinitha -,Michael -,nan,nan,nan,30,F,1-25,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-25,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-10,WJB4188827,GOKUL KRISHNAN.K,KRISHNAMOORTHY.RA,nan,nan,nan,22,M,1/86,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1/86,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+10,WJB4188827,GOKUL KRISHNAN.K,KRISHNAMOORTHY.RA,nan,nan,nan,22,M,1/86,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-86,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 11,WJB4494969,MAHESHWARI,nan,nan,KRISHNASAMY,nan,68,F,01-87,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,01-87,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-12,WJB3090396,Vigneshwaran -,krishnasamy -,nan,nan,nan,43,M,1/87,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1/87,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-13,WJB3090164,Rajeswari -,nan,nan,Vigneshwaran -,nan,34,F,01/87,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,01/87,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+12,WJB3090396,Vigneshwaran -,krishnasamy -,nan,nan,nan,43,M,1/87,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,1-87,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+13,WJB3090164,Rajeswari -,nan,nan,Vigneshwaran -,nan,34,F,01/87,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,01-87,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 14,WJB3220498,Aishwarya,Palaniappan,nan,nan,nan,25,F,2,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,2,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 15,WJB2225903,Babu -,Krishnan -,nan,nan,nan,43,M,2-231,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,2-231,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 16,WJB3287430,Manivel,Kasinathan,nan,nan,nan,61,M,2-562,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,2-562,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
@@ -2293,8 +2293,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 21,MPR3028792,Babu -,Krishnan =,nan,nan,nan,39,M,3,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 22,WJB4431656,VIJAYALAKSHMI,MANISH KUMAR,nan,nan,nan,37,F,3,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,3,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 23,WJB3613171,Asmath -,nan,nan,RAHEEM -,nan,59,F,nan,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-24,WJB3383742,Revathi,nan,nan,Murugesan,nan,47,F,5/2B,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5/2B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-25,WJB4188876,K Subramaniakrishnan,Kumarakrishnnan,nan,nan,nan,29,M,5/29,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5/29,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+24,WJB3383742,Revathi,nan,nan,Murugesan,nan,47,F,5/2B,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-2B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+25,WJB4188876,K Subramaniakrishnan,Kumarakrishnnan,nan,nan,nan,29,M,5/29,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-29,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 26,WJB2225911,Ramanathan -,Subramaniam -,nan,nan,nan,86,M,5-44,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-44,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 27,WJB2225919,Ganesh -,Ramanathan -,nan,nan,nan,59,M,5-44,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-44,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 28,NAN,Selva Sudha -,nan,nan,Saint Petar -,nan,41,F,5-52,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,5-52,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),['EPIC_ID_MISSING'],True
@@ -2309,26 +2309,26 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 37,WJB2225935,Manimegalai -,nan,nan,Udhayakumar -,nan,64,F,6,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,6,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 38,MPR4906897,Nagalingam -,Andidevar -,nan,nan,nan,77,M,7,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 39,MPR4907440,Malliga -,nan,nan,Nagalingam -,nan,59,F,7,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-40,WJB4910691,Mahesh,Murugan,nan,nan,nan,37,M,7/4A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7/4A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+40,WJB4910691,Mahesh,Murugan,nan,nan,nan,37,M,7/4A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7-4A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 41,WJB0711390,Raju -,Narayanasamy -,nan,nan,nan,88,M,7-31A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7-31A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 42,WJB0710988,Vijaya -,nan,nan,Raju -,nan,76,F,7-314,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,7-314,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 43,WJB4658308,nan,KARTHIKEYAN NA,nan,nan,nan,20,F,78,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,78,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 44,WJB4914826,nan,nan,nan,MUTHALAGU,nan,0,NAN,nan,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,NAN,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 45,WJB3220480,Harippriya,Selvaraj,nan,nan,nan,25,F,9-7,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-7,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-46,WJB4086211,Siva kurunathan,Thangavel,nan,nan,nan,28,M,9/284,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9/284,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-47,WJB4086203,Gnana moganraj,Thangavel,nan,nan,nan,23,M,9/284,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9/284,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+46,WJB4086211,Siva kurunathan,Thangavel,nan,nan,nan,28,M,9/284,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-284,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+47,WJB4086203,Gnana moganraj,Thangavel,nan,nan,nan,23,M,9/284,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-284,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 48,WJB3261385,Varun pirasath,Jayaraman,nan,nan,nan,25,M,9-30,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-30,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 49,WJB2225943,nan,Manojkumar -,nan,nan,nan,33,M,9-35,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-35,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 50,WJB3220472,Malini,Kalaiarasan,nan,nan,nan,25,F,9-37-a,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-37-A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-51,WJB3287489,Devadarshini,Kannan,nan,nan,nan,24,NAN,9/39A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9/39A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+51,WJB3287489,Devadarshini,Kannan,nan,nan,nan,24,NAN,9/39A,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-39A,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 52,WJB4431698,YASHVIR,DHANARAJ,nan,nan,nan,22,M,9-48,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-48,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-53,WJB4189544,SUVETHA,RAMACHANDRAN,nan,nan,nan,27,F,9/51,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9/51,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+53,WJB4189544,SUVETHA,RAMACHANDRAN,nan,nan,nan,27,F,9/51,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-51,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 54,WJB1006105,Vincent -,Lonappan -,nan,nan,nan,78,M,9-66,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-66,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 55,WJB1006030,Shoba devi -,nan,nan,Shanmuga nathan -,nan,53,F,9-66,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-66,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-56,WJB4489639,THANNAS! MUTHU PARAMAGURU,PARAMAGURU,nan,nan,nan,76,M,9/66,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9/66,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+56,WJB4489639,THANNAS! MUTHU PARAMAGURU,PARAMAGURU,nan,nan,nan,76,M,9/66,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,9-66,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 57,WJB3011442,krishnamoorthy -,palanisamy -,nan,nan,nan,84,M,11,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,11,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 58,WJB2225951,Idaythulla -,Mohamedibrahim -,nan,nan,nan,62,M,11,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,11,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-59,WJB4688438,Dhanalakshmi M,nan,nan,Muthusamy,nan,68,F,11/5,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,11/5,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+59,WJB4688438,Dhanalakshmi M,nan,nan,Muthusamy,nan,68,F,11/5,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,11-5,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 60,WJB2225959,Shahoo! hameed -,Mahaboob sheriff -,nan,nan,nan,0,NAN,12,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,12,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 61,WJB2225967,Nazneen -,nan,nan,Shahoo! hameed -,nan,46,F,12,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,12,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 62,WJB3287471,Prasanna Lakshmi,Srinivasan,nan,nan,nan,34,F,12,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,12,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
@@ -2366,11 +2366,11 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 94,WJB0711424,Archana -,Sinivasan -,nan,nan,nan,34,F,43B,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,43B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 95,WJB4788915,R Natarajan,Rangarajan,nan,nan,nan,72,M,50,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,50,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 96,WJB4929428,Murugan A,Arumugam,nan,nan,nan,47,M,60-14,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,60-14,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-97,WJB4691812,Mithra,Karthikeyan,nan,nan,nan,26,F,62/2,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,62/2,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+97,WJB4691812,Mithra,Karthikeyan,nan,nan,nan,26,F,62/2,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,62-2,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 98,WJB4411955,S Shivesh,Saravanan,nan,nan,nan,22,M,63-64,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,63-64,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-99,WJB4750725,SELVARAJ,ARTHANARI,nan,nan,nan,64,M,89/1,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,89/1,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-100,KFS2693885,Sureshkumar -,Sugumaran -,nan,nan,nan,39,M,89/2,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,89/2,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
-101,WJB3615374,Sivagnanasiddhi -,Thangavelu -,nan,nan,nan,49,M,91/1B,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,91/1B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+99,WJB4750725,SELVARAJ,ARTHANARI,nan,nan,nan,64,M,89/1,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,89-1,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+100,KFS2693885,Sureshkumar -,Sugumaran -,nan,nan,nan,39,M,89/2,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,89-2,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
+101,WJB3615374,Sivagnanasiddhi -,Thangavelu -,nan,nan,nan,49,M,91/1B,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,91-1B,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 102,WJB2707081,AROCKIAARUN -,ADAIKKALAM -,nan,nan,nan,31,M,94,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,94,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 103,WJB3287505,VENKATACHALAM,NAGARATHINAM,nan,nan,nan,93,M,105,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,105,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
 104,WJB3287513,JAYALAKSHMI,nan,nan,VENKATACHALAM,nan,83,F,105,1-Ward No 1 Rice Mill Thottam (Mettupalayam Road),95,117-KAVUNDAMPALAYAM,117,105,1-WARD NO 1 RICE MILL THOTTAM (METTUPALAYAM ROAD),[],False
@@ -2496,7 +2496,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 224,MPR2495851,Niranjanpithakar -,Prajithakka -,nan,nan,nan,66,M,6,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,6,2-WARD NO 1S P NAGAR,[],False
 225,WJB2198606,Gowri -,nan,nan,Raghavendra Nagar -,nan,58,F,6,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,6,2-WARD NO 1S P NAGAR,[],False
 226,WJB1445154,Shanmugamoorthy -,Sennimalai -,nan,nan,nan,47,M,6,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,6,2-WARD NO 1S P NAGAR,[],False
-227,WJB4944682,Vinita Devi A,nan,nan,Ashok Bhawaralal,nan,26,F,6/1,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,6/1,2-WARD NO 1S P NAGAR,[],False
+227,WJB4944682,Vinita Devi A,nan,nan,Ashok Bhawaralal,nan,26,F,6/1,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,6-1,2-WARD NO 1S P NAGAR,[],False
 228,MPR2309508,Krishnaveni Palaniappan,nan,nan,Ganesh -,nan,64,F,No,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,NO,2-WARD NO 1S P NAGAR,[],False
 229,WJB0383968,Murugeshan -,Natchiyappa -,nan,nan,nan,51,M,7,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,7,2-WARD NO 1S P NAGAR,[],False
 230,WJB3613247,ALLIMUTHU -,Maruthappagounder -,nan,nan,nan,71,M,7-68,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,7-68,2-WARD NO 1S P NAGAR,[],False
@@ -2515,25 +2515,25 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 243,WJB1682962,Saraswathi -,Sethuraman -,nan,nan,nan,67,F,9-1,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-1,2-WARD NO 1S P NAGAR,[],False
 244,WJB1683036,Kirubakaran -,Periyaannan -,nan,nan,nan,42,M,9-14,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-14,2-WARD NO 1S P NAGAR,[],False
 245,WJB1683044,Vimalarani -,nan,nan,Periyannan -,nan,37,F,9-14,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-14,2-WARD NO 1S P NAGAR,[],False
-246,WJB4414140,KUPPATHAL,nan,nan,RAMASAMY GOUNDER,nan,84,F,9/6,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9/6,2-WARD NO 1S P NAGAR,[],False
+246,WJB4414140,KUPPATHAL,nan,nan,RAMASAMY GOUNDER,nan,84,F,9/6,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-6,2-WARD NO 1S P NAGAR,[],False
 247,WJB1006071,Nalini -,nan,nan,Alli muthu -,nan,61,F,9-4b,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-4B,2-WARD NO 1S P NAGAR,[],False
 248,MPR4900791,VIKNESH -,ALLIMUTHU -,nan,nan,nan,40,M,9-6B,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-6B,2-WARD NO 1S P NAGAR,[],False
 249,WJB1006154,Tharani -,Alli muthu -,nan,nan,nan,36,M,9-6b,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-6B,2-WARD NO 1S P NAGAR,[],False
 250,MPR3135316,Ganapathiammal -,nan,nan,Kannan -,nan,58,F,9-6E,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-6E,2-WARD NO 1S P NAGAR,[],False
 251,WJB1682970,Manigandan -,Kannan -,nan,nan,nan,34,M,9-6E,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-6E,2-WARD NO 1S P NAGAR,[],False
 252,WJB1894427,Suganthi -,nan,nan,Duraisamy -,nan,50,F,9-7,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-7,2-WARD NO 1S P NAGAR,[],False
-253,WJB4897716,KavinaDS,Duraisamy,nan,nan,nan,19,F,9/7,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9/7,2-WARD NO 1S P NAGAR,[],False
+253,WJB4897716,KavinaDS,Duraisamy,nan,nan,nan,19,F,9/7,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-7,2-WARD NO 1S P NAGAR,[],False
 254,WJB0944843,Saranya -,Somasundaram -,nan,nan,nan,35,F,9-10,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-10,2-WARD NO 1S P NAGAR,[],False
 255,WJB2639631,Arjunraj -,Somasuntharam -,nan,nan,nan,28,M,9-10,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-10,2-WARD NO 1S P NAGAR,[],False
 256,WJB1919513,Prasaanth -,Sekar -,nan,nan,nan,31,M,9-11,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-11,2-WARD NO 1S P NAGAR,[],False
 257,WJB1919448,Rajakumar -,Palanisamy -,nan,nan,nan,51,M,9-16,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-16,2-WARD NO 1S P NAGAR,[],False
 258,WJB1919554,Palanikani -,nan,nan,Rajakumaran -,nan,47,F,9-16,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-16,2-WARD NO 1S P NAGAR,[],False
-259,WJB4565875,SAMRAJ S,SUBBIAN,nan,nan,nan,53,M,9/20,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9/20,2-WARD NO 1S P NAGAR,[],False
+259,WJB4565875,SAMRAJ S,SUBBIAN,nan,nan,nan,53,M,9/20,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-20,2-WARD NO 1S P NAGAR,[],False
 260,WJB0310151,Eswaramoorthy -,Sivasubramaniam -,nan,nan,nan,75,M,9-26,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-26,2-WARD NO 1S P NAGAR,[],False
 261,WJBO310169,Krishnaveni -,nan,nan,Eswaramuruthi -,nan,63,F,9-26,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-26,2-WARD NO 1S P NAGAR,[],False
 262,WJB1682988,Gowtham -,Jeyaram -,nan,nan,nan,29,M,9-30,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-30,2-WARD NO 1S P NAGAR,[],False
 263,WJB0712448,ArunPrasanth -,Raja -,nan,nan,nan,34,M,9-31,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-31,2-WARD NO 1S P NAGAR,[],False
-264,WJB4564944,A BASHA,ABDUL RAZAK,nan,nan,nan,72,M,"9/31A,",2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,"9/31A,",2-WARD NO 1S P NAGAR,[],False
+264,WJB4564944,A BASHA,ABDUL RAZAK,nan,nan,nan,72,M,"9/31A,",2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,"9-31A,",2-WARD NO 1S P NAGAR,[],False
 265,WJB2064269,Amminu Basha -,nan,nan,Basha -,nan,61,F,9-314,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-314,2-WARD NO 1S P NAGAR,[],False
 266,WJB2064509,nan,Basha -,nan,nan,nan,31,M,9-31-A,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-31-A,2-WARD NO 1S P NAGAR,[],False
 267,WJBO0310201,Pappatthi -,nan,nan,Ramasamy -,nan,85,F,9-33,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-33,2-WARD NO 1S P NAGAR,[],False
@@ -2544,7 +2544,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 272,WJB2589604,Kalaiarasan -,Chinnaiyah -,nan,nan,nan,56,M,9-37A,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-37A,2-WARD NO 1S P NAGAR,[],False
 273,WJB2589679,Sudha -,nan,nan,Kalaiarasan -,nan,43,F,9-374,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-374,2-WARD NO 1S P NAGAR,[],False
 274,NAN,Ananthi -,Yuvaraj,nan,nan,nan,60,F,9-39a,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-39A,2-WARD NO 1S P NAGAR,['EPIC_ID_MISSING'],True
-275,WJB4912945,YASHVIR D,Dhanaraj,nan,nan,nan,23,M,"9/48,",2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,"9/48,",2-WARD NO 1S P NAGAR,[],False
+275,WJB4912945,YASHVIR D,Dhanaraj,nan,nan,nan,23,M,"9/48,",2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,"9-48,",2-WARD NO 1S P NAGAR,[],False
 276,WJB0713230,Shanmugaraj ~,nan,nan,nan,nan,34,M,9-57,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-57,2-WARD NO 1S P NAGAR,[],False
 277,MPR3308699,Sekar -,Raju -,nan,nan,nan,54,M,9-63,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-63,2-WARD NO 1S P NAGAR,[],False
 278,MPR3308707,Nalini -,nan,nan,Sekar -,nan,51,F,9-63,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,9-63,2-WARD NO 1S P NAGAR,[],False
@@ -2594,7 +2594,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 322,WJB4816823,Akilash Jayashankar,Jayashankar G,nan,nan,nan,20,M,"41,42",2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,"41,42",2-WARD NO 1S P NAGAR,[],False
 323,WJB2589539,vignesh -,Natarajan -,nan,nan,nan,35,M,A14,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,A14,2-WARD NO 1S P NAGAR,[],False
 324,WJB2589703,karthik -,Natarajan -,nan,nan,nan,33,M,al4,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,AL4,2-WARD NO 1S P NAGAR,[],False
-325,WJB4310033,nan,nan,nan,RAMAKRISHNAN,nan,70,F,B2/205,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,B2/205,2-WARD NO 1S P NAGAR,[],False
+325,WJB4310033,nan,nan,nan,RAMAKRISHNAN,nan,70,F,B2/205,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,B2-205,2-WARD NO 1S P NAGAR,[],False
 326,WJB1445089,Santhirasekaran -,Arunatsalam -,nan,nan,nan,77,M,C002,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,C002,2-WARD NO 1S P NAGAR,[],False
 327,WJB1445071,Sela -,nan,nan,Sanderasekaran =,nan,75,F,C002,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,C002,2-WARD NO 1S P NAGAR,[],False
 328,WJB1683358,Shanmugasundaram -,Nellaiyapan -,nan,nan,nan,45,M,D2,2-Ward No 1S P Nagar,95,117-KAVUNDAMPALAYAM,117,D2,2-WARD NO 1S P NAGAR,[],False
@@ -2612,8 +2612,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 340,NAN,Shobana -,Srithar -,nan,nan,nan,33,F,1,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1,3-WARD NO 1 RUKKAMMAL COLONY,['EPIC_ID_MISSING'],True
 341,WJB0384420,NanthiniChaidhanya -,Nadarajan -,nan,nan,nan,33,F,1,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 342,WJB1006501,Mohammed arsath -,Sirajudeen -,nan,nan,nan,32,M,1-,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-,3-WARD NO 1 RUKKAMMAL COLONY,[],False
-343,WJB4697751,Shyam Bala m,Muthukurmar,nan,nan,nan,19,M,1/104,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1/104,3-WARD NO 1 RUKKAMMAL COLONY,[],False
-344,WJB4811477,Krishna Gopal VS,AV Subramaniam,nan,nan,nan,20,M,1/11A,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1/11A,3-WARD NO 1 RUKKAMMAL COLONY,[],False
+343,WJB4697751,Shyam Bala m,Muthukurmar,nan,nan,nan,19,M,1/104,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-104,3-WARD NO 1 RUKKAMMAL COLONY,[],False
+344,WJB4811477,Krishna Gopal VS,AV Subramaniam,nan,nan,nan,20,M,1/11A,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-11A,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 345,WJB1118637,Ravichandran -,Subramaniam -,nan,nan,nan,60,M,1-16,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-16,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 346,WJB1118645,Vimala -,nan,nan,Ravichandran -,nan,48,F,1-16,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-16,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 347,WJB1682137,nan,Ravichandran -,nan,nan,nan,29,F,1-16,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-16,3-WARD NO 1 RUKKAMMAL COLONY,[],False
@@ -2622,7 +2622,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 350,WJB0743351,Mesna Kumari -,nan,nan,Prabhakaran -,nan,44,F,1-23,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-23,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 351,WJB4370532,A Vishnuprabhu,Angamuthu,nan,nan,nan,36,M,1-23,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-23,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 352,WJB4378816,Sangeeth,nan,nan,Vishnuprabhu,nan,36,F,1-23,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-23,3-WARD NO 1 RUKKAMMAL COLONY,[],False
-353,WJB4403465,VISHAL M,MURUGESAN V,nan,nan,nan,22,M,1/42,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1/42,3-WARD NO 1 RUKKAMMAL COLONY,[],False
+353,WJB4403465,VISHAL M,MURUGESAN V,nan,nan,nan,22,M,1/42,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-42,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 354,WJB0746404,Shankaran -,Halan =,nan,nan,nan,64,M,1-A,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-A,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 355,WJB0944900,Shanthi -,nan,nan,Shankaran,nan,58,F,1-A,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-A,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 356,WJB0944892,Vignesh -,Shankaran -,nan,nan,nan,34,M,1-A,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,1-A,3-WARD NO 1 RUKKAMMAL COLONY,[],False
@@ -2804,7 +2804,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 532,WJB1444959,Krishnakumar -,nan,Radhadevi amma -,nan,nan,58,M,s-3,3-Ward No 1 Rukkammal Colony,95,117-KAVUNDAMPALAYAM,117,S-3,3-WARD NO 1 RUKKAMMAL COLONY,[],False
 533,WJB4600664,ASHWIN,nan,PALANIAPPAN,nan,nan,20,M,2,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,2,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 534,WJB3400488,Murugesan,Govindarajan,nan,nan,nan,51,M,5-23,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,5-23,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
-535,WJB4313581,Harini,Rajakumaran,nan,nan,nan,22,F,9/16,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,9/16,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
+535,WJB4313581,Harini,Rajakumaran,nan,nan,nan,22,F,9/16,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,9-16,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 536,MPR9574500,Parvathi -,nan,nan,Natarajan -,nan,60,F,9-38,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,9-38,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 537,WJB4154704,LEEMA ROSE,nan,nan,ARUL JEEVA,nan,43,F,38,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,38,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 538,WJB3613379,Murugesan -,Senniyappan -,nan,nan,nan,64,M,101,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,101,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
@@ -2815,14 +2815,14 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 543,WJB4821559,NARAYANAN,GANESA IYER,nan,nan,nan,78,M,203,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,203,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 544,MPR4909388,Sureshkumar -,Rangappa chettiar -,nan,nan,nan,58,M,A003,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A003,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 545,MPR4909396,nan,nan,nan,Sureshkumar -,nan,51,F,A003,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A003,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
-546,WJB3408507,Sibi,rajaram,nan,nan,nan,24,M,4/10,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,4/10,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
+546,WJB3408507,Sibi,rajaram,nan,nan,nan,24,M,4/10,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,4-10,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 547,WJB1197425,Preethi -,nan,nan,Babu -,nan,38,F,A-102,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-102,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 548,WJB0029835,Selvaraj -,Kathirvelu -,nan,nan,nan,54,M,A-104,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-104,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 549,WJB0951046,Valarmathy -,nan,nan,Selvaraj -,nan,50,F,4-104,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,4-104,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 550,WJB0029876,Sivashanmugeshwaran -,Suruliandavar -,nan,nan,nan,61,M,A-201,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-201,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 551,WJB0029926,nan,Anadharaman -,nan,nan,nan,55,M,A-203,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-203,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 552,WJB0029934,Saraswathi -,nan,nan,Mohankumar -,nan,53,F,A-203,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-203,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
-553,WJB4276564,GANESH,VEERASAMY,nan,nan,nan,50,M,A/F1,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A/F1,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
+553,WJB4276564,GANESH,VEERASAMY,nan,nan,nan,50,M,A/F1,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,A-F1,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 554,WJB1067669,Devi -,nan,nan,Balakrishnan -,nan,54,F,B3,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,B3,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 555,WJB0382408,Balakrishnan -,Narayanan -,nan,nan,nan,61,M,BO03,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,BO03,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
 556,WJB4166062,Chandran,Krishnaswamy,nan,nan,nan,82,M,B-101,4-Ward No 1 Shantham Apartments,95,117-KAVUNDAMPALAYAM,117,B-101,4-WARD NO 1 SHANTHAM APARTMENTS,[],False
@@ -2888,12 +2888,12 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 616,MPR4908695,Ganesh -,Mahadevan -,nan,nan,nan,58,M,S3,5-Ward No 1 Srinikethan Apartments,95,117-KAVUNDAMPALAYAM,117,S3,5-WARD NO 1 SRINIKETHAN APARTMENTS,[],False
 617,WJB1683721,RAHUL GOPALAKRISHNAN -,GOPALAKRISHNAN -,nan,nan,nan,29,M,SF3,5-Ward No 1 Srinikethan Apartments,95,117-KAVUNDAMPALAYAM,117,SF3,5-WARD NO 1 SRINIKETHAN APARTMENTS,[],False
 618,WJB2226055,Swathi -,Palanikumar -,nan,nan,nan,28,F,1,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
-619,WJB3383031,Thangeswary,nan,nan,Dhanasegaran,nan,57,F,1/10,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1/10,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
+619,WJB3383031,Thangeswary,nan,nan,Dhanasegaran,nan,57,F,1/10,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-10,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 620,WJB0384412,Arjunkrishna -,Suresh -,nan,nan,nan,33,M,1-15,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-15,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 621,WJB2196210,Kumar -,Bhojan -,nan,nan,nan,50,M,1-16,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-16,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 622,WJB2064913,Priyanka -,Ravichandran -,nan,nan,nan,29,F,1-16,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-16,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 623,WJB1444439,Mohammad Rizwan -,Abdul Majeeth -,nan,nan,nan,34,M,1-30,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-30,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
-624,WJB3287380,Saranraj,Balan,nan,nan,nan,37,M,1/112-6,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1/112-6,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
+624,WJB3287380,Saranraj,Balan,nan,nan,nan,37,M,1/112-6,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,1-112-6,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 625,WJB2064558,Bakyalakshmi -,nan,nan,Rajendran -,nan,48,F,2,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,2,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 626,WJB1444462,Surya =,Muthu -,nan,nan,nan,42,M,2-2,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,2-2,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 627,WJB3011376,anathi -,nan,nan,thangam -,nan,74,F,4,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,4,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
@@ -2985,9 +2985,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 713,MPR4904207,Suresh -,Parameswaran -,nan,nan,nan,45,M,S-3,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,S-3,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 714,WJB3096767,Divya -,nan,nan,Suresh -,nan,41,F,S-3,6-Ward No 1 Rukkammal Colony (Subanikethan 1),95,117-KAVUNDAMPALAYAM,117,S-3,6-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 1),[],False
 715,WJB3011459,prakash -,arjunan -,nan,nan,nan,43,M,1,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
-716,WJB3383023,Dhanasegaran,Subbaiah,nan,nan,nan,65,M,1/10,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1/10,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
-717,WJB3383049,Radheesh,Dhanasegaran,nan,nan,nan,32,M,1/104,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1/104,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
-718,WJB4309613,CHANTHIRASAKARAN,kandhan,nan,nan,nan,37,M,1/12,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1/12,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
+716,WJB3383023,Dhanasegaran,Subbaiah,nan,nan,nan,65,M,1/10,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1-10,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
+717,WJB3383049,Radheesh,Dhanasegaran,nan,nan,nan,32,M,1/104,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1-104,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
+718,WJB4309613,CHANTHIRASAKARAN,kandhan,nan,nan,nan,37,M,1/12,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1-12,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
 719,WJB2226071,Maichel -,Joseph -,nan,nan,nan,61,NAN,1-25,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,1-25,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
 720,NAN,Praveena -,nan,nan,Ashok kumar -,nan,42,F,3,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,3,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),['EPIC_ID_MISSING'],True
 721,WJB1444819,Sakthish Rajaa,Ganesan -,nan,nan,nan,40,M,4,7-Ward No 1 Rukkammal Colony (Subanikethan 2),95,117-KAVUNDAMPALAYAM,117,4,7-WARD NO 1 RUKKAMMAL COLONY (SUBANIKETHAN 2),[],False
@@ -3039,8 +3039,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 767,MPR4906483,Pakkiyalakshmi -,nan,nan,Raju -,nan,51,F,9,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
 768,WJB2639722,Sajay Kumar -,Ramachandran -,nan,nan,nan,45,M,9,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
 769,NAN,varsshini -,venkitapathy -,nan,nan,nan,27,F,9,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9,8-WARD NO 1 SUBRAMANIAM LAYOUT,['EPIC_ID_MISSING'],True
-770,WJB4565479,AMEESH SHAH BASHA,BASHA,nan,nan,nan,35,M,9/31A,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9/31A,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
-771,WJB4564936,NAFILA,nan,nan,AMEESH SHAH BASHA,nan,29,F,"9/31A,",8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,"9/31A,",8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
+770,WJB4565479,AMEESH SHAH BASHA,BASHA,nan,nan,nan,35,M,9/31A,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,9-31A,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
+771,WJB4564936,NAFILA,nan,nan,AMEESH SHAH BASHA,nan,29,F,"9/31A,",8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,"9-31A,",8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
 772,WJB1683606,Vigaysekaran -,Pandian -,nan,nan,nan,73,M,12,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,12,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
 773,WJB1683614,Arunmaheedhar -,Vijayaseekaran -,nan,nan,nan,36,M,12,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,12,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
 774,WJB2064350,Lakshmi -,Raju -,nan,nan,nan,29,F,14,8-Ward No 1 Subramaniam Layout,95,117-KAVUNDAMPALAYAM,117,14,8-WARD NO 1 SUBRAMANIAM LAYOUT,[],False
@@ -3068,19 +3068,19 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 796,WJB3011343,: rubini -,prakash -,nan,nan,nan,32,F,1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 797,WJB5590799,Ranshi,nan,nan,Salam,nan,28,F,1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 798,WJB0030296,Suresh -,Narasimman -,nan,nan,nan,55,M,1-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-799,WJB4815957,Sunil Kumar P,Prabhakaran K M,nan,nan,nan,0,M,1/1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+799,WJB4815957,Sunil Kumar P,Prabhakaran K M,nan,nan,nan,0,M,1/1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 800,WJB0030270,Saminathan -,Lakshmanan -,nan,nan,nan,50,M,1-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 801,WJBO0030304,nan,nan,nan,Suresh -,nan,49,F,1-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 802,WJB0384503,: Shopna -,nan,nan,Sunilkumar =,nan,46,F,1-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 803,WJB0030288,nan,nan,nan,Saminathan -,nan,45,NAN,1-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-804,WJB4174405,CIB!,VIKRAMAN,nan,nan,nan,35,M,1/1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-805,WJB4699013,Senguttuvan S,Singam,nan,nan,nan,64,M,1/14,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/14,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+804,WJB4174405,CIB!,VIKRAMAN,nan,nan,nan,35,M,1/1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+805,WJB4699013,Senguttuvan S,Singam,nan,nan,nan,64,M,1/14,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-14,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 806,WJB0030312,Prasanth -,Kandasamy -,nan,nan,nan,38,M,1-14,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-14,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 807,WJB3106663,praveen -,saminathan -,nan,nan,nan,26,M,1-1a,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-1A,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 808,WJB1197391,Revathi -,Sundramoorthi -,nan,nan,nan,42,F,1-2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-809,WJB4858510,Shree Nakulan S,Sundaramurthi,nan,nan,nan,0,NAN,1/2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-810,NAN,Subash,Ramachandran,nan,nan,nan,27,M,1/3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
-811,WJB4056610,Sushma,Ramachandran,nan,nan,nan,25,F,1/3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+809,WJB4858510,Shree Nakulan S,Sundaramurthi,nan,nan,nan,0,NAN,1/2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+810,NAN,Subash,Ramachandran,nan,nan,nan,27,M,1/3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
+811,WJB4056610,Sushma,Ramachandran,nan,nan,nan,25,F,1/3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 812,WJB1444991,Krishnasamy ~,Karuppannagounder -,nan,nan,nan,0,NAN,1-5,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-5,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 813,WJB1445006,vijaya -,nan,nan,Krishnasamy -,nan,57,F,1-5,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-5,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 814,WJB2064947,Devaraj -,Kaliveera Gounden -,nan,nan,nan,72,M,1-7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3088,7 +3088,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 816,WJB2064574,Sri Nithya Lakshmi -,nan,nan,Saravanakumar -,nan,44,F,1-7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 817,WJB0030361,Ramatya -,Uthiraja -,nan,nan,nan,70,M,1-9,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 818,WJB0030379,Chellammal -,nan,nan,Ramaiya -,nan,61,F,1-9,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-819,WJB3438231,NITHYA,SIVANANDI,nan,nan,nan,33,F,1/9-4,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/9-4,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+819,WJB3438231,NITHYA,SIVANANDI,nan,nan,nan,33,F,1/9-4,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9-4,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 820,WJB0030387,Vindhya -,Kuppusarny -,nan,nan,nan,35,F,1-9B,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9B,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 821,WJB1683267,Subash -,Balusamy -,nan,nan,nan,30,M,1-9B,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9B,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 822,WJB1197094,Vidhya -,kuppusamy -,nan,nan,nan,35,F,1-9D-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-9D-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3097,9 +3097,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 825,WJB0030429,nan,Venkatachalam -,nan,nan,nan,70,M,1-28,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-28,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 826,WJB0030437,Kasthuri -,nan,nan,Krishnasamy ~,nan,66,F,1-28,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-28,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 827,WJB0030452,Gopalsamy -,Krishnasamy -,nan,nan,nan,44,M,1-28,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-28,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-828,WJB3448453,Vankatasalamn,Nanjappan,nan,nan,nan,66,M,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-829,WJB3448461,Susheela,nan,nan,Venkatasalam,nan,61,F,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-830,WJB3448446,Divya Bharathi,Venkatasalam,nan,nan,nan,30,F,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1/30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+828,WJB3448453,Vankatasalamn,Nanjappan,nan,nan,nan,66,M,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+829,WJB3448461,Susheela,nan,nan,Venkatasalam,nan,61,F,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+830,WJB3448446,Divya Bharathi,Venkatasalam,nan,nan,nan,30,F,1/30,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-30,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 831,WJB2064442,Karthiga -,nan,nan,Anandkumar -,nan,37,F,1-59,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-59,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 832,WJB1197565,Mohan -,Chelladurai -,nan,nan,nan,49,M,1-81,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-81,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 833,WJB1197573,Umamageshwari -,nan,nan,Mohan -,nan,40,NAN,1-81,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1-81,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3116,7 +3116,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 844,WJB2064376,Ganesh -,Muthu -,nan,nan,nan,51,M,2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 845,WJB2064293,Sumathi -,nan,nan,Balasubramani -,nan,50,F,2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 846,WJB2064962,Malathi -,nan,nan,Ganesh -,nan,37,F,2,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,2,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-847,WJB4314043,Ragavan.R,Rangasamy .C,nan,nan,nan,23,M,2/332,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,2/332,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+847,WJB4314043,Ragavan.R,Rangasamy .C,nan,nan,nan,23,M,2/332,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,2-332,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 848,MPR2414506,Subhulakshmi -,nan,nan,Palanisamy -,nan,78,F,3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 849,WJB0382762,Rangaraj -,Laxmipathi -,nan,nan,nan,78,M,3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 850,WJB0383075,Ruckmani -,nan,nan,Rangaraj -,nan,68,F,3,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,3,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3157,7 +3157,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 885,WJB3614708,nan,RADHAKRISHNAN -,nan,nan,nan,62,M,6,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 886,WJB3614716,Nalini -,nan,nan,Sugumar -,nan,59,F,6,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 887,MPR2363307,Sowbhashini -,Sugumar -,nan,nan,nan,39,F,6,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-888,WJB4323630,SARASWATHI,nan,nan,RAVI,nan,49,F,6/14,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6/14,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+888,WJB4323630,SARASWATHI,nan,nan,RAVI,nan,49,F,6/14,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6-14,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 889,WJB2064590,Ramesh -,Srinivasan -,nan,nan,nan,55,M,6A,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6A,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 890,WJB2064665,Jayanthi -,nan,nan,Ramesh -,nan,50,F,-6,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,-6,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 891,WJB4057253,Hariharan,Ramesh,nan,nan,nan,23,M,6A,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,6A,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3296,7 +3296,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1024,WJB3106655,preethiliram -,karanagaran -,nan,nan,nan,26,M,33,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,33,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1025,WJB4274312,AMSAVENI,NARAYANASAMI,nan,nan,nan,7,F,35,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,35,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1026,WJB1623198,Prasanna Santhoshkumari Vikram -,nan,nan,Prabhu -,nan,41,F,37,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,37,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-1027,WJB3458171,jasmine jasmine,nan,nan,velmurugan velmurugan,nan,37,F,37/4,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,37/4,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+1027,WJB3458171,jasmine jasmine,nan,nan,velmurugan velmurugan,nan,37,F,37/4,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,37-4,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1028,WJB3106523,hamsavardhiny -,nan,nan,vankatesh -,nan,44,F,38,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,38,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1029,WJB1197268,Veena -,nan,nan,Sabu -,nan,40,F,38,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,38,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1030,WJB2064830,Ramesh -,Rakkiannan -,nan,nan,nan,38,M,40,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,40,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3314,7 +3314,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1042,WJB3437738,Rahul Bangaruswamy,Venkatachalapathy,nan,nan,nan,27,M,60,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,60,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1043,WJB4706941,Rahim,Kalluparambil Mohamed,nan,nan,nan,0,NAN,63-7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,63-7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1044,WJB1006295,Shakila banu -,nan,nan,Babu -,nan,42,F,63-7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,63-7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-1045,WJB4920658,Risaana Mehnaaz Rahim,Rahim,nan,nan,nan,28,F,63/7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,63/7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+1045,WJB4920658,Risaana Mehnaaz Rahim,Rahim,nan,nan,nan,28,F,63/7,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,63-7,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1046,WJB0259127,nan,Mani -,nan,nan,nan,46,M,64,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,64,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1047,MPR2363315,: Miruthubhashini -,nan,nan,Sivanandan -,nan,43,F,64,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,64,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1048,WJB6603955,C R Ajithkumar,Raman,nan,nan,nan,24,M,65-2B,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,65-2B,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3329,7 +3329,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1057,NAN,Yogalakshmi -,nan,nan,dhandapani -,nan,41,NAN,1044,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1044,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,['EPIC_ID_MISSING'],True
 1058,WJB3106648,sathish kumaar =,arnsa -,nan,nan,nan,27,M,104a,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,104A,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1059,WJB4675724,sanjai kumar,thangavel,nan,nan,nan,24,M,104-a,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,104-A,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
-1060,WJB4700886,DANUSH P,PRABHAKARAN T,nan,nan,nan,0,NAN,104/d,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,104/D,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
+1060,WJB4700886,DANUSH P,PRABHAKARAN T,nan,nan,nan,0,NAN,104/d,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,104-D,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1061,WJB0259267,Govre -,nan,nan,Sasikumar -,nan,46,F,224,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,224,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1062,WJB0259275,Sasikumar -,Shanmugam -,nan,nan,nan,46,M,224,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,224,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
 1063,WJB4153300,LAKSHMI,nan,nan,S,nan,36,F,1044-1,9-Ward No 1 Thirumurugan Nagar 1st Street,95,117-KAVUNDAMPALAYAM,117,1044-1,9-WARD NO 1 THIRUMURUGAN NAGAR 1ST STREET,[],False
@@ -3359,13 +3359,13 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1087,WJB3614906,Shaludeen -,Mohammedkani -,nan,nan,nan,59,M,1,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1088,MPR4898706,Maimoon -,nan,nan,Shaludeen -,nan,57,F,1,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1089,WJB3614914,Kandasamy -,Ramasamy -,nan,nan,nan,72,M,1-14,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-14,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1090,WJB3614922,Vijayakumari -,nan,nan,Kandasamy -,nan,66,F,1/,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1/,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1091,WJB4777264,S Hemalatha,nan,nan,Senguttuvan S,nan,55,F,1/174,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1/174,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1090,WJB3614922,Vijayakumari -,nan,nan,Kandasamy -,nan,66,F,1/,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1091,WJB4777264,S Hemalatha,nan,nan,Senguttuvan S,nan,55,F,1/174,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-174,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1092,WJB1683168,Prajith -,Sathishkumar -,nan,nan,nan,29,M,1-6,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-6,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1093,WJB1197433,Shanmugam -,Krishnan -,nan,nan,nan,57,M,1-22,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-22,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1094,WJB1197508,Sumathi -,nan,nan,shanmugam -,nan,49,F,1-22,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-22,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1095,WJB1683416,FATHIMA RISHANA -,ABDUL MAJEETH -,nan,nan,nan,30,F,1-30,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-30,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1096,WJB4885422,SAFRINA S,SURESH KUMAR,nan,nan,nan,19,F,1/71A,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1/71A,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1096,WJB4885422,SAFRINA S,SURESH KUMAR,nan,nan,nan,19,F,1/71A,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,1-71A,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1097,MPR1943992,Ramachandran -,Kuttikrishna nayar -,nan,nan,nan,76,M,2,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,2,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1098,MPR1944008,Chandirika -,nan,nan,Ramachandran -,nan,72,F,2,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,2,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1099,MPR4898714,nan,Narayanan ~,nan,nan,nan,63,M,2,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,2,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
@@ -3386,7 +3386,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1114,MPR4903118,Karthiksubramaniam ~-,Sankaranarayanan -,nan,nan,nan,40,M,9,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,9,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1115,WJB1683655,Shyam -,Rajasekaran -,nan,nan,nan,32,M,9-16b,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,9-16B,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1116,WJB2639813,Subramanian -,Marappan -,nan,nan,nan,0,NAN,9-23B,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,9-23B,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1117,WJB4751814,Sujatha,nan,nan,Karthik Subramaniam,nan,36,F,9/47,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,9/47,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1117,WJB4751814,Sujatha,nan,nan,Karthik Subramaniam,nan,36,F,9/47,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,9-47,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1118,MPR2306892,Valli -,nan,nan,SUBRAMANIAN -,nan,63,F,10,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,10,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1119,MPR2306918,Shanmuganandhan -,SUBRAMANIAN -,nan,nan,nan,45,M,10,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,10,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1120,MPR2306900,Padmarathinam -,SUBRAMANIAN -,nan,nan,nan,45,M,10,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,10,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
@@ -3414,17 +3414,17 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1142,WJB4276820,MANI,KUPUSAMY,nan,nan,nan,76,M,35,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,35,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1143,WJB4756565,M GANESAN Manickam,Manickam,nan,nan,nan,60,M,53,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,53,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1144,WJB2226247,Ashok -,Krishnan -,nan,nan,nan,41,NAN,62-84,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,62-84,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1145,WJB4324729,KRISHNAJAYANTHI,nan,nan,VASU,nan,41,F,83/1,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,83/1,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
-1146,WJB3471547,R DHANDAPANI p raju,nan,nan,nan,s yogalakshmi s,39,M,104/A,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,104/A,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1145,WJB4324729,KRISHNAJAYANTHI,nan,nan,VASU,nan,41,F,83/1,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,83-1,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
+1146,WJB3471547,R DHANDAPANI p raju,nan,nan,nan,s yogalakshmi s,39,M,104/A,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,104-A,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1147,WJB4572624,Harshath Ali,Ozeer Basha,nan,nan,nan,43,M,14,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,14,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1148,IVZ0636852,Loganayaki -,nan,nan,Marappa Gounder -,nan,64,F,DOOR,10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,DOOR,10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1149,WJB4948154,Sheeja P R,nan,nan,Babu K,nan,47,F,"Old.No.14A,",10-Ward No 1 Thirumurugan Nagar 2nd Street,95,117-KAVUNDAMPALAYAM,117,"OLD.NO.14A,",10-WARD NO 1 THIRUMURUGAN NAGAR 2ND STREET,[],False
 1150,WJB3615002,SANMUGASUNDARAM -,Vellingirigounder -,nan,nan,nan,72,M,1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1,11-WARD NO 14V RV NAGAR,[],False
 1151,WJB3615010,Ponnammal -,nan,nan,SANMUGASUNDARAM -,nan,64,F,1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1,11-WARD NO 14V RV NAGAR,[],False
 1152,MPR2372431,Sampath -,SANMUGASUNDARAM -,nan,nan,nan,43,M,1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1,11-WARD NO 14V RV NAGAR,[],False
-1153,WJB4277042,PUSHPAM,nan,nan,RAJU,nan,65,F,1/1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1/1,11-WARD NO 14V RV NAGAR,[],False
+1153,WJB4277042,PUSHPAM,nan,nan,RAJU,nan,65,F,1/1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1-1,11-WARD NO 14V RV NAGAR,[],False
 1154,NAN,Selvapriya -,nan,nan,Sampath -,nan,36,F,1-1,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1-1,11-WARD NO 14V RV NAGAR,['EPIC_ID_MISSING'],True
-1155,WJB4945861,Ashwin Kumar,Sunder Kumar,nan,nan,nan,44,M,1/5,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1/5,11-WARD NO 14V RV NAGAR,[],False
+1155,WJB4945861,Ashwin Kumar,Sunder Kumar,nan,nan,nan,44,M,1/5,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1-5,11-WARD NO 14V RV NAGAR,[],False
 1156,WJB1197060,Thangavel -,Pararnasivam -,nan,nan,nan,69,M,1X,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1X,11-WARD NO 14V RV NAGAR,[],False
 1157,WJB1197193,vijayalakshmi -,nan,nan,Thangavel -,nan,47,F,1X,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,1X,11-WARD NO 14V RV NAGAR,[],False
 1158,MPR4904256,Rajagobal -,Srinivasanaidu -,nan,nan,nan,68,M,2,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,2,11-WARD NO 14V RV NAGAR,[],False
@@ -3451,9 +3451,9 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1179,WJB2639821,Sarojini -,nan,nan,Subramaniayam -,nan,58,F,9-23B,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-23B,11-WARD NO 14V RV NAGAR,[],False
 1180,WJB2639623,Nithyamanohari -,Subramaniyan -,nan,nan,nan,34,M,9-238,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-238,11-WARD NO 14V RV NAGAR,[],False
 1181,WJB3011434,Madaneshwar,sukikumar -,nan,nan,nan,27,M,9-27,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-27,11-WARD NO 14V RV NAGAR,[],False
-1182,WJB4813267,GANESHBABU J,JOHN VARGHESE,nan,nan,nan,50,M,9/284,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9/284,11-WARD NO 14V RV NAGAR,[],False
+1182,WJB4813267,GANESHBABU J,JOHN VARGHESE,nan,nan,nan,50,M,9/284,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-284,11-WARD NO 14V RV NAGAR,[],False
 1183,WJB4164208,VEDAVARTHI 19),nan,nan,nan,nan,0,NAN,nan,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,NAN,11-WARD NO 14V RV NAGAR,[],False
-1184,WJB4054193,GNANA MANOHARAN,THANGAVEL,nan,nan,nan,23,M,9/284,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9/284,11-WARD NO 14V RV NAGAR,[],False
+1184,WJB4054193,GNANA MANOHARAN,THANGAVEL,nan,nan,nan,23,M,9/284,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-284,11-WARD NO 14V RV NAGAR,[],False
 1185,WJB0031369,Jeyaraman -,Natarajan -,nan,nan,nan,60,M,9-30,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-30,11-WARD NO 14V RV NAGAR,[],False
 1186,WJB0031377,Kavitha -,nan,nan,Jeyaraman -,nan,54,F,9-30,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-30,11-WARD NO 14V RV NAGAR,[],False
 1187,WJB3220514,Varun pirasath,Jayaraman,nan,nan,nan,25,M,9-30,11-Ward No 14V RV Nagar,95,117-KAVUNDAMPALAYAM,117,9-30,11-WARD NO 14V RV NAGAR,[],False
@@ -3514,8 +3514,8 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1242,MPR4906558,Chithra -,nan,nan,Prabaharan -,nan,64,F,4,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,4,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
 1243,WJB3615168,Soundararaj -,Maruthachalam -,nan,nan,nan,78,M,8,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,8,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
 1244,WJB3615176,Dhanalakshmi -,nan,nan,Soundararaj -,nan,68,F,8,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,8,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
-1245,WJB2226287,Chinnalyan -,Singaram -,nan,nan,nan,47,M,12/G4,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,12/G4,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
-1246,WJB2226295,Valliyammai -,nan,nan,Chinnaaya -,nan,41,NAN,12/G4,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,12/G4,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
+1245,WJB2226287,Chinnalyan -,Singaram -,nan,nan,nan,47,M,12/G4,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,12-G4,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
+1246,WJB2226295,Valliyammai -,nan,nan,Chinnaaya -,nan,41,NAN,12/G4,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,12-G4,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
 1247,WJB3615184,Narajayan -,Karuppapillai -,nan,nan,nan,64,M,18-1,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,18-1,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
 1248,WJB3615192,Geetha -,nan,nan,Narajayan -,nan,55,F,18-1,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,18-1,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
 1249,WJB4468013,Senthilkumar,Balasubramaniam,nan,nan,nan,45,M,129,12-Ward No 14 V R V Nagar Nickethan Apartments,95,117-KAVUNDAMPALAYAM,117,129,12-WARD NO 14 V R V NAGAR NICKETHAN APARTMENTS,[],False
@@ -3525,7 +3525,7 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1253,MPR4899159,Rajalakshmi -,nan,nan,Narajayan -,nan,74,F,1,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,1,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1254,MPR4899167,Srinivasan,Nagarajan,nan,nan,nan,52,M,1,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,1,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1255,MPR4899175,Sridevi -,nan,nan,Srinivasan,nan,49,F,1,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,1,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1256,WJB2589588,Muralidharan Chandran,Chandran -,nan,nan,nan,42,M,2/212F,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,2/212F,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1256,WJB2589588,Muralidharan Chandran,Chandran -,nan,nan,nan,42,M,2/212F,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,2-212F,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1257,WJB1628163,Chandrasekar -,Muthumanickam -,nan,nan,nan,65,M,6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1258,WJB0031393,Karthick -,Chandrasekar -,nan,nan,nan,35,M,6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1259,WJB1628148,Sunyaprabha -,Chandrasekar -,nan,nan,nan,31,F,6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
@@ -3534,30 +3534,30 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1262,MPR2495067,Pramalatha -,nan,nan,Sundharabharathi -,nan,54,F,9,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1263,WJB1197235,Karthikeyan -,venkatachalam -,nan,nan,nan,49,M,9-7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1264,WJB1197284,nan,nan,nan,karthikayan -,nan,42,F,9-7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1265,WJB4057246,Nikhil Srinivasan,Srinivasan,nan,nan,nan,23,M,9/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9/7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1266,WJB4154597,NIKHIL,SRINIVASAN,nan,nan,nan,23,M,9/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9/7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1265,WJB4057246,Nikhil Srinivasan,Srinivasan,nan,nan,nan,23,M,9/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1266,WJB4154597,NIKHIL,SRINIVASAN,nan,nan,nan,23,M,9/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1267,WJB0031385,Thejalpandiya -,Singaraj -,nan,Jayaker -,nan,40,F,9-8,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-8,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1268,WJB0031419,Sundara Bharathi M,Mariyanantham -,nan,nan,nan,63,M,9-9,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-9,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1269,WJB1683309,mukesh -,kumar -,nan,nan,nan,32,M,9-23,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-23,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1270,WJB1683663,Ashwini -,kumar =,nan,nan,nan,29,F,9-23,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,9-23,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1271,WJB1683184,Rajalakshmi -,nan,nan,Vijayasekaran -,nan,62,F,12,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1272,WJB4383170,ANUSHA,RAMESH KUNJAPPA,nan,nan,nan,25,F,12/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1273,WJB4359980,Ragavan,Moorthy,nan,nan,nan,33,M,12/193,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/193,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1274,WJB0561464,Sulochana,nan,nan,Hariharakumar -,nan,49,F,12/199,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/199,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1275,WJB4364113,Anusuya Devi,nan,nan,Kesavan,nan,33,F,12/202,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/202,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1276,WJB4894382,THARIKAA SAINITHI AB,ARJUNBABU,nan,nan,nan,22,F,12/204,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/204,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1277,WJB4940805,PADMAVATHI KV,nan,JAYAKUMAR GOPALAN,nan,nan,77,F,12/206,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/206,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1278,WJB4939393,GOPALAN MV,nan,PADMAVATHI KV,nan,nan,51,M,12/,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1279,WJB4905121,JAYAKUMAR GOPALAN,GOPALAN MV,nan,nan,nan,50,M,12/206,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/206,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1280,WJB4156857,Harishanth,Mathankumar,nan,nan,nan,23,M,12/212,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/212,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1281,WJB4268918,ABILASH SRIKANTH NAIR,SRIKANTH PRABHAKARAN,nan,nan,nan,27,M,12/2121,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12/2121,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1272,WJB4383170,ANUSHA,RAMESH KUNJAPPA,nan,nan,nan,25,F,12/7,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-7,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1273,WJB4359980,Ragavan,Moorthy,nan,nan,nan,33,M,12/193,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-193,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1274,WJB0561464,Sulochana,nan,nan,Hariharakumar -,nan,49,F,12/199,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-199,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1275,WJB4364113,Anusuya Devi,nan,nan,Kesavan,nan,33,F,12/202,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-202,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1276,WJB4894382,THARIKAA SAINITHI AB,ARJUNBABU,nan,nan,nan,22,F,12/204,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-204,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1277,WJB4940805,PADMAVATHI KV,nan,JAYAKUMAR GOPALAN,nan,nan,77,F,12/206,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-206,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1278,WJB4939393,GOPALAN MV,nan,PADMAVATHI KV,nan,nan,51,M,12/,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1279,WJB4905121,JAYAKUMAR GOPALAN,GOPALAN MV,nan,nan,nan,50,M,12/206,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-206,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1280,WJB4156857,Harishanth,Mathankumar,nan,nan,nan,23,M,12/212,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-212,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1281,WJB4268918,ABILASH SRIKANTH NAIR,SRIKANTH PRABHAKARAN,nan,nan,nan,27,M,12/2121,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-2121,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1282,WJB2226279,Meenakshi -,nan,nan,Yegappan -,nan,28,F,12-F4,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-F4,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1283,WJB4587085,PL Alametu,nan,nan,palaniappan,nan,71,F,125,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,125,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1284,WJB2693695,Gomathi Shankazri -,nan,nan,Kumar -,nan,46,F,12-S6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-S6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1285,NAN,Kumar -,Sellappan -,nan,nan,nan,53,M,12-S-6,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,12-S-6,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,['EPIC_ID_MISSING'],True
 1286,WJB1683516,Shereena -,nan,nan,Syad alavi -,nan,42,F,119,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,119,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1287,WJB4745766,Pradeep S,Chellamuthu,nan,nan,nan,25,M,187,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,187,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
-1288,WJB4448690,Manikandan,Ayyasamy,nan,nan,nan,38,M,194/14,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,194/14,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
+1288,WJB4448690,Manikandan,Ayyasamy,nan,nan,nan,38,M,194/14,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,194-14,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1289,WJB4080966,Dhanush,Nanjundan Kari,nan,nan,nan,26,M,196-D,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,196-D,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1290,WJB4578894,Murugesan R,Rajagopal,nan,nan,nan,58,M,200,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,200,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
 1291,WJB4681581,Sowmiya M,Murugesan,nan,nan,nan,0,F,200A,13-Ward No 14 V R V Nagar Amar Jothi Evergreen,95,117-KAVUNDAMPALAYAM,117,200A,13-WARD NO 14 V R V NAGAR AMAR JOTHI EVERGREEN,[],False
@@ -3608,13 +3608,13 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1336,WJB4951919,Sivakumar N,Natarajan,nan,nan,nan,43,M,1-16-A,nan,95,117-KAVUNDAMPALAYAM,117,1-16-A,NAN,[],False
 1337,HWX3140993,Rajesh -,Sirangi -,nan,nan,nan,48,M,No,nan,95,117-KAVUNDAMPALAYAM,117,NO,NAN,[],False
 1338,WJB4957262,Siddarth Sathish lyer,Sathish Kumar Rajamani,nan,nan,nan,18,M,C,nan,95,117-KAVUNDAMPALAYAM,117,C,NAN,[],False
-1339,WJB4960860,Sivakumar N,Natarajan,nan,nan,nan,43,M,"1/16-A,",nan,95,117-KAVUNDAMPALAYAM,117,"1/16-A,",NAN,[],False
+1339,WJB4960860,Sivakumar N,Natarajan,nan,nan,nan,43,M,"1/16-A,",nan,95,117-KAVUNDAMPALAYAM,117,"1-16-A,",NAN,[],False
 1340,WJB4961975,Kumari,nan,nan,Chidamparam,nan,58,F,K,nan,95,117-KAVUNDAMPALAYAM,117,K,NAN,[],False
 1341,WJB4963500,Arjunan Kuma Mathan,Kuma Mathan,nan,nan,nan,74,M,SITE,nan,95,117-KAVUNDAMPALAYAM,117,SITE,NAN,[],False
 1342,WJB4963518,PARVATHI A,nan,nan,ARJUNAN KUMA MATHAN,nan,69,F,SITE,nan,95,117-KAVUNDAMPALAYAM,117,SITE,NAN,[],False
 1343,WJB4964664,Chidambaram Nataraj,Nataraj,nan,nan,nan,69,M,K,nan,95,117-KAVUNDAMPALAYAM,117,K,NAN,[],False
 1344,WJB4965216,Sakthi Murugan,Sakthivel,nan,nan,nan,18,M,15,nan,95,117-KAVUNDAMPALAYAM,117,15,NAN,[],False
-1345,WJB4964920,K PRANAV Prakash Narayanan,Prakash Narayanan,nan,nan,nan,29,M,1/54,nan,95,117-KAVUNDAMPALAYAM,117,1/54,NAN,[],False
+1345,WJB4964920,K PRANAV Prakash Narayanan,Prakash Narayanan,nan,nan,nan,29,M,1/54,nan,95,117-KAVUNDAMPALAYAM,117,1-54,NAN,[],False
 1346,MBG2081685,DHANDAPANI,SARAVANAN,nan,nan,nan,46,M,no,nan,95,117-KAVUNDAMPALAYAM,117,NO,NAN,[],False
 1347,WJB4970414,Kumarasubbu M,Muthusamy Reddiar,nan,nan,nan,50,M,No,nan,95,117-KAVUNDAMPALAYAM,117,NO,NAN,[],False
 1348,WJB4976916,Bharath Kumar,Devaraj,nan,nan,nan,42,M,16,nan,95,117-KAVUNDAMPALAYAM,117,16,NAN,[],False
@@ -3625,11 +3625,11 @@ serial_no,epic_id,name,father_name,mother_name,husband_name,other_name,age,gende
 1353,WJB4986493,S Sugunadevi,nan,nan,R Sivakumar,nan,51,F,Hf,nan,95,117-KAVUNDAMPALAYAM,117,HF,NAN,[],False
 1354,WJB4986527,S VIVASRI,P Sengottuvel,nan,nan,nan,19,F,31A,nan,95,117-KAVUNDAMPALAYAM,117,31A,NAN,[],False
 1355,WJB4987079,Anupriya J,nan,nan,Raj Nandakumar,nan,43,F,C,nan,95,117-KAVUNDAMPALAYAM,117,C,NAN,[],False
-1356,WJB4995254,Vetrivel D,Dhandapani K,nan,nan,nan,55,M,9/27A,nan,95,117-KAVUNDAMPALAYAM,117,9/27A,NAN,[],False
-1357,WJB4995296,Niranjana Devi J,nan,nan,Karthikeyan VS,nan,54,F,9/23,nan,95,117-KAVUNDAMPALAYAM,117,9/23,NAN,[],False
+1356,WJB4995254,Vetrivel D,Dhandapani K,nan,nan,nan,55,M,9/27A,nan,95,117-KAVUNDAMPALAYAM,117,9-27A,NAN,[],False
+1357,WJB4995296,Niranjana Devi J,nan,nan,Karthikeyan VS,nan,54,F,9/23,nan,95,117-KAVUNDAMPALAYAM,117,9-23,NAN,[],False
 1358,WJB4997599,Sandeep PB,Balaji M,nan,nan,nan,20,M,30,nan,95,117-KAVUNDAMPALAYAM,117,30,NAN,[],False
 1359,WJB4997771,Raj Nandakumar N,Nandakumar N,nan,nan,nan,52,M,D-101-santham,nan,95,117-KAVUNDAMPALAYAM,117,D-101-SANTHAM,NAN,[],False
-1360,WJB4995981,Gunavathi V,nan,nan,Vetrivel D,nan,50,F,9/27,nan,95,117-KAVUNDAMPALAYAM,117,9/27,NAN,[],False
+1360,WJB4995981,Gunavathi V,nan,nan,Vetrivel D,nan,50,F,9/27,nan,95,117-KAVUNDAMPALAYAM,117,9-27,NAN,[],False
 1361,WJB5001920,Latha Maheswari K,nan,nan,Ganesan M,nan,59,F,53,nan,95,117-KAVUNDAMPALAYAM,117,53,NAN,[],False
 1362,WJB5003215,Jeesus Grace R,Raja Sekhar B,nan,nan,nan,0,NAN,"A-10,",nan,95,117-KAVUNDAMPALAYAM,117,"A-10,",NAN,[],False
 1363,WJB5003223,Jehovah Jireh R,Raja Sekhr B,nan,nan,nan,0,NAN,"A-10,",nan,95,117-KAVUNDAMPALAYAM,117,"A-10,",NAN,[],False

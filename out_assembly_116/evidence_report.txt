@@ -139,7 +139,7 @@ Explanation:
   Conclusion: DUPLICATE_DETAILS triggered
 ----------------------------------------------------
 Reason: DUPLICATE_EPIC_ID
-Total flagged: 49
+Total flagged: 36
 ----------------------------------------------------
 EPIC: DHH5473301
 Serial No: 113
@@ -207,17 +207,6 @@ Explanation:
   EPIC ID 'DHH5473301' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 130
-Name: Perumal
-House: 16
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH1381898
 Serial No: 725
 Name: Loganathan -
@@ -238,28 +227,6 @@ Reasons:
 
 Explanation:
   EPIC ID 'NHH0851071' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 800
-Name: Pattu Koilpillai -
-House: 63-94
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 888
-Name: Muthaiya -
-House: 28E
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3446127
@@ -361,17 +328,6 @@ Explanation:
   EPIC ID 'NHH3509478' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 6
-Name: Kumar mathu
-House: 1
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH3446549
 Serial No: 47
 Name: arun prasath YQ
@@ -392,17 +348,6 @@ Reasons:
 
 Explanation:
   EPIC ID 'NHH1129295' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 327
-Name: Thangamani -
-House: 28F
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH3446127
@@ -471,17 +416,6 @@ Explanation:
   EPIC ID 'DHH6038301' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 1102
-Name: nan
-House: 86C
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH2812519
 Serial No: 1159
 Name: Kuppusamy -
@@ -515,28 +449,6 @@ Explanation:
   EPIC ID 'NHH0471730' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 143
-Name: YOGAM
-House: 152-9
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 158
-Name: Gomathi
-House: 1
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH3336617
 Serial No: 229
 Name: sathyapriya Ae
@@ -548,17 +460,6 @@ Explanation:
   EPIC ID 'NHH3336617' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 365
-Name: Sumathi 19)
-House: nan
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH2812519
 Serial No: 806
 Name: Kuppusamy - ou
@@ -568,17 +469,6 @@ Reasons:
 
 Explanation:
   EPIC ID 'NHH2812519' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 868
-Name: nan
-House: 12
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH2755940
@@ -625,39 +515,6 @@ Explanation:
   EPIC ID 'NHH2770295' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 88
-Name: Vignesh
-House: 1/54
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 264
-Name: Natarajan
-House: 1/154
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
-EPIC: NAN
-Serial No: 504
-Name: Karupathal -
-House: 50
-Reasons:
- - DUPLICATE_EPIC_ID
-
-Explanation:
-  EPIC ID 'NAN' appears more than once in this booth
-  Conclusion: DUPLICATE_EPIC_ID triggered
-----------------------------------------------------
 EPIC: NHH2454262
 Serial No: 927
 Name: Mahalingam - ou
@@ -679,4 +536,150 @@ Reasons:
 Explanation:
   EPIC ID 'NHH2454262' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+Reason: EPIC_ID_MISSING
+Total flagged: 13
+----------------------------------------------------
+EPIC: NAN
+Serial No: 130
+Name: Perumal
+House: 16
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 800
+Name: Pattu Koilpillai -
+House: 63-94
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 888
+Name: Muthaiya -
+House: 28E
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 6
+Name: Kumar mathu
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 327
+Name: Thangamani -
+House: 28F
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 1102
+Name: nan
+House: 86C
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 143
+Name: YOGAM
+House: 152-9
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 158
+Name: Gomathi
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 365
+Name: Sumathi 19)
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 868
+Name: nan
+House: 12
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 88
+Name: Vignesh
+House: 1/54
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 264
+Name: Natarajan
+House: 1/154
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 504
+Name: Karupathal -
+House: 50
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
 ----------------------------------------------------

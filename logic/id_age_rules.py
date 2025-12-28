@@ -6,12 +6,9 @@ import pandas as pd
 
 def apply_id_age_rules(df):
     """
-    Booth-level + Global identity & age rules
+    Identity + age rules with OCR-safe EPIC handling
     """
 
-    # --------------------------------------------------
-    # NORMALIZE EPIC ID ONCE
-    # --------------------------------------------------
     epic_raw = df["epic_id"]
 
     epic_norm = (
@@ -21,9 +18,9 @@ def apply_id_age_rules(df):
         .str.upper()
     )
 
-    # --------------------------------------------------
-    # EPIC_ID_MISSING (GLOBAL + LOCAL)
-    # --------------------------------------------------
+    # -----------------------------
+    # EPIC_ID_MISSING
+    # -----------------------------
     missing_mask = (
         epic_raw.isna() |
         epic_norm.isin(["", "NAN", "NONE"])
@@ -31,43 +28,42 @@ def apply_id_age_rules(df):
 
     for idx in df[missing_mask].index:
         if reasons.EPIC_ID_MISSING not in df.at[idx, "suspect_reasons"]:
-            df.at[idx, "suspect_reasons"].append(
-                reasons.EPIC_ID_MISSING
-            )
+            df.at[idx, "suspect_reasons"].append(reasons.EPIC_ID_MISSING)
 
-    # --------------------------------------------------
-    # INVALID_EPIC_ID (FORMAT CHECK — ONLY IF PRESENT)
-    # Format: AAA1234567
-    # --------------------------------------------------
-    epic_pattern = re.compile(r"^[A-Z]{3}\d{7}$")
+    # -----------------------------
+    # OCR FIX: O → 0 at 4th position
+    # -----------------------------
+    def fix_ocr(epic):
+        if len(epic) == 10 and epic[3] == "O":
+            return epic[:3] + "0" + epic[4:]
+        return epic
 
-    valid_mask = ~missing_mask
+    epic_fixed = epic_norm.apply(fix_ocr)
 
-    for idx in df[valid_mask].index:
-        epic = epic_norm.loc[idx]
+    # -----------------------------
+    # INVALID_EPIC_ID
+    # -----------------------------
+    pattern = re.compile(r"^[A-Z]{3}\d{7}$")
 
-        if not epic_pattern.fullmatch(epic):
+    for idx in df[~missing_mask].index:
+        epic = epic_fixed.loc[idx]
+        if not pattern.fullmatch(epic):
             if reasons.INVALID_EPIC_ID not in df.at[idx, "suspect_reasons"]:
-                df.at[idx, "suspect_reasons"].append(
-                    reasons.INVALID_EPIC_ID
-                )
+                df.at[idx, "suspect_reasons"].append(reasons.INVALID_EPIC_ID)
 
-    # --------------------------------------------------
-    # DUPLICATE_EPIC_ID (VALID EPIC ONLY)
-    # --------------------------------------------------
-    valid_epics = epic_norm[valid_mask]
-
+    # -----------------------------
+    # DUPLICATE_EPIC_ID (VALID ONLY)
+    # -----------------------------
+    valid_epics = epic_fixed[~missing_mask]
     dup_mask = valid_epics.duplicated(keep=False)
 
     for idx in valid_epics[dup_mask].index:
         if reasons.DUPLICATE_EPIC_ID not in df.at[idx, "suspect_reasons"]:
-            df.at[idx, "suspect_reasons"].append(
-                reasons.DUPLICATE_EPIC_ID
-            )
+            df.at[idx, "suspect_reasons"].append(reasons.DUPLICATE_EPIC_ID)
 
-    # --------------------------------------------------
+    # -----------------------------
     # AGE RULES
-    # --------------------------------------------------
+    # -----------------------------
     for idx, row in df.iterrows():
         try:
             age = int(row["age"])
@@ -75,19 +71,13 @@ def apply_id_age_rules(df):
             age = -1
 
         if age <= 0:
-            if reasons.AGE_ZERO_OR_INVALID not in df.at[idx, "suspect_reasons"]:
-                df.at[idx, "suspect_reasons"].append(
-                    reasons.AGE_ZERO_OR_INVALID
-                )
+            df.at[idx, "suspect_reasons"].append(reasons.AGE_ZERO_OR_INVALID)
         elif age < 18:
-            if reasons.UNDER_18 not in df.at[idx, "suspect_reasons"]:
-                df.at[idx, "suspect_reasons"].append(
-                    reasons.UNDER_18
-                )
+            df.at[idx, "suspect_reasons"].append(reasons.UNDER_18)
 
-    # --------------------------------------------------
-    # COPY_SAME_PERSON_DIFFERENT_DOOR (STRICT MATCH)
-    # --------------------------------------------------
+    # -----------------------------
+    # COPY_SAME_PERSON_DIFFERENT_DOOR
+    # -----------------------------
     df["_name_norm"] = df["name"].apply(normalize)
     df["_father_norm"] = df["father_name"].apply(normalize)
     df["_mother_norm"] = df["mother_name"].apply(normalize)
@@ -105,7 +95,7 @@ def apply_id_age_rules(df):
     ]
 
     for _, grp in df.groupby(identity_cols, dropna=False):
-        if grp["house_no"].nunique() > 1:
+        if grp["house_no_norm"].nunique() > 1:
             for idx in grp.index:
                 if reasons.COPY_SAME_PERSON_DIFFERENT_DOOR not in df.at[idx, "suspect_reasons"]:
                     df.at[idx, "suspect_reasons"].append(
