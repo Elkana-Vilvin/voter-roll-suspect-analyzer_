@@ -1,10 +1,56 @@
 EVIDENCE-BACKED SUSPECT REPORT
 ============================================================
-Total voters: 732
-Total suspects: 242
+Total voters: 729
+Total suspects: 289
 
 Reason: ADOPTED_NO_RELATIVE
-Total flagged: 37
+Total flagged: 33
+----------------------------------------------------
+EPIC: NHHO0533802
+Serial No: 52
+Name: Sugumaran -
+House: 6
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NHHO0470161
+Serial No: 67
+Name: Saraswathi -
+House: 7-33
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0128132
 Serial No: 68
@@ -28,34 +74,13 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: DHH5897913
-Serial No: 87
-Name: Subulakshmi -
-House: 104
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH0366351
+EPIC: NHHO0366351
 Serial No: 94
 Name: Sumathi -
 House: 11
 Reasons:
  - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -94,10 +119,33 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH1240175
-Serial No: 113
-Name: Kalaiselvi -
-House: 13
+EPIC: NHHO0284331
+Serial No: 105
+Name: Velusamy -
+House: 12-2
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0284349
+Serial No: 106
+Name: Manonmani -
+House: 12-2
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -141,7 +189,7 @@ Explanation:
 EPIC: NHH0284240
 Serial No: 126
 Name: Maniyammal -
-House: 14C
+House: 140
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -164,28 +212,6 @@ EPIC: DHH5897905
 Serial No: 134
 Name: Malathy -
 House: 18
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHHO849059
-Serial No: 147
-Name: Nirmala -
-House: 24
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -248,74 +274,8 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH1240704
-Serial No: 179
-Name: Sivabuvaneswari ~
-House: 34e
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH3597135
-Serial No: 181
-Name: Sharmilaa
-House: 34G
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH3543980
-Serial No: 200
-Name: YOGALAKSHMI
-House: 38A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: NHH1240068
-Serial No: 202
+Serial No: 201
 Name: Jagadeeswani -
 House: 38a1
 Reasons:
@@ -336,10 +296,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2328243
-Serial No: 214
-Name: RAV!
-House: 40A
+EPIC: NHH0127951
+Serial No: 212
+Name: Rejitha -
+House: 404
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -358,12 +318,13 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2329233
-Serial No: 215
-Name: KALIRAJ
-House: 40A
+EPIC: NHHO0127928
+Serial No: 298
+Name: Sruthi -
+House: 57B-110
 Reasons:
  - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -380,56 +341,13 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2352565
-Serial No: 217
-Name: arjun
-House: 40a1
+EPIC: NHH0127936
+Serial No: 299
+Name: Sooraj -
+House: 57B-110
 Reasons:
  - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH3334851
-Serial No: 218
-Name: Arun
-House: 40A1
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH2328888
-Serial No: 263
-Name: shanmugam
-House: 47e/70
-Reasons:
- - ADOPTED_NO_RELATIVE
+ - AGE_ZERO_OR_INVALID
 
 Explanation:
   Observation:
@@ -447,7 +365,7 @@ Explanation:
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0469338
-Serial No: 301
+Serial No: 300
 Name: kaliselvi -
 House: 59
 Reasons:
@@ -468,10 +386,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2226173
-Serial No: 328
-Name: arunadevi -
-House: 68
+EPIC: NHH2709970
+Serial No: 320
+Name: Lakshmi -
+House: 66
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -490,10 +408,32 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: DHH5929765
-Serial No: 333
-Name: Kavitha -
-House: 69
+EPIC: NHH2710010
+Serial No: 345
+Name: Rajeswari -
+House: 71
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2710127
+Serial No: 396
+Name: Kalyani -
+House: 81-2
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -513,7 +453,7 @@ Explanation:
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2710176
-Serial No: 401
+Serial No: 400
 Name: Rajammal -
 House: 89
 Reasons:
@@ -534,8 +474,52 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2710218
+Serial No: 404
+Name: Janaki -
+House: 92
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2710424
+Serial No: 434
+Name: Eswary
+House: 106
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: DHH5929849
-Serial No: 466
+Serial No: 465
 Name: Paneerselvi -
 House: 115
 Reasons:
@@ -556,30 +540,8 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0167098
-Serial No: 479
-Name: Saraswathi -
-House: 122
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: DHH5996970
-Serial No: 507
+Serial No: 506
 Name: Kala -
 House: 133
 Reasons:
@@ -600,30 +562,8 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2710747
-Serial No: 510
-Name: Lillipushbam -
-House: 134
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: NHH3447786
-Serial No: 557
+Serial No: 556
 Name: Karthick
 House: 9/21
 Reasons:
@@ -645,7 +585,7 @@ Explanation:
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2410983
-Serial No: 558
+Serial No: 557
 Name: KOKILA
 House: 9/21
 Reasons:
@@ -666,54 +606,33 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: DHH6137566
-Serial No: 607
-Name: Balasubiramaniam -
-House: 2
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHH1240472
-Serial No: 608
-Name: Sovunthirarajan =
-House: 2
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: IEGO263129
-Serial No: 614
+EPIC: IEGO0263129
+Serial No: 611
 Name: Sujana sujana
 House: 3a
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: DHH1563220
+Serial No: 620
+Name: Sudhamani -
+House: 5-1
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -733,7 +652,7 @@ Explanation:
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: DHH1674068
-Serial No: 653
+Serial No: 650
 Name: Vanithamani -
 House: 134
 Reasons:
@@ -754,30 +673,8 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH3443199
-Serial No: 680
-Name: ramasamy
-House: 5
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: NHH2720274
-Serial No: 708
+Serial No: 705
 Name: Pazhanisami -
 House: 15
 Reasons:
@@ -799,7 +696,7 @@ Explanation:
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0128173
-Serial No: 712
+Serial No: 709
 Name: Sathya -
 House: 15
 Reasons:
@@ -820,28 +717,36 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-Reason: AGE_ZERO_OR_INVALID
-Total flagged: 10
-----------------------------------------------------
-EPIC: NHH3334869
-Serial No: 149
-Name: Davis
-House: 24/16
+EPIC: NHH0469403
+Serial No: 715
+Name: Malathi -
+House: 94
 Reasons:
- - ORPHAN_ONLY_PERSON_IN_HOME
- - AGE_ZERO_OR_INVALID
+ - ADOPTED_NO_RELATIVE
 
 Explanation:
-  Age value = 0
-  Rule: age <= 0 is invalid
-  Conclusion: AGE_ZERO_OR_INVALID triggered
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2226025
-Serial No: 150
-Name: Karthikraja -
-House: 25
+Reason: AGE_ZERO_OR_INVALID
+Total flagged: 14
+----------------------------------------------------
+EPIC: NHH2705846
+Serial No: 136
+Name: Krishnasami -
+House: 19
 Reasons:
- - ORPHAN_ONLY_PERSON_IN_HOME
  - AGE_ZERO_OR_INVALID
 
 Explanation:
@@ -851,7 +756,7 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH2386514
 Serial No: 166
-Name: NAGALAKSH <0
+Name: NAGALAKSH Ae
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -862,8 +767,20 @@ Explanation:
   Rule: age <= 0 is invalid
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
+EPIC: NHH2706083
+Serial No: 239
+Name: Subramanian -
+House: 45
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
 EPIC: NHH0469965
-Serial No: 257
+Serial No: 256
 Name: Susila -
 House: 47B
 Reasons:
@@ -874,21 +791,9 @@ Explanation:
   Rule: age <= 0 is invalid
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
-EPIC: NHH1763762
-Serial No: 270
-Name: Murugan -
-House: 50
-Reasons:
- - AGE_ZERO_OR_INVALID
-
-Explanation:
-  Age value = 0
-  Rule: age <= 0 is invalid
-  Conclusion: AGE_ZERO_OR_INVALID triggered
-----------------------------------------------------
 EPIC: NHH1608983
-Serial No: 280
-Name: A Uthra - OD
+Serial No: 279
+Name: A Uthra - D
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -899,8 +804,70 @@ Explanation:
   Rule: age <= 0 is invalid
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
+EPIC: NHH0127936
+Serial No: 299
+Name: Sooraj -
+House: 57B-110
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: NHH1608975
+Serial No: 340
+Name: M Moniga -
+House: 70
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: DHH1564152
+Serial No: 346
+Name: Kulandai Vadivel M
+House: 71,
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: NHHO988584
+Serial No: 359
+Name: John
+House: 72,
+Reasons:
+ - INVALID_EPIC_ID
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: DHH3740685
+Serial No: 389
+Name: Sagadevan -
+House: 79
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
 EPIC: NHH2710499
-Serial No: 450
+Serial No: 449
 Name: Manian -
 House: 111
 Reasons:
@@ -911,10 +878,10 @@ Explanation:
   Rule: age <= 0 is invalid
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
-EPIC: NHH2254266
-Serial No: 460
-Name: Sidharthan -
-House: 113
+EPIC: NHH2710895
+Serial No: 549
+Name: C s mani -
+House: 9
 Reasons:
  - AGE_ZERO_OR_INVALID
 
@@ -924,8 +891,8 @@ Explanation:
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
 EPIC: NHH1239920
-Serial No: 637
-Name: Deepika - ev
+Serial No: 634
+Name: Deepika - &
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -937,8 +904,8 @@ Explanation:
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
 EPIC: NHH2720225
-Serial No: 694
-Name: Rarmathal -
+Serial No: 691
+Name: Ramathal -
 House: 11
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -949,7 +916,7 @@ Explanation:
   Conclusion: AGE_ZERO_OR_INVALID triggered
 ----------------------------------------------------
 Reason: BULK_10_PLUS
-Total flagged: 26
+Total flagged: 11
 ----------------------------------------------------
 EPIC: NHH2705762
 Serial No: 55
@@ -968,13 +935,12 @@ Name: Shanthamani -
 House: 7
 Reasons:
  - BULK_10_PLUS
- - COPY_SAME_PERSON_DIFFERENT_DOOR
 
 Explanation:
   House contains more than 10 registered voters
   Conclusion: BULK_10_PLUS triggered
 ----------------------------------------------------
-EPIC: DHHS5995824
+EPIC: DHH5995824
 Serial No: 57
 Name: Sagayaraj -
 House: 7
@@ -1075,189 +1041,11 @@ Explanation:
   House contains more than 10 registered voters
   Conclusion: BULK_10_PLUS triggered
 ----------------------------------------------------
-EPIC: NHH0469825
-Serial No: 66
-Name: Loganathan -
-House: 7
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHHO470161
-Serial No: 67
-Name: Saraswathi -
-House: 7
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH1240209
-Serial No: 70
-Name: Parthiban -
-House: 7
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: DHH3739976
-Serial No: 373
-Name: nan
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH2710077
-Serial No: 375
-Name: Kanchana -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: DHH3740149
-Serial No: 376
-Name: VINOTH PATEL -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: DHH3740131
-Serial No: 377
-Name: PRAMILA PATEL -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: DHH3740073
-Serial No: 378
-Name: RAJESH PATEL -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH0470013
-Serial No: 379
-Name: Amutha -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHHO0284182
-Serial No: 380
-Name: Kavitha -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH2226132
-Serial No: 381
-Name: jeevareka -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH2226066
-Serial No: 382
-Name: Jagatheash -
-House: 75
-Reasons:
- - BULK_10_PLUS
- - UNDER_18
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: DHH3739968
-Serial No: 383
-Name: Vasanthi patel -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHH2226058
-Serial No: 384
-Name: SIBIVARMAN
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
-EPIC: NHHO0128082
-Serial No: 385
-Name: Manimegalai -
-House: 75
-Reasons:
- - BULK_10_PLUS
-
-Explanation:
-  House contains more than 10 registered voters
-  Conclusion: BULK_10_PLUS triggered
-----------------------------------------------------
 Reason: COPY_SAME_PERSON_DIFFERENT_DOOR
-Total flagged: 6
-----------------------------------------------------
-EPIC: NHH2705770
-Serial No: 56
-Name: Shanthamani -
-House: 7
-Reasons:
- - BULK_10_PLUS
- - COPY_SAME_PERSON_DIFFERENT_DOOR
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
+Total flagged: 2
 ----------------------------------------------------
 EPIC: NHH0284273
-Serial No: 260
+Serial No: 259
 Name: Yuvaraj -
 House: 47B2
 Reasons:
@@ -1269,102 +1057,22 @@ Explanation:
   Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
 ----------------------------------------------------
 EPIC: NHH1643709
-Serial No: 262
+Serial No: 261
 Name: Yuvaraj -
-House: 47
+House: 47-B2
 Reasons:
- - COPY_SAME_PERSON_DIFFERENT_DOOR
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
-----------------------------------------------------
-EPIC: DHH1562131
-Serial No: 554
-Name: Rajeswari -
-House: 9
-Reasons:
- - COPY_SAME_PERSON_DIFFERENT_DOOR
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
-----------------------------------------------------
-EPIC: NHH2719862
-Serial No: 621
-Name: Rajeswari -
-House: 5
-Reasons:
- - COPY_SAME_PERSON_DIFFERENT_DOOR
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
-----------------------------------------------------
-EPIC: NHH2719912
-Serial No: 631
-Name: Shanthamani -
-House: 8
-Reasons:
- - COPY_SAME_PERSON_DIFFERENT_DOOR
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
-----------------------------------------------------
-Reason: DUPLICATE_DETAILS
-Total flagged: 4
-----------------------------------------------------
-EPIC: NHH1643717
-Serial No: 31
-Name: Senthilkumar -
-House: 3
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH1643725
-Serial No: 32
-Name: Janaki -
-House: 3
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHHO0533893
-Serial No: 103
-Name: Ramakrishnan -
-House: 12
-Reasons:
- - DUPLICATE_DETAILS
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
-----------------------------------------------------
-EPIC: NHH0533836
-Serial No: 151
-Name: Ravikumar -
-House: 26
-Reasons:
- - DUPLICATE_DETAILS
  - ORPHAN_ONLY_PERSON_IN_HOME
+ - COPY_SAME_PERSON_DIFFERENT_DOOR
 
 Explanation:
   Rule triggered based on deterministic business logic
-  Conclusion: DUPLICATE_DETAILS triggered
+  Conclusion: COPY_SAME_PERSON_DIFFERENT_DOOR triggered
 ----------------------------------------------------
 Reason: DUPLICATE_EPIC_ID
 Total flagged: 2
 ----------------------------------------------------
 EPIC: NHH1381898
-Serial No: 728
+Serial No: 725
 Name: Loganathan -
 House: 9/14
 Reasons:
@@ -1376,7 +1084,7 @@ Explanation:
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
 EPIC: NHH0851071
-Serial No: 732
+Serial No: 729
 Name: Vijayalakshmi -
 House: 45
 Reasons:
@@ -1387,8 +1095,22 @@ Explanation:
   EPIC ID 'NHH0851071' appears more than once in this booth
   Conclusion: DUPLICATE_EPIC_ID triggered
 ----------------------------------------------------
+Reason: EPIC_ID_MISSING
+Total flagged: 1
+----------------------------------------------------
+EPIC: NAN
+Serial No: 130
+Name: Perumal
+House: 16
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
 Reason: HOUSE_NO_UNAVAILABLE
-Total flagged: 29
+Total flagged: 16
 ----------------------------------------------------
 EPIC: DHH1563568
 Serial No: 17
@@ -1405,7 +1127,20 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH2398105
 Serial No: 23
-Name: : THARUNIKA
+Name: THARUNIKA
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NHH1643667
+Serial No: 41
+Name: S Saravanan -
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1429,35 +1164,9 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: NHH3586278
-Serial No: 77
-Name: Mohamed ali
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH0309252
-Serial No: 101
-Name: Suresh -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH0849364
-Serial No: 107
-Name: sandeep Anandh -
+EPIC: NHH0533810
+Serial No: 53
+Name: Tamilselvi sugumaran
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1470,7 +1179,7 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH2386514
 Serial No: 166
-Name: NAGALAKSH <0
+Name: NAGALAKSH Ae
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -1495,35 +1204,9 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: NHHO0470831
-Serial No: 197
-Name: Vasantha -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH2706034
-Serial No: 222
-Name: Thangaraj -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH1240225
-Serial No: 227
-Name: Kalpana -
+EPIC: NHH0533851
+Serial No: 202
+Name: Suganya -
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1535,8 +1218,8 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH1608983
-Serial No: 280
-Name: A Uthra - OD
+Serial No: 279
+Name: A Uthra - D
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -1548,61 +1231,9 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: DHH3740305
-Serial No: 287
-Name: Ravichandran -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHHO0470062
-Serial No: 374
-Name: Anandan -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: DHH5473574
-Serial No: 437
-Name: Elango -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH1381938
-Serial No: 476
-Name: Kamaraj -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH2710655
-Serial No: 491
-Name: Kanagaraj -
+EPIC: NHH2710234
+Serial No: 406
+Name: Shanthamani -
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1614,7 +1245,7 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: DHH3740875
-Serial No: 497
+Serial No: 496
 Name: Saradha -
 House: nan
 Reasons:
@@ -1626,35 +1257,9 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: NHH3469087
-Serial No: 597
-Name: Santhosh S
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH0849091
-Serial No: 613
-Name: Geetha -
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
-----------------------------------------------------
-EPIC: NHH2719870
-Serial No: 622
-Name: Ponnusamy -
+EPIC: NHH1128289
+Serial No: 612
+Name: Chitravel -
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1666,7 +1271,7 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH0470203
-Serial No: 627
+Serial No: 624
 Name: Thangaraj -
 House: nan
 Reasons:
@@ -1679,8 +1284,8 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH1239920
-Serial No: 637
-Name: Deepika - ev
+Serial No: 634
+Name: Deepika - &
 House: nan
 Reasons:
  - AGE_ZERO_OR_INVALID
@@ -1692,9 +1297,9 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: NHH0469452
-Serial No: 640
-Name: Praveen Kumar S
+EPIC: NHH2719961
+Serial No: 643
+Name: Balasubramaniyam -
 House: nan
 Reasons:
  - HOUSE_NO_UNAVAILABLE
@@ -1706,7 +1311,7 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH2719995
-Serial No: 652
+Serial No: 649
 Name: Thangaraj -
 House: nan
 Reasons:
@@ -1718,57 +1323,466 @@ Explanation:
   Interpretation: data not provided or unreadable
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
-EPIC: NHH3443207
-Serial No: 681
-Name: mahalakshmi
-House: nan
-Reasons:
- - HOUSE_NO_UNAVAILABLE
-
-Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+Reason: INVALID_EPIC_ID
+Total flagged: 40
 ----------------------------------------------------
-EPIC: NHH2720134
-Serial No: 685
-Name: Natarajan -
-House: nan
+EPIC: NHHO0848770
+Serial No: 14
+Name: rani -
+House: 1X
 Reasons:
- - HOUSE_NO_UNAVAILABLE
+ - INVALID_EPIC_ID
 
 Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NHH2720217
-Serial No: 693
-Name: Chinnammal! -
-House: nan
+EPIC: NHHO0128116
+Serial No: 27
+Name: Rajalakshmi -
+House: 3
 Reasons:
- - HOUSE_NO_UNAVAILABLE
+ - INVALID_EPIC_ID
 
 Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
 ----------------------------------------------------
-EPIC: NHH0470245
-Serial No: 717
-Name: Susitharan -
-House: nan
+EPIC: NHHO0533802
+Serial No: 52
+Name: Sugumaran -
+House: 6
 Reasons:
- - HOUSE_NO_UNAVAILABLE
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
 
 Explanation:
-  House number value = 'nan'
-  Rule: house number is missing or unavailable
-  Interpretation: data not provided or unreadable
-  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470161
+Serial No: 67
+Name: Saraswathi -
+House: 7-33
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0366351
+Serial No: 94
+Name: Sumathi -
+House: 11
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO040816
+Serial No: 95
+Name: SIKKAIYAN
+House: 11/2
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0309252
+Serial No: 101
+Name: Suresh -
+House: 12
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0284323
+Serial No: 102
+Name: Kanchana -
+House: 12
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0284331
+Serial No: 105
+Name: Velusamy -
+House: 12-2
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO167114
+Serial No: 112
+Name: Palaniswamy -
+House: 124-33
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO849059
+Serial No: 147
+Name: Nirmala -
+House: 24
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470831
+Serial No: 196
+Name: Vasantha -
+House: 38/8
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO127985
+Serial No: 198
+Name: Rasathi -
+House: 384A
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0284315
+Serial No: 224
+Name: Maithili -
+House: 414
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: DHHS472741
+Serial No: 237
+Name: Periasamy -
+House: 43
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0128025
+Serial No: 247
+Name: Laxmanan -
+House: 47-58
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470237
+Serial No: 254
+Name: Elamurugan -
+House: 478
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO469569
+Serial No: 257
+Name: Mallika -
+House: 47B
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0127928
+Serial No: 298
+Name: Sruthi -
+House: 57B-110
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 0HH3739950
+Serial No: 305
+Name: Charles -
+House: 61
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO988584
+Serial No: 359
+Name: John
+House: 72,
+Reasons:
+ - INVALID_EPIC_ID
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470062
+Serial No: 373
+Name: Anandan -
+House: 75
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO128082
+Serial No: 384
+Name: Manimegalai -
+House: 75-34E
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO469650
+Serial No: 443
+Name: Bagyalakshmmi -
+House: 108
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0167098
+Serial No: 478
+Name: Saraswathi -
+House: 122
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470187
+Serial No: 479
+Name: Alazan -
+House: 122
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0533752
+Serial No: 487
+Name: Vidhyalakshmi -
+House: 125
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0849315
+Serial No: 527
+Name: Kavitha -
+House: 1X
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0284398
+Serial No: 543
+Name: Nesamani -
+House: 5-17
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0848978
+Serial No: 563
+Name: Karthik -
+House: 104
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO469908
+Serial No: 566
+Name: Vimala -
+House: 11-10
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0469395
+Serial No: 569
+Name: Subramaniam -
+House: 12
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0848895
+Serial No: 576
+Name: pavithara -
+House: 13-9
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0284380
+Serial No: 586
+Name: Karthik -
+House: 17
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: IEGO0263129
+Serial No: 611
+Name: Sujana sujana
+House: 3a
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0849414
+Serial No: 633
+Name: Chandru -
+House: 10
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: DHH15621546
+Serial No: 640
+Name: Mohannambal -
+House: 12-1
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: UYRO416651
+Serial No: 695
+Name: Ramya
+House: 11
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0470211
+Serial No: 704
+Name: Karthik -
+House: 14
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: NHHO0598797
+Serial No: 711
+Name: hariharan -
+House: 20
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
 ----------------------------------------------------
 Reason: INVALID_HOUSE_NO
 Total flagged: 4
@@ -1787,8 +1801,8 @@ Explanation:
   Observation: value contains only alphabetic characters
   Conclusion: INVALID_HOUSE_NO triggered
 ----------------------------------------------------
-EPIC: NHHO0595983
-Serial No: 520
+EPIC: NHH0595983
+Serial No: 519
 Name: pushpalatha -
 House: W/O
 Reasons:
@@ -1802,7 +1816,7 @@ Explanation:
   Conclusion: INVALID_HOUSE_NO triggered
 ----------------------------------------------------
 EPIC: NHH0469924
-Serial No: 598
+Serial No: 595
 Name: Arumugam -
 House: Na
 Reasons:
@@ -1815,7 +1829,7 @@ Explanation:
   Conclusion: INVALID_HOUSE_NO triggered
 ----------------------------------------------------
 EPIC: NHH0469916
-Serial No: 599
+Serial No: 596
 Name: nan
 House: Na
 Reasons:
@@ -1828,12 +1842,12 @@ Explanation:
   Conclusion: INVALID_HOUSE_NO triggered
 ----------------------------------------------------
 Reason: ORPHAN_ONLY_PERSON_IN_HOME
-Total flagged: 115
+Total flagged: 175
 ----------------------------------------------------
 EPIC: NHH0848796
 Serial No: 15
 Name: Krishnaveni -
-House: 259/30
+House: 259/30,
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -1849,6 +1863,36 @@ EPIC: NHH3579869
 Serial No: 22
 Name: Papathi
 House: 2/3
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3530417
+Serial No: 24
+Name: SANJEEV!I SELVARAJ
+House: 2E,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2417707
+Serial No: 25
+Name: RAJENDRAN
+House: 2E
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -1905,7 +1949,7 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH2352573
+EPIC: NHH2362573
 Serial No: 36
 Name: nikil pranav
 House: 4a
@@ -1926,6 +1970,37 @@ Name: SABEITHA
 House: 5/61
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240209
+Serial No: 70
+Name: Parthiban -
+House: 7-a
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3586278
+Serial No: 77
+Name: Mohamed ali
+House: 9/
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - UNDER_18
 
 Explanation:
   Observation:
@@ -1965,10 +2040,25 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0194209
+EPIC: NHH0194209
 Serial No: 80
 Name: Ranjithkumar -
 House: 9B
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: DHH5897913
+Serial No: 87
+Name: Subulakshmi -
+House: 104
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -1995,7 +2085,22 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0469833
+EPIC: NHH2705838
+Serial No: 89
+Name: Balasubramanian -
+House: 104-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0469833
 Serial No: 90
 Name: Nathiya ~
 House: 10B
@@ -2013,7 +2118,37 @@ Explanation:
 EPIC: NHH3334745
 Serial No: 91
 Name: Parameshwaran T
-House: 10/
+House: 10/C
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240795
+Serial No: 97
+Name: Revathi -
+House: 11-10
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1763689
+Serial No: 108
+Name: Bhuvaneshwari -
+House: 12-32
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2027,7 +2162,7 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH3578879
 Serial No: 109
-Name: nan
+Name: Soundharya
 House: 12/32
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2040,10 +2175,26 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0284174
-Serial No: 124
-Name: Madumathi -
-House: 14A
+EPIC: NHHO167114
+Serial No: 112
+Name: Palaniswamy -
+House: 124-33
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240175
+Serial No: 113
+Name: Kalaiselvi -
+House: 13
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2055,10 +2206,40 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0127969
-Serial No: 125
-Name: Sivaraj -
-House: 140
+EPIC: NHH1240407
+Serial No: 114
+Name: Karthikeyan -
+House: 13-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0469890
+Serial No: 115
+Name: Sridhar -
+House: 13-9
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0284257
+Serial No: 127
+Name: Kavitha -
+House: 14C
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2085,7 +2266,7 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH3568977
+EPIC: NHH3668977
 Serial No: 132
 Name: SANTHOSH P
 House: 1643
@@ -2102,8 +2283,38 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH3636867
 Serial No: 135
-Name: BARGATH ALI
+Name: BARGATH AL!
 House: 18C
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3334828
+Serial No: 141
+Name: shobika
+House: 21
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3597101
+Serial No: 142
+Name: Sanjeevi
+House: 21,
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2130,13 +2341,43 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHHO849059
+Serial No: 147
+Name: Nirmala -
+House: 24
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0848705
+Serial No: 148
+Name: Sivakumar -
+House: 24-16
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3334869
 Serial No: 149
 Name: Davis
 House: 24/16
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
- - AGE_ZERO_OR_INVALID
 
 Explanation:
   Observation:
@@ -2152,7 +2393,6 @@ Name: Karthikraja -
 House: 25
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
- - AGE_ZERO_OR_INVALID
 
 Explanation:
   Observation:
@@ -2167,7 +2407,6 @@ Serial No: 151
 Name: Ravikumar -
 House: 26
 Reasons:
- - DUPLICATE_DETAILS
  - ORPHAN_ONLY_PERSON_IN_HOME
 
 Explanation:
@@ -2193,7 +2432,7 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0533760
+EPIC: NHH0533760
 Serial No: 159
 Name: Umamakshwani -
 House: 30f
@@ -2210,8 +2449,23 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH0630624
 Serial No: 168
-Name: Rajarnani -
+Name: Rajarmani -
 House: 33
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0469619
+Serial No: 177
+Name: Mallika -
+House: 34-C
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2225,8 +2479,38 @@ Explanation:
 ----------------------------------------------------
 EPIC: NHH1239672
 Serial No: 180
-Name: Rajeswari ~
+Name: Rajeswari -
 House: 34f
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3597135
+Serial No: 181
+Name: Sharmilaa
+House: 34G,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3578895
+Serial No: 182
+Name: Narmadha
+House: 34G
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2241,7 +2525,7 @@ Explanation:
 EPIC: NHH2352557
 Serial No: 183
 Name: gokula swathi
-House: 34/62
+House: 34g/62
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2272,7 +2556,7 @@ Explanation:
 EPIC: NHH1333871
 Serial No: 187
 Name: Rejitha -
-House: 35
+House: 35-5
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2287,7 +2571,7 @@ Explanation:
 EPIC: NHH1240845
 Serial No: 188
 Name: Matharsha -
-House: 36
+House: 36-108
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2329,10 +2613,72 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHHO0470831
+Serial No: 196
+Name: Vasantha -
+House: 38/8
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240399
+Serial No: 197
+Name: Sathya -
+House: 38-10
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHHO127985
+Serial No: 198
+Name: Rasathi -
+House: 384A
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3543980
 Serial No: 199
-Name: nan
-House: 384
+Name: YOGALAKSHMI!I
+House: 38A
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0533849
+Serial No: 203
+Name: Jayanthimani -
+House: 38-a2
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2345,7 +2691,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0533794
-Serial No: 205
+Serial No: 204
 Name: rajasekar -
 House: 38c
 Reasons:
@@ -2360,8 +2706,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3334810
-Serial No: 206
-Name: Rablya Abdul Raghuman
+Serial No: 205
+Name: Rabiya Abdul Raghuman
 House: 39
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2375,8 +2721,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2328987
-Serial No: 211
-Name: somasundaram
+Serial No: 210
+Name: nan
 House: 40/72
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2389,10 +2735,10 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0127951
+EPIC: NHH2328243
 Serial No: 213
-Name: Rejitha ~
-House: 404
+Name: RAV!
+House: 40A
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2405,7 +2751,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2352532
-Serial No: 216
+Serial No: 215
 Name: ANIL KUMAR
 House: 4041
 Reasons:
@@ -2419,10 +2765,10 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0284315
-Serial No: 225
-Name: Maithili -
-House: 414
+EPIC: NHH3178589
+Serial No: 218
+Name: karthick
+House: 40-A3,
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2434,12 +2780,13 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH1240829
-Serial No: 226
-Name: Karthikeyan -
-House: 41a
+EPIC: NHHO0284315
+Serial No: 224
+Name: Maithili -
+House: 414
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -2450,9 +2797,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0284232
-Serial No: 228
-Name: Balasubramani -
-House: 41C
+Serial No: 227
+Name: Balasubrarmani -
+House: 410
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2465,7 +2812,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3465036
-Serial No: 242
+Serial No: 241
 Name: SARANYA
 House: 45/D
 Reasons:
@@ -2480,7 +2827,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3400678
-Serial No: 245
+Serial No: 244
 Name: MADHUMEENA
 House: 45E3
 Reasons:
@@ -2494,8 +2841,8 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0284265
-Serial No: 246
+EPIC: NHH0284266
+Serial No: 245
 Name: Gokilapriya -
 House: 464
 Reasons:
@@ -2509,8 +2856,68 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2706109
+Serial No: 246
+Name: Ramathal -
+House: 47
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0194324
+Serial No: 249
+Name: Padma -
+House: 47-5C
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0470260
+Serial No: 250
+Name: Mallika
+House: 47-21
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0469668
+Serial No: 251
+Name: Theivathal -
+House: 47-214
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3504701
-Serial No: 253
+Serial No: 252
 Name: PRADEEP
 House: 47/90
 Reasons:
@@ -2525,7 +2932,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1128271
-Serial No: 254
+Serial No: 253
 Name: Santhiya -
 House: 47a
 Reasons:
@@ -2540,11 +2947,12 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHHO0470237
-Serial No: 255
+Serial No: 254
 Name: Elamurugan -
 House: 478
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -2555,7 +2963,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0284273
-Serial No: 260
+Serial No: 259
 Name: Yuvaraj -
 House: 47B2
 Reasons:
@@ -2571,7 +2979,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1608991
-Serial No: 261
+Serial No: 260
 Name: priyadharshini -
 House: 4782
 Reasons:
@@ -2585,8 +2993,54 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH1643709
+Serial No: 261
+Name: Yuvaraj -
+House: 47-B2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - COPY_SAME_PERSON_DIFFERENT_DOOR
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2328888
+Serial No: 262
+Name: shanmugam
+House: 472/70
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2329076
+Serial No: 263
+Name: hemalatha
+House: 47e/70
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: DHH5997069
-Serial No: 265
+Serial No: 264
 Name: Amutha -
 House: 48
 Reasons:
@@ -2601,7 +3055,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2328722
-Serial No: 271
+Serial No: 270
 Name: Sumesh Bharathi Ramasamy
 House: 50/1554
 Reasons:
@@ -2615,8 +3069,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2709905
+Serial No: 275
+Name: Gowri -
+House: 51-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1340746
+Serial No: 278
+Name: DHANASEKARAN
+House: 52-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3597127
-Serial No: 284
+Serial No: 283
 Name: Bhoovanesh
 House: 53/4
 Reasons:
@@ -2630,8 +3114,23 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH1240696
+Serial No: 296
+Name: Asha -
+House: 56-108
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH0027201
-Serial No: 298
+Serial No: 297
 Name: RAJU
 House: 57
 Reasons:
@@ -2646,8 +3145,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2226082
-Serial No: 307
-Name: nan
+Serial No: 306
+Name: manojkannan -
 House: 614
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2661,7 +3160,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1609106
-Serial No: 308
+Serial No: 307
 Name: Velusamy -
 House: 62
 Reasons:
@@ -2676,8 +3175,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3179447
-Serial No: 313
-Name: DIVYALAKSHMI!
+Serial No: 312
+Name: DIVYALAKSHMI
 House: 63/64
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2690,8 +3189,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH3179355
+Serial No: 319
+Name: dharani
+House: 64-a
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240639
+Serial No: 333
+Name: Vasuki -
+House: 69-25
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3504644
-Serial No: 335
+Serial No: 334
 Name: DHARNISH
 House: 69/37
 Reasons:
@@ -2705,8 +3234,23 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2266823
+Serial No: 342
+Name: nan
+House: 70-38
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3334877
-Serial No: 344
+Serial No: 343
 Name: Dhanalakshmi
 House: 70/38
 Reasons:
@@ -2720,8 +3264,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2710028
+Serial No: 351
+Name: Devadas -
+House: 71-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1609015
+Serial No: 354
+Name: Sudharsan K -
+House: 72-B
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH0469353
-Serial No: 357
+Serial No: 356
 Name: mahendran -
 House: 72E
 Reasons:
@@ -2735,10 +3309,101 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH3455912
+Serial No: 365
+Name: Nagaveni P
+House: 73,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2710069
+Serial No: 367
+Name: Ramanathan -
+House: 73-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH3455904
+Serial No: 368
+Name: Raja V
+House: 74,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: DHH3739968
+Serial No: 382
+Name: Vasanthi patel -
+House: 75-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2226058
+Serial No: 383
+Name: SIBIVARMAN
+House: 75-34
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHHO128082
+Serial No: 384
+Name: Manimegalai -
+House: 75-34E
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3529104
-Serial No: 386
+Serial No: 385
 Name: THANGAVEL A
-House: 76
+House: 76,WEST
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2751,7 +3416,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2710085
-Serial No: 387
+Serial No: 386
 Name: MARKANDAN
 House: 77
 Reasons:
@@ -2765,10 +3430,25 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH1675297
+Serial No: 391
+Name: chandhini -
+House: 79-42
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH1763648
-Serial No: 398
+Serial No: 397
 Name: Krishnasamy -
-House: 87
+House: 87-184
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2781,7 +3461,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2710150
-Serial No: 399
+Serial No: 398
 Name: Rathinasamy -
 House: 88
 Reasons:
@@ -2796,7 +3476,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2710200
-Serial No: 404
+Serial No: 403
 Name: Murugesan -
 House: 91
 Reasons:
@@ -2811,7 +3491,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2710283
-Serial No: 414
+Serial No: 413
 Name: Saradha -
 House: 95
 Reasons:
@@ -2825,8 +3505,23 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: DHH5929989
+Serial No: 414
+Name: Karthikeyan -
+House: 96
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3631017
-Serial No: 416
+Serial No: 415
 Name: Keerthivasan M
 House: 96/1
 Reasons:
@@ -2840,9 +3535,24 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH0469585
+Serial No: 416
+Name: Mythill -
+House: 96-47C
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH2710416
-Serial No: 433
-Name: nan
+Serial No: 432
+Name: Annapoorani -
 House: 103
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -2856,7 +3566,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: DHH5897996
-Serial No: 434
+Serial No: 433
 Name: Sumathi -
 House: 105
 Reasons:
@@ -2870,8 +3580,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2390045
+Serial No: 437
+Name: rekha
+House: 106-54
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0127977
+Serial No: 444
+Name: nan
+House: 108-56
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH2282507
-Serial No: 483
+Serial No: 482
 Name: RATHINAKUMAR
 House: 123/62
 Reasons:
@@ -2885,10 +3625,25 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH2226041
+Serial No: 495
+Name: Saranya -
+House: 126-63
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH0533927
-Serial No: 514
+Serial No: 513
 Name: Thangavijayan -
-House: 143
+House: 143-41
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2901,7 +3656,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1240787
-Serial No: 515
+Serial No: 514
 Name: Sarika -
 House: 157
 Reasons:
@@ -2916,7 +3671,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2328821
-Serial No: 518
+Serial No: 517
 Name: subramaniyam
 House: 301
 Reasons:
@@ -2931,7 +3686,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3179397
-Serial No: 519
+Serial No: 518
 Name: VINODHINI
 House: 341C
 Reasons:
@@ -2945,8 +3700,8 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0595983
-Serial No: 520
+EPIC: NHH0595983
+Serial No: 519
 Name: pushpalatha -
 House: W/O
 Reasons:
@@ -2961,10 +3716,10 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0849315
-Serial No: 528
-Name: Kavitha -
-House: 1X
+EPIC: NHH3334885
+Serial No: 526
+Name: Menaka
+House: 1(1)
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2976,10 +3731,41 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHHO0849315
+Serial No: 527
+Name: Kavitha -
+House: 1X
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH2417665
-Serial No: 529
+Serial No: 528
 Name: MARIYAMMAL
-House: 2E
+House: 2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0848655
+Serial No: 537
+Name: Kalaiarasi -
+House: 4-18
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -2992,9 +3778,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3617149
-Serial No: 563
-Name: PAUL SANTHA KUMAR
-House: 10/124
+Serial No: 562
+Name: nan
+House: 10/
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3006,10 +3792,41 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHH0848978
-Serial No: 564
+EPIC: NHHO0848978
+Serial No: 563
 Name: Karthik -
-House: 10A
+House: 104
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2710945
+Serial No: 564
+Name: Ramasamy -
+House: 11
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH2717916
+Serial No: 565
+Name: Rubha -
+House: 11-4
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3022,7 +3839,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2269793
-Serial No: 570
+Serial No: 568
 Name: PARTHEEPAN
 House: 11/12
 Reasons:
@@ -3036,8 +3853,24 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHHO0848895
+Serial No: 576
+Name: pavithara -
+House: 13-9
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: DHH3739919
-Serial No: 580
+Serial No: 577
 Name: Rani -
 House: 14
 Reasons:
@@ -3051,10 +3884,25 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH0128371
+Serial No: 587
+Name: Selvaraj -
+House: 17-5
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH1643675
-Serial No: 591
+Serial No: 588
 Name: Natarajan -
-House: 20
+House: 20-4
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3067,7 +3915,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: DHH3740982
-Serial No: 592
+Serial No: 589
 Name: Valliyammal -
 House: 22
 Reasons:
@@ -3082,7 +3930,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2418127
-Serial No: 593
+Serial No: 590
 Name: nan
 House: 228
 Reasons:
@@ -3096,8 +3944,8 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
-EPIC: NHHO0598771
-Serial No: 594
+EPIC: NHH0598771
+Serial No: 591
 Name: thamas -
 House: 29
 Reasons:
@@ -3112,9 +3960,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2328805
-Serial No: 595
+Serial No: 592
 Name: dhanalakshmi
-House: 47e
+House: 47a
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3127,7 +3975,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3179389
-Serial No: 596
+Serial No: 593
 Name: nandhini
 House: 78c
 Reasons:
@@ -3141,8 +3989,23 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH3469087
+Serial No: 594
+Name: Santhosh S
+House: 97/22
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH3179421
-Serial No: 606
+Serial No: 603
 Name: baby shalini
 House: 1/13a
 Reasons:
@@ -3156,8 +4019,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: DHH6137566
+Serial No: 604
+Name: Balasubiramaniam -
+House: 2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH1240472
+Serial No: 605
+Name: Sovunthirarajan -
+House: 2-354
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH0470054
-Serial No: 609
+Serial No: 606
 Name: Velnachiyar -
 House: 2A
 Reasons:
@@ -3172,7 +4065,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1128255
-Serial No: 610
+Serial No: 607
 Name: sanmugam -
 House: 3
 Reasons:
@@ -3187,7 +4080,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3397296
-Serial No: 611
+Serial No: 608
 Name: MALAVIKA
 House: 3/13
 Reasons:
@@ -3202,7 +4095,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0848812
-Serial No: 612
+Serial No: 609
 Name: nan
 House: 34
 Reasons:
@@ -3217,7 +4110,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1340834
-Serial No: 616
+Serial No: 613
 Name: Sasitharan -
 House: 3B
 Reasons:
@@ -3231,8 +4124,38 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH0128405
+Serial No: 621
+Name: Maheshwari -
+House: 5-23
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NHH0469452
+Serial No: 637
+Name: Praveen Kumar S
+House: 11-4
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH2328755
-Serial No: 641
+Serial No: 638
 Name: lilly
 House: 11/10
 Reasons:
@@ -3247,7 +4170,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3663754
-Serial No: 645
+Serial No: 642
 Name: YAMUNADEVI
 House: 12/134
 Reasons:
@@ -3262,7 +4185,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3504651
-Serial No: 651
+Serial No: 648
 Name: SARASU
 House: 13/12
 Reasons:
@@ -3277,7 +4200,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3334844
-Serial No: 658
+Serial No: 655
 Name: RAMYA
 House: 14/1
 Reasons:
@@ -3291,8 +4214,23 @@ Explanation:
   Conclusion:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
+EPIC: NHH0470229
+Serial No: 660
+Name: Tamilselvi -
+House: 15-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
 EPIC: NHH1016732
-Serial No: 664
+Serial No: 661
 Name: Balamani -
 House: 16
 Reasons:
@@ -3307,9 +4245,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2226124
-Serial No: 665
-Name: manoj kumar -
-House: 17
+Serial No: 662
+Name: nan
+House: 17-92
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3322,8 +4260,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1128214
-Serial No: 666
-Name: nan
+Serial No: 663
+Name: vignesh -
 House: 29
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -3337,7 +4275,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2328771
-Serial No: 667
+Serial No: 664
 Name: pandi selvi
 House: 47
 Reasons:
@@ -3352,9 +4290,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1340898
-Serial No: 668
+Serial No: 665
 Name: Nainar -
-House: 70
+House: 70-12
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3367,9 +4305,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2226090
-Serial No: 669
+Serial No: 666
 Name: tamilselvan -
-House: 86
+House: 86-B
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3382,7 +4320,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3411915
-Serial No: 670
+Serial No: 667
 Name: Gnanasundharam
 House: 541
 Reasons:
@@ -3397,7 +4335,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1643766
-Serial No: 671
+Serial No: 668
 Name: BRINDHA -
 House: 1/B5
 Reasons:
@@ -3412,7 +4350,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH0848994
-Serial No: 672
+Serial No: 669
 Name: Meenachi -
 House: 1X
 Reasons:
@@ -3427,7 +4365,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1763671
-Serial No: 679
+Serial No: 676
 Name: Preethi -
 House: 44
 Reasons:
@@ -3442,7 +4380,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2405108
-Serial No: 683
+Serial No: 680
 Name: nan
 House: 5D
 Reasons:
@@ -3457,7 +4395,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH2720241
-Serial No: 701
+Serial No: 698
 Name: Sundarambal -
 House: 114
 Reasons:
@@ -3472,7 +4410,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3597119
-Serial No: 702
+Serial No: 699
 Name: Rosali
 House: 13/
 Reasons:
@@ -3487,8 +4425,8 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3645801
-Serial No: 713
-Name: VAISHNAVI
+Serial No: 710
+Name: nan
 House: 154
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
@@ -3502,11 +4440,12 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHHO0598797
-Serial No: 714
-Name: : hariharan -
+Serial No: 711
+Name: hariharan -
 House: 20
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -3517,7 +4456,7 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH1381962
-Serial No: 715
+Serial No: 712
 Name: Eeswaramoorthi -
 House: 23
 Reasons:
@@ -3532,24 +4471,9 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 EPIC: NHH3670304
-Serial No: 716
+Serial No: 713
 Name: RAGAVAN PALANISAMY
 House: 28f
-Reasons:
- - ORPHAN_ONLY_PERSON_IN_HOME
-
-Explanation:
-  Observation:
-   - Only one voter is registered under this house number
-  Interpretation:
-   - This may represent a single-person household or incomplete data
-  Conclusion:
-   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
-----------------------------------------------------
-EPIC: NHH0469403
-Serial No: 718
-Name: Malathi -
-House: 94
 Reasons:
  - ORPHAN_ONLY_PERSON_IN_HOME
 
@@ -3598,35 +4522,35 @@ Explanation:
   Rule: voter name must not equal their own parent/spouse name
   Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
 ----------------------------------------------------
-EPIC: NHH2720175
-Serial No: 689
-Name: nan
-House: 10
+EPIC: NHH2720134
+Serial No: 682
+Name: Natarajan -
+House: 6
 Reasons:
  - SAME_NAME_IN_SAME_HOUSE
 
 Explanation:
   Self-row consistency check:
-   - name = 'nan'
-   - father_name = 'Kaliappan -'
+   - name = 'Natarajan -'
+   - father_name = 'Karuppusamy -'
    - mother_name = 'nan'
    - husband_name = 'nan'
   Rule: voter name must not equal their own parent/spouse name
   Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
 ----------------------------------------------------
-EPIC: NHH2720191
-Serial No: 691
-Name: nan
-House: 10
+EPIC: NHH2720142
+Serial No: 683
+Name: Natarajan -
+House: 6
 Reasons:
  - SAME_NAME_IN_SAME_HOUSE
 
 Explanation:
   Self-row consistency check:
-   - name = 'nan'
-   - father_name = 'nan'
+   - name = 'Natarajan -'
+   - father_name = 'Ramasamigounder -'
    - mother_name = 'nan'
-   - husband_name = 'Venkitachalam ='
+   - husband_name = 'nan'
   Rule: voter name must not equal their own parent/spouse name
   Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
 ----------------------------------------------------
@@ -3634,7 +4558,7 @@ Reason: STREET_NAME_UNAVAILABLE
 Total flagged: 14
 ----------------------------------------------------
 EPIC: NHH3704020
-Serial No: 719
+Serial No: 716
 Name: Ramasamy
 House: 414/66
 Reasons:
@@ -3645,7 +4569,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3705183
-Serial No: 720
+Serial No: 717
 Name: Karthi Karthi
 House: 108/56
 Reasons:
@@ -3656,9 +4580,9 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3705290
-Serial No: 721
+Serial No: 718
 Name: Gomu
-House: 70/47
+House: 70/47,
 Reasons:
  - STREET_NAME_UNAVAILABLE
 
@@ -3667,9 +4591,9 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3707353
-Serial No: 722
+Serial No: 719
 Name: RAJESWARI
-House: 400/1
+House: 400/
 Reasons:
  - STREET_NAME_UNAVAILABLE
 
@@ -3678,7 +4602,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3729787
-Serial No: 723
+Serial No: 720
 Name: Janani Janani
 House: 19
 Reasons:
@@ -3689,7 +4613,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3729795
-Serial No: 724
+Serial No: 721
 Name: Dinesh Karthick Dinesh Karthick
 House: 25
 Reasons:
@@ -3700,7 +4624,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3729803
-Serial No: 725
+Serial No: 722
 Name: GuruPrasanth Guru Prasanth
 House: 11/1
 Reasons:
@@ -3711,7 +4635,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3729779
-Serial No: 726
+Serial No: 723
 Name: Subashree
 House: 63/64
 Reasons:
@@ -3722,7 +4646,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3729761
-Serial No: 727
+Serial No: 724
 Name: Gowsalya Gowsalya
 House: 67/131
 Reasons:
@@ -3733,7 +4657,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH1381898
-Serial No: 728
+Serial No: 725
 Name: Loganathan -
 House: 9/14
 Reasons:
@@ -3745,7 +4669,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: DHH3725223
-Serial No: 729
+Serial No: 726
 Name: Karupathal -
 House: 70A
 Reasons:
@@ -3756,9 +4680,9 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: XSS1802149
-Serial No: 730
+Serial No: 727
 Name: Sathyadevi -
-House: 80/19
+House: 8C/19
 Reasons:
  - STREET_NAME_UNAVAILABLE
 
@@ -3767,8 +4691,8 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH3612728
-Serial No: 731
-Name: Nandhitha D
+Serial No: 728
+Name: nan
 House: 101A
 Reasons:
  - STREET_NAME_UNAVAILABLE
@@ -3778,7 +4702,7 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 EPIC: NHH0851071
-Serial No: 732
+Serial No: 729
 Name: Vijayalakshmi -
 House: 45
 Reasons:
@@ -3790,13 +4714,14 @@ Explanation:
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
 Reason: UNDER_18
-Total flagged: 6
+Total flagged: 4
 ----------------------------------------------------
-EPIC: NHH1240183
-Serial No: 196
-Name: Chelladurai -
-House: 38
+EPIC: NHH3586278
+Serial No: 77
+Name: Mohamed ali
+House: 9/
 Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
  - UNDER_18
 
 Explanation:
@@ -3804,10 +4729,22 @@ Explanation:
   Rule: age < 18
   Conclusion: UNDER_18 triggered
 ----------------------------------------------------
-EPIC: NHH0284075
-Serial No: 232
-Name: Valliyammal -
+EPIC: NHH1675271
+Serial No: 234
+Name: Sowmiya -
 House: 42
+Reasons:
+ - UNDER_18
+
+Explanation:
+  Age = 2
+  Rule: age < 18
+  Conclusion: UNDER_18 triggered
+----------------------------------------------------
+EPIC: NHH2719821
+Serial No: 600
+Name: Rukmani -
+House: 1
 Reasons:
  - UNDER_18
 
@@ -3816,45 +4753,8 @@ Explanation:
   Rule: age < 18
   Conclusion: UNDER_18 triggered
 ----------------------------------------------------
-EPIC: NHH2226066
-Serial No: 382
-Name: Jagatheash -
-House: 75
-Reasons:
- - BULK_10_PLUS
- - UNDER_18
-
-Explanation:
-  Age = 2
-  Rule: age < 18
-  Conclusion: UNDER_18 triggered
-----------------------------------------------------
-EPIC: NHH2710606
-Serial No: 472
-Name: Gnanapandithan -
-House: 121
-Reasons:
- - UNDER_18
-
-Explanation:
-  Age = 8
-  Rule: age < 18
-  Conclusion: UNDER_18 triggered
-----------------------------------------------------
-EPIC: NHH2226041
-Serial No: 496
-Name: Saranya -
-House: 126
-Reasons:
- - UNDER_18
-
-Explanation:
-  Age = 2
-  Rule: age < 18
-  Conclusion: UNDER_18 triggered
-----------------------------------------------------
 EPIC: NHH2720209
-Serial No: 692
+Serial No: 689
 Name: Pazhanisami -
 House: 11
 Reasons:

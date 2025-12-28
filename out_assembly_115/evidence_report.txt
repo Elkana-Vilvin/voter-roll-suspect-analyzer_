@@ -1,0 +1,212 @@
+EVIDENCE-BACKED SUSPECT REPORT
+============================================================
+Total voters: 1067
+Total suspects: 18
+
+Reason: DUPLICATE_DETAILS
+Total flagged: 4
+----------------------------------------------------
+EPIC: WRK3695293
+Serial No: 628
+Name: Sivasakthivel
+House: 4/181
+Reasons:
+ - DUPLICATE_DETAILS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: DUPLICATE_DETAILS triggered
+----------------------------------------------------
+EPIC: WRK3696606
+Serial No: 629
+Name: SIVASAKTHIVEL
+House: 4/181
+Reasons:
+ - DUPLICATE_DETAILS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: DUPLICATE_DETAILS triggered
+----------------------------------------------------
+EPIC: WRK3695301
+Serial No: 940
+Name: Pranesh
+House: 4/319
+Reasons:
+ - DUPLICATE_DETAILS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: DUPLICATE_DETAILS triggered
+----------------------------------------------------
+EPIC: WRK3695234
+Serial No: 943
+Name: Pranesh
+House: 4/319
+Reasons:
+ - DUPLICATE_DETAILS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: DUPLICATE_DETAILS triggered
+----------------------------------------------------
+Reason: DUPLICATE_EPIC_ID
+Total flagged: 2
+----------------------------------------------------
+EPIC: WRK0465435
+Serial No: 81
+Name: Inthirani -- &
+House: nan
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'WRK0465435' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WRK0465435
+Serial No: 1066
+Name: Inthirani --
+House: 3/175/1
+Reasons:
+ - DUPLICATE_EPIC_ID
+
+Explanation:
+  EPIC ID 'WRK0465435' appears more than once in this booth
+  Conclusion: DUPLICATE_EPIC_ID triggered
+----------------------------------------------------
+Reason: EPIC_ID_MISSING
+Total flagged: 12
+----------------------------------------------------
+EPIC: NAN
+Serial No: 4
+Name: Priya ou
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 178
+Name: SRajendran -
+House: 4-28
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 306
+Name: Mahalingam
+House: 4/77
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 597
+Name: Palanal -
+House: 4-171
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 717
+Name: Parumal -
+House: 4-216
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 834
+Name: Ranjith -
+House: 4-254
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 837
+Name: Pappal -
+House: 4-254-1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 867
+Name: Karuppasami -
+House: 4-261
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 894
+Name: Lakshmi -
+House: 4/266
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 954
+Name: nan
+House: 4/322
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 984
+Name: Munusamy -
+House: 4-377A
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 994
+Name: Anandraj -
+House: 58-2
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------

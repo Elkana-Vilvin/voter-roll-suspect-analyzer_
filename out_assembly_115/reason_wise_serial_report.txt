@@ -1,0 +1,27 @@
+DUPLICATE_DETAILS - total suspects ---- 04
+--------------------------------------------------
+Ser No: 628
+Ser No: 629
+Ser No: 940
+Ser No: 943
+
+DUPLICATE_EPIC_ID - total suspects ---- 02
+--------------------------------------------------
+Ser No: 81
+Ser No: 1066
+
+EPIC_ID_MISSING - total suspects ---- 12
+--------------------------------------------------
+Ser No: 4
+Ser No: 178
+Ser No: 306
+Ser No: 597
+Ser No: 717
+Ser No: 834
+Ser No: 837
+Ser No: 867
+Ser No: 894
+Ser No: 954
+Ser No: 984
+Ser No: 994
+
