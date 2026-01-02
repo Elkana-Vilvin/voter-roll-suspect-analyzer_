@@ -1,31 +1,27 @@
 from models import reasons
 import pandas as pd
 
+from utils.epic import normalize_epic_id, is_valid_epic
+
 
 def apply_global_duplicate_rules(df):
     """
-    Apply booth-independent duplicate checks.
+    GLOBAL RULES (ASSEMBLY-WIDE):
+    - EPIC_ID_MISSING
+    - INVALID_EPIC_ID
+    - DUPLICATE_EPIC_ID
+    - DUPLICATE_DETAILS
     """
 
     # -------------------------------------------------
-    # NORMALIZE EPIC ID
+    # EPIC NORMALIZATION (OCR SAFE — SINGLE SOURCE)
     # -------------------------------------------------
-    epic_raw = df["epic_id"]
-
-    epic_norm = (
-        epic_raw
-        .astype(str)
-        .str.strip()
-        .str.upper()
-    )
+    df["_epic_norm"] = df["epic_id"].apply(normalize_epic_id)
 
     # -------------------------------------------------
-    # 0. EPIC_ID_MISSING (GLOBAL)
+    # 1. EPIC_ID_MISSING
     # -------------------------------------------------
-    missing_mask = (
-        epic_raw.isna() |
-        epic_norm.isin(["", "NAN", "NONE"])
-    )
+    missing_mask = df["_epic_norm"].isna()
 
     for idx in df[missing_mask].index:
         if reasons.EPIC_ID_MISSING not in df.at[idx, "suspect_reasons"]:
@@ -34,21 +30,37 @@ def apply_global_duplicate_rules(df):
             )
 
     # -------------------------------------------------
-    # 1. DUPLICATE_EPIC_ID (GLOBAL, VALID ONLY)
+    # 2. INVALID_EPIC_ID
     # -------------------------------------------------
-    valid_mask = ~missing_mask
-    valid_epic = epic_norm[valid_mask]
+    invalid_mask = (
+        ~missing_mask &
+        ~df["_epic_norm"].apply(is_valid_epic)
+    )
 
-    dup_mask = valid_epic.duplicated(keep=False)
+    for idx in df[invalid_mask].index:
+        if reasons.INVALID_EPIC_ID not in df.at[idx, "suspect_reasons"]:
+            df.at[idx, "suspect_reasons"].append(
+                reasons.INVALID_EPIC_ID
+            )
 
-    for idx in valid_epic[dup_mask].index:
+    # -------------------------------------------------
+    # 3. DUPLICATE_EPIC_ID (ONLY VALID EPICS)
+    # -------------------------------------------------
+    valid_mask = (
+        ~missing_mask &
+        ~invalid_mask
+    )
+
+    dup_mask = df.loc[valid_mask, "_epic_norm"].duplicated(keep=False)
+
+    for idx in df.loc[valid_mask].index[dup_mask]:
         if reasons.DUPLICATE_EPIC_ID not in df.at[idx, "suspect_reasons"]:
             df.at[idx, "suspect_reasons"].append(
                 reasons.DUPLICATE_EPIC_ID
             )
 
     # -------------------------------------------------
-    # 2. DUPLICATE_DETAILS (GLOBAL)
+    # 4. DUPLICATE_DETAILS (GLOBAL — EPIC IGNORED)
     # -------------------------------------------------
     detail_cols = [
         "name",
@@ -63,6 +75,7 @@ def apply_global_duplicate_rules(df):
     ]
 
     norm_df = df[detail_cols].copy()
+
     for col in detail_cols:
         norm_df[col] = (
             norm_df[col]
@@ -75,19 +88,8 @@ def apply_global_duplicate_rules(df):
 
     for _, grp in groups:
         if len(grp) > 1:
-            epics = (
-                df.loc[grp.index, "epic_id"]
-                .astype(str)
-                .str.strip()
-                .str.upper()
-            )
-
-            # ignore missing EPIC IDs
-            valid_epics = epics[~epics.isin(["", "NAN", "NONE"])]
-
-            if valid_epics.nunique() > 1:
-                for idx in grp.index:
-                    if reasons.DUPLICATE_DETAILS not in df.at[idx, "suspect_reasons"]:
-                        df.at[idx, "suspect_reasons"].append(
-                            reasons.DUPLICATE_DETAILS
-                        )
+            for idx in grp.index:
+                if reasons.DUPLICATE_DETAILS not in df.at[idx, "suspect_reasons"]:
+                    df.at[idx, "suspect_reasons"].append(
+                        reasons.DUPLICATE_DETAILS
+                    )

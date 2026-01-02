@@ -1,7 +1,7 @@
 EVIDENCE-BACKED SUSPECT REPORT
 ============================================================
 Total voters: 3638
-Total suspects: 112
+Total suspects: 154
 
 Reason: DUPLICATE_DETAILS
 Total flagged: 6
@@ -1243,4 +1243,469 @@ Reasons:
 Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+Reason: INVALID_EPIC_ID
+Total flagged: 42
+----------------------------------------------------
+EPIC: JR74481677
+Serial No: 115
+Name: Praneshkumar -
+House: 8
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB41046467
+Serial No: 270
+Name: Sindhu
+House: 234
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJIB1599299
+Serial No: 599
+Name: Chidamparam 9)
+House: nan
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRAT4480240
+Serial No: 606
+Name: Thillai Nayaki ~
+House: 30
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB84298733
+Serial No: 612
+Name: mohanapriya
+House: 32/2
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRTA481834
+Serial No: 669
+Name: Murugesh -
+House: 95
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JR74480133
+Serial No: 1042
+Name: Selvarani -
+House: 39
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJ80305359
+Serial No: 1132
+Name: Pradeep -
+House: 5
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0971002
+Serial No: 1184
+Name: Sathasivam -
+House: 7A
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRAT4480448
+Serial No: 1212
+Name: Maruthachalam -
+House: 14-4
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: AT4480497
+Serial No: 1276
+Name: nan
+House: 50
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRTA478269
+Serial No: 1309
+Name: Parthipan -
+House: 63
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: XADO0050757
+Serial No: 1347
+Name: Lally Priya MARIA ANTONY
+House: No-3
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 1BU3285137
+Serial No: 1380
+Name: LAKSHMI.N
+House: nan
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: W4JB5024062
+Serial No: 1396
+Name: G Valliamma
+House: 1/12
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB39688165
+Serial No: 66
+Name: Velumani -
+House: 14
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJ84683637
+Serial No: 155
+Name: RETNAMMA,
+House: NO
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: Y110118687
+Serial No: 414
+Name: Renuka
+House: 88-A
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB023241
+Serial No: 432
+Name: Ponmathi -
+House: 94
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRAT2735264
+Serial No: 568
+Name: Saraswathy -
+House: 135
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRAT4504221
+Serial No: 622
+Name: Govindaraji -
+House: 158
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0493049
+Serial No: 728
+Name: Nithya -
+House: 204
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0493098
+Serial No: 802
+Name: Vasanthamani -
+House: 244
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: JRAT2735355
+Serial No: 835
+Name: Marathal -
+House: 261
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 196ATHTHIKUTTAIANNANAGAR
+Serial No: 856
+Name: DEVIGA
+House: nan
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: W4JB4803433
+Serial No: 31
+Name: Aditya Ramanand
+House: 5400-40
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0713297
+Serial No: 115
+Name: Shyamala Devi -
+House: 143
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0710954
+Serial No: 127
+Name: Benny Jacob -
+House: 303
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB601066
+Serial No: 128
+Name: A Nasreen Fathima
+House: 11505
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 2U00205781
+Serial No: 130
+Name: Ramachandran MR
+House: nan
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0711416
+Serial No: 142
+Name: Padmanaban -
+House: C2-107
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJB038186
+Serial No: 155
+Name: ThorithafronBanerjee -
+House: D001
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0712174
+Serial No: 167
+Name: Gowtham -
+House: FB-002
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: ZU00205815
+Serial No: 179
+Name: Rajeswari K
+House: No
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0310201
+Serial No: 267
+Name: Pappatthi -
+House: 9-33
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: XKRO0387571
+Serial No: 496
+Name: Vijaya kaveri -
+House: BLOCK
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: MPR95S69914
+Serial No: 692
+Name: Sundaram -
+House: F2
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 1OR1740141
+Serial No: 700
+Name: Kumari
+House: f4
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: WJBO0030304
+Serial No: 801
+Name: nan
+House: 1-1
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: W4JB1253848
+Serial No: 934
+Name: Sasikala -
+House: 11
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 1BU1067321
+Serial No: 1083
+Name: Dhanasekaran eD
+House: nan
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 1BU1067339
+Serial No: 1084
+Name: Priya
+House: 118
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
 ----------------------------------------------------

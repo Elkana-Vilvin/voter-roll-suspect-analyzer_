@@ -1,0 +1,6610 @@
+EVIDENCE-BACKED SUSPECT REPORT
+============================================================
+Total voters: 601
+Total suspects: 421
+
+Reason: ADOPTED_NO_RELATIVE
+Total flagged: 37
+----------------------------------------------------
+EPIC: WDZ0811240
+Serial No: 13
+Name: ஷர்மிளா -
+House: 1
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1531235
+Serial No: 15
+Name: சுந்தரி -
+House: 1
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0896977
+Serial No: 94
+Name: சரண்யா -
+House: 6
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2512705
+Serial No: 101
+Name: சரஸ்வதி
+House: 7
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897660
+Serial No: 103
+Name: சகுந்தலா -
+House: 7
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1634369
+Serial No: 125
+Name: சண்முகப்பிரியா -
+House: 9
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: GDR2643054
+Serial No: 126
+Name: மூர்த்தி -
+House: 10
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015394
+Serial No: 127
+Name: ஆனந்தி -
+House: 10
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897256
+Serial No: 183
+Name: நித்யா -
+House: 22
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015493
+Serial No: 187
+Name: சாந்தாமணி -
+House: 24
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 195
+Name: ரவிபிரபாகரன் -
+House: 26
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 196
+Name: சபாபதி
+House: 26
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1430511
+Serial No: 197
+Name: கனகா -
+House: 27
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1430552
+Serial No: 238
+Name: லட்சுமி -
+House: 35
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1531201
+Serial No: 262
+Name: கார்த்திகேயன் -
+House: 39
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0000760
+Serial No: 278
+Name: மனோரஞ்சித் -
+House: 43
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015808
+Serial No: 317
+Name: லட்சுமி -
+House: 55
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0765503
+Serial No: 321
+Name: விஜய்பிரபு -
+House: 56
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2524841
+Serial No: 322
+Name: கிருஷ்ணன்
+House: 56
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1882802
+Serial No: 351
+Name: cd
+House: 75
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0333047
+Serial No: 371
+Name: ராமமூர்த்தி -
+House: 102
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2559177
+Serial No: 372
+Name: கவின் ஹிர்திக்
+House: 102
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150341
+Serial No: 399
+Name: மூர்த்தி -
+House: 18
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 427
+Name: சுசீலா -
+House: 9
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0448837
+Serial No: 429
+Name: பிரேம் ஆனந்த் -
+House: 9-18
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1959378
+Serial No: 430
+Name: கேசவன்
+House: 9/18
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0896878
+Serial No: 460
+Name: மீனாட்சி தீப லட்சுமி -
+House: 22
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2317816
+Serial No: 461
+Name: கருணப்பிரியா
+House: 22
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150317
+Serial No: 463
+Name: மீனா -
+House: 23
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1909498
+Serial No: 464
+Name: பாத்திமா ஜோரா
+House: 23
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2727139
+Serial No: 470
+Name: வீரமணி ம
+House: 26
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2727121
+Serial No: 471
+Name: சூர்யா வீ
+House: 27
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0000976
+Serial No: 472
+Name: கவிதா -
+House: 27
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 482
+Name: காந்திமதி -
+House: 31
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1822493
+Serial No: 530
+Name: பா விகாசினி -
+House: 39
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2559094
+Serial No: 559
+Name: ராஜாத்தி
+House: 55/4
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: GDR2036079
+Serial No: 598
+Name: சித்ராதேவி -
+House: 39
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+Reason: AGE_ZERO_OR_INVALID
+Total flagged: 18
+----------------------------------------------------
+EPIC: WDZ2753085
+Serial No: 33
+Name: நந்தினி
+House: 1,ராஜம்மாள் லே அவுட் ,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0897421
+Serial No: 111
+Name: செல்வகணேஸ் -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0811117
+Serial No: 154
+Name: மாதேஸ்வரன் -
+House: 15-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0441857
+Serial No: 157
+Name: முத்துமலைநாடார் -
+House: nan
+Reasons:
+ - AGE_ZERO_OR_INVALID
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2015485
+Serial No: 186
+Name: பதி -
+House: 24
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0456608
+Serial No: 228
+Name: பழனிசாமி -
+House: 33
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ1910249
+Serial No: 233
+Name: பிரவீன்குமார் பிரவீன்குமார்
+House: 34
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 244
+Name: ராமசாமி -
+House: 36
+Reasons:
+ - EPIC_ID_MISSING
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2015766
+Serial No: 282
+Name: சிவசுப்பிரமணியம் -
+House: 45
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2771020
+Serial No: 365
+Name: நிஷாந்த் நிஷாந்த்
+House: 93/136
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2015972
+Serial No: 433
+Name: சுதாகர் -
+House: 11
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0441816
+Serial No: 449
+Name: பால்ஜெயகுமார் -
+House: 19-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0280818
+Serial No: 510
+Name: நடராஜன் -
+House: 34-3
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2461655
+Serial No: 517
+Name: அபீநிவேஷ வெங்கடேஷ்
+House: 36
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ1909514
+Serial No: 525
+Name: விஸ்வநாதன்
+House: 37
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 535
+Name: செளம்யா
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - AGE_ZERO_OR_INVALID
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ0456475
+Serial No: 555
+Name: பெமினாபானு -
+House: 54
+Reasons:
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+EPIC: WDZ2004950
+Serial No: 576
+Name: காமிலா பேகம்
+House: எண்.23
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Age value = 0
+  Rule: age <= 0 is invalid
+  Conclusion: AGE_ZERO_OR_INVALID triggered
+----------------------------------------------------
+Reason: BULK_10_PLUS
+Total flagged: 64
+----------------------------------------------------
+EPIC: NAN
+Serial No: 1
+Name: ஆறுமுகம் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 2
+Name: பழனிவேல் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 3
+Name: லட்சுமி -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0456152
+Serial No: 4
+Name: ரத்தினம் -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1531136
+Serial No: 5
+Name: தங்கராஜ் -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0810556
+Serial No: 6
+Name: சம்பத் -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811257
+Serial No: 7
+Name: லலிதா -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1634336
+Serial No: 8
+Name: முத்துலட்சுமி -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811950
+Serial No: 9
+Name: சிவகாமி -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2015329
+Serial No: 11
+Name: சாந்தி -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811240
+Serial No: 13
+Name: ஷர்மிளா -
+House: 1
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897074
+Serial No: 14
+Name: சுபைதா -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1531235
+Serial No: 15
+Name: சுந்தரி -
+House: 1
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1150333
+Serial No: 16
+Name: விஜயகுமார் -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0448696
+Serial No: 17
+Name: ரவி -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896563
+Serial No: 20
+Name: கமலா -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896001
+Serial No: 23
+Name: சுரேஸ் -
+House: 1
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811158
+Serial No: 84
+Name: ராஜீ -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811562
+Serial No: 85
+Name: ருக்குமணி -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 86
+Name: வாசுகி தேவி -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 87
+Name: ராதாகிருஷ்ணன் -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 88
+Name: பஞ்சலிங்கம் -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1530997
+Serial No: 89
+Name: அம்சவேணி -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0000521
+Serial No: 90
+Name: நடராஜன்
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0000836
+Serial No: 91
+Name: கணேசன் -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811968
+Serial No: 92
+Name: சிவசெல்வி -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1264738
+Serial No: 93
+Name: பிரியா -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896977
+Serial No: 94
+Name: சரண்யா -
+House: 6
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1766344
+Serial No: 99
+Name: கோமதி -
+House: 6
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2512705
+Serial No: 101
+Name: சரஸ்வதி
+House: 7
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897579
+Serial No: 102
+Name: பாலசுப்பிரமணியம் -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897660
+Serial No: 103
+Name: சகுந்தலா -
+House: 7
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2727493
+Serial No: 104
+Name: ஈஸ்வரி
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896654
+Serial No: 106
+Name: நிர்மளா -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0280560
+Serial No: 107
+Name: கிரிஸ்ட்டா -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1531250
+Serial No: 108
+Name: apn -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897769
+Serial No: 109
+Name: அமுதா -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1264662
+Serial No: 110
+Name: ஆனந்தகிருஷ்ணன் -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897421
+Serial No: 111
+Name: செல்வகணேஸ் -
+House: 7
+Reasons:
+ - BULK_10_PLUS
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 112
+Name: சக்திவேல் -
+House: 7
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 113
+Name: சசிகலா
+House: 7
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0357137
+Serial No: 202
+Name: கனகமனி -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1700327
+Serial No: 205
+Name: ஸ்ரீஜா -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0000562
+Serial No: 206
+Name: லட்சுமி -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811802
+Serial No: 208
+Name: உதய குமார் -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0897314
+Serial No: 209
+Name: லட்சுமி பிரபா -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2524874
+Serial No: 210
+Name: ஷாலினி தங்கசாமி
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896696
+Serial No: 211
+Name: ஜெயந்தி -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0811398
+Serial No: 212
+Name: மாரியம்மாள் -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0896068
+Serial No: 213
+Name: பவித்ராகுமார் -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1700509
+Serial No: 214
+Name: சுருதி -
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2727600
+Serial No: 215
+Name: தர்ஷினி
+House: 29
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2016087
+Serial No: 486
+Name: முத்தம்மாள் -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2016095
+Serial No: 487
+Name: வின்சென்ட் -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2016103
+Serial No: 488
+Name: அன்னம்மாள் -
+House: 32
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: GDR5907332
+Serial No: 490
+Name: ரோஸி -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2016129
+Serial No: 491
+Name: ஸ்டேல்லா -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 492
+Name: வசந்தாமணி -
+House: 32
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ1430859
+Serial No: 494
+Name: தங்கம் -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0455816
+Serial No: 497
+Name: ராஜேஸ்வரி -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: GDR3143856
+Serial No: 498
+Name: ரோஸ்லின்டெய்தி -
+House: 32
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: GDR8778748
+Serial No: 499
+Name: லட்சுமி -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ0441519
+Serial No: 500
+Name: மகேஸ்வரி -
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+EPIC: WDZ2317857
+Serial No: 501
+Name: சஞ்சய்
+House: 32
+Reasons:
+ - BULK_10_PLUS
+
+Explanation:
+  House contains more than 10 registered voters
+  Conclusion: BULK_10_PLUS triggered
+----------------------------------------------------
+Reason: EPIC_ID_MISSING
+Total flagged: 87
+----------------------------------------------------
+EPIC: NAN
+Serial No: 1
+Name: ஆறுமுகம் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 2
+Name: பழனிவேல் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 3
+Name: லட்சுமி -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 26
+Name: ஆர் கண்ணம்மாள் -
+House: 1-546-1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 27
+Name: எம் ஆர் மோகன்ராஜ் -
+House: 1-546-1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 28
+Name: எம் சரண்யா -
+House: 1-546-1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 56
+Name: கார்த்திகேயன் -
+House: 4
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 57
+Name: செல்வராஜன் -
+House: 4
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 58
+Name: ரமனி -
+House: 4
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 86
+Name: வாசுகி தேவி -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 87
+Name: ராதாகிருஷ்ணன் -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 88
+Name: பஞ்சலிங்கம் -
+House: 6
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 112
+Name: சக்திவேல் -
+House: 7
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 113
+Name: சசிகலா
+House: 7
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 114
+Name: பாரதி -
+House: 7-2
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 130
+Name: காசிவிஸ்வநாதன் -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 132
+Name: தமிழ்செல்வி -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 138
+Name: கார்த்திகா -
+House: 11
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 139
+Name: துர்காதேவி
+House: 11
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 140
+Name: சம்பத்
+House: 12
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 164
+Name: யசோதா -
+House: 18
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 165
+Name: ரீனாகுமாரி -
+House: 18
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 166
+Name: சந்தோஷ்குமார் -
+House: 18
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 194
+Name: மோகன் -
+House: 25
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 195
+Name: ரவிபிரபாகரன் -
+House: 26
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 196
+Name: சபாபதி
+House: 26
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 221
+Name: புவனேஸ்வரி -
+House: 32
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 224
+Name: பர்வதா -
+House: 32-1
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 225
+Name: பாண்டியம்மாள் -
+House: 32-30
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 226
+Name: தங்கம் -
+House: 32-30
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 231
+Name: ரம்யா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 244
+Name: ராமசாமி -
+House: 36
+Reasons:
+ - EPIC_ID_MISSING
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 250
+Name: ஆண்ட்ரியா
+House: 36
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 251
+Name: மஞ்சுரேகா
+House: 36/41
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 252
+Name: கோபாலசாமி -
+House: 37
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 272
+Name: ரவிசங்கர் -
+House: 41
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 275
+Name: அக் ஷா
+House: 41
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 276
+Name: சந்திரசேகர் -
+House: 43
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 277
+Name: சுரேஷ் -
+House: 43
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 285
+Name: யசோதா -
+House: 45
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 290
+Name: அஞ்சு அலெக்ஸ்
+House: 46/2
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 305
+Name: மும்தாஜ் -
+House: 54
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 306
+Name: சரஸ்வதி
+House: 54,
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 307
+Name: முருகேசன் -
+House: 54
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 331
+Name: வைஜெயந்திமாலா
+House: 60
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 332
+Name: பிரீட்தி ஏ ஆர்
+House: 60
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 333
+Name: கோவிந்தம்மாள் -
+House: 60,
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 358
+Name: சரண்யாதேவி -
+House: 84
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 359
+Name: சன்மிதா
+House: 84/51
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 360
+Name: அருளாம்பிகை
+House: 88/130
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 384
+Name: மஞ்சுளா தேவி -
+House: 145
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 385
+Name: சுபாஷ்
+House: 145/96
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 386
+Name: சிவசங்கர் -
+House: 151
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 396
+Name: பரிமளா -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 397
+Name: பிரதீபா -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 398
+Name: சரவண மனோஜ் -
+House: 1-8
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 411
+Name: சிவகாமி -
+House: 5-1
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 422
+Name: மோகன் -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 423
+Name: சங்கீதா -
+House: 7
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 426
+Name: சுப்ரமணியன் எஸ் என் -
+House: 9
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 427
+Name: சுசீலா -
+House: 9
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 428
+Name: ராஜேந்திரன்
+House: 9
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 446
+Name: திலக்கெளரி -
+House: 18-19
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 447
+Name: லதா
+House: 18/31
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 457
+Name: அழகர்சாமி -
+House: 21
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 458
+Name: சுதா -
+House: 21
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 481
+Name: விஜயானந்தன் -
+House: 31
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 482
+Name: காந்திமதி -
+House: 31
+Reasons:
+ - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 483
+Name: ௬பா -
+House: 31
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 484
+Name: பிரபுராஜ் -
+House: 31
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 492
+Name: வசந்தாமணி -
+House: 32
+Reasons:
+ - EPIC_ID_MISSING
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 502
+Name: அசோக் -
+House: 33
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 512
+Name: சண்முகசுந்தரம் -
+House: 35
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 513
+Name: மரகதம் -
+House: 35
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 514
+Name: சந்திரகுமார் -
+House: 35
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 524
+Name: புஷ்பலதா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 535
+Name: செளம்யா
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - AGE_ZERO_OR_INVALID
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 542
+Name: பரமேஸ்வரி -
+House: 45
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 543
+Name: காயத்ரி தேவி -
+House: 45
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 544
+Name: ராதா -
+House: 45-76
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 552
+Name: சசிகலா -
+House: 54
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 572
+Name: தேன்மொழி -
+House: 433
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 573
+Name: சாந்தநாதன் -
+House: 81
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 577
+Name: ராஜம்மாள் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 578
+Name: அனுபமா குமார் -
+House: 1
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 579
+Name: செல்வம் -
+House: 10
+Reasons:
+ - EPIC_ID_MISSING
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 586
+Name: பிருந்தா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+Reason: HOUSE_NO_UNAVAILABLE
+Total flagged: 157
+----------------------------------------------------
+EPIC: WDZ0331447
+Serial No: 10
+Name: நாச்சிமுத்து -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897082
+Serial No: 12
+Name: அனிபா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0811943
+Serial No: 18
+Name: தீபா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531128
+Serial No: 19
+Name: சேகர் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0456418
+Serial No: 21
+Name: கார்த்திகேயன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150424
+Serial No: 22
+Name: செல்வி லட்சுமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2420859
+Serial No: 32
+Name: சசிதரன்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0810564
+Serial No: 34
+Name: ea -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015337
+Serial No: 36
+Name: மோகன்ராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896035
+Serial No: 38
+Name: காளியம்மா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2512721
+Serial No: 39
+Name: கெளிக் ராஜா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2317873
+Serial No: 40
+Name: சாமிநாதன்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1822535
+Serial No: 51
+Name: a ab -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430735
+Serial No: 52
+Name: பாலசுப்பிரமணி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897017
+Serial No: 63
+Name: கோவிந்தராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0000794
+Serial No: 64
+Name: Hangers pe .
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150630
+Serial No: 67
+Name: சஜிலாசாயி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897264
+Serial No: 68
+Name: விஜயகுமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2678225
+Serial No: 69
+Name: நந்தினி மு
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430354
+Serial No: 77
+Name: சிவரஞ்சனி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430362
+Serial No: 78
+Name: சேஷ ஹிதேஷ் பசுமரத்தி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1766492
+Serial No: 81
+Name: நித்யா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897843
+Serial No: 95
+Name: கார்த்தி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897223
+Serial No: 96
+Name: ராஜபிரியன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897538
+Serial No: 97
+Name: சக்தி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531078
+Serial No: 98
+Name: ஜெகதிஸ்வரன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531110
+Serial No: 105
+Name: ஜோஸ்வாராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2747319
+Serial No: 119
+Name: வினோதா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 130
+Name: காசிவிஸ்வநாதன் -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 132
+Name: தமிழ்செல்வி -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2488344
+Serial No: 134
+Name: தேவராஜ்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150457
+Serial No: 144
+Name: cteargstb -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897207
+Serial No: 145
+Name: சோனமுத்து -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0811224
+Serial No: 149
+Name: செந்தில்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896944
+Serial No: 150
+Name: முருகேஸ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0441857
+Serial No: 157
+Name: முத்துமலைநாடார் -
+House: nan
+Reasons:
+ - AGE_ZERO_OR_INVALID
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1766336
+Serial No: 159
+Name: சுரேஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897355
+Serial No: 170
+Name: தீபிகா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1530948
+Serial No: 172
+Name: கார்த்திக் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0449173
+Serial No: 173
+Name: பாபு -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430420
+Serial No: 174
+Name: pak ga -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150598
+Serial No: 175
+Name: லாலி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0277996
+Serial No: 177
+Name: yey apl அகவ -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897025
+Serial No: 178
+Name: சச்சின் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0000844
+Serial No: 188
+Name: சுரேஸ்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0457119
+Serial No: 189
+Name: விஜய்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896274
+Serial No: 190
+Name: சரண்யா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0000596
+Serial No: 201
+Name: தங்கமணி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897306
+Serial No: 203
+Name: சந்திரசேகர் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1700392
+Serial No: 204
+Name: மோகனன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896167
+Serial No: 207
+Name: சண்முகசுந்தரம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1265180
+Serial No: 217
+Name: தீபா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897983
+Serial No: 220
+Name: ரவி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897603
+Serial No: 230
+Name: மாரியப்பன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 231
+Name: ரம்யா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0441998
+Serial No: 232
+Name: ஜாபர் அலி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2461663
+Serial No: 234
+Name: லேகா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2317899
+Serial No: 235
+Name: ராமசாமி
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015626
+Serial No: 236
+Name: ரவி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2602787
+Serial No: 242
+Name: சங்கீதா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2691327
+Serial No: 243
+Name: அ பொ சாத்விகா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897512
+Serial No: 245
+Name: அருணாச்சலம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896761
+Serial No: 256
+Name: மணிவண்ணன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896811
+Serial No: 257
+Name: புவனேஸ்வரி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1766328
+Serial No: 258
+Name: தினேஷ் குமார்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0765321
+Serial No: 261
+Name: ஆர்த்தி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1766435
+Serial No: 267
+Name: அப்துல்கலாம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1901735
+Serial No: 268
+Name: ஜோதி அருண் செ
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897447
+Serial No: 281
+Name: சிவக்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015774
+Serial No: 283
+Name: பழனிச்சாமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015790
+Serial No: 286
+Name: ரகா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0441774
+Serial No: 288
+Name: பாலசுப்பிரமணியம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1959428
+Serial No: 289
+Name: மருதத்துரை
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0000430
+Serial No: 297
+Name: அருண்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0521740
+Serial No: 298
+Name: சரண்ராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896084
+Serial No: 300
+Name: பாலகிருஸ்ணன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1882844
+Serial No: 301
+Name: seemed
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531193
+Serial No: 311
+Name: ஜெயஸ்ரீ -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1959386
+Serial No: 312
+Name: கைலாஷ்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2420917
+Serial No: 313
+Name: அஜிமீர் கான்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897926
+Serial No: 324
+Name: மகேஸ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897892
+Serial No: 326
+Name: ராதிகா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2420883
+Serial No: 327
+Name: கெளசிகா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0811455
+Serial No: 338
+Name: பிரபு -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897405
+Serial No: 339
+Name: கண்ணன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0456079
+Serial No: 341
+Name: விக்னேஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430727
+Serial No: 350
+Name: பாலாஜி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2780260
+Serial No: 352
+Name: ந பவித்ரா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0897371
+Serial No: 367
+Name: செல்வராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1265081
+Serial No: 369
+Name: திவ்யா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1264886
+Serial No: 370
+Name: மேகலா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150267
+Serial No: 376
+Name: நிவேதாஸ்ரீ -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333088
+Serial No: 377
+Name: கவிதாமணி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333070
+Serial No: 378
+Name: மனோஜ்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896613
+Serial No: 379
+Name: ராஜேஷ் குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531185
+Serial No: 380
+Name: தினேஷ்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1264647
+Serial No: 390
+Name: பிரியங்கா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2453967
+Serial No: 391
+Name: நிவேதா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0001016
+Serial No: 403
+Name: சரவணன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0280685
+Serial No: 404
+Name: முருகேசன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0455394
+Serial No: 406
+Name: மணிகண்டன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333138
+Serial No: 407
+Name: மணிகண்டன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015857
+Serial No: 408
+Name: மனோகரன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1264720
+Serial No: 410
+Name: எம் ௭ ஆனந்த் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015923
+Serial No: 417
+Name: மகேந்திரன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015931
+Serial No: 419
+Name: சரவணன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2015949
+Serial No: 420
+Name: துரைசாமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 422
+Name: மோகன் -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2546620
+Serial No: 432
+Name: பிரதிக்“ஷா ஜே
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0442087
+Serial No: 434
+Name: பொன்னுசாமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0001123
+Serial No: 436
+Name: கணேசன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150325
+Serial No: 438
+Name: தீபீகா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1822501
+Serial No: 439
+Name: வரத்தினம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1959360
+Serial No: 440
+Name: விபின்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2510774
+Serial No: 448
+Name: பாலாஜி
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333203
+Serial No: 450
+Name: ரா சென்னியப்பன்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333211
+Serial No: 451
+Name: “எம் apg spare -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0456624
+Serial No: 452
+Name: ரவிசந்திரன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2674224
+Serial No: 462
+Name: தரணீஷ் த
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150309
+Serial No: 465
+Name: பிரபாகரன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0455519
+Serial No: 466
+Name: ராஜேஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0765586
+Serial No: 467
+Name: விஜயகுமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2016020
+Serial No: 468
+Name: அந்தோணிசாமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531276
+Serial No: 475
+Name: தமிழரசன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0896183
+Serial No: 477
+Name: சரத்குமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0456871
+Serial No: 478
+Name: பன்னீர் செல்வம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: GDR5906417
+Serial No: 489
+Name: செல்வமுத்து -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1430842
+Serial No: 493
+Name: சொக்கலிங்கம் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2016137
+Serial No: 495
+Name: ஸ்டெல்லாஆரோக்கியமேரி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0441568
+Serial No: 496
+Name: Perla -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2659985
+Serial No: 505
+Name: அர்ஷாந்த் மோ
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2542330
+Serial No: 506
+Name: ஆப்ரின் பானு gr
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2655686
+Serial No: 507
+Name: முகமது அர்சத் ஜா
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0455808
+Serial No: 508
+Name: காஜா ஷெரிப்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333161
+Serial No: 518
+Name: வெங்கடேஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333179
+Serial No: 519
+Name: சுபாஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1531169
+Serial No: 522
+Name: சங்கர் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 524
+Name: புஷ்பலதா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2641181
+Serial No: 526
+Name: ராகுல்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0280917
+Serial No: 533
+Name: நந்தகுமார் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 535
+Name: செளம்யா
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - AGE_ZERO_OR_INVALID
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1766500
+Serial No: 536
+Name: வான்மதி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2557544
+Serial No: 537
+Name: para al ச
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0333112
+Serial No: 549
+Name: பிருந்தா -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: GDR3630233
+Serial No: 550
+Name: அப்பு -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0442319
+Serial No: 551
+Name: அப்பு -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0455881
+Serial No: 553
+Name: மணிகண்டன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2420842
+Serial No: 556
+Name: அனிஷ்
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0280990
+Serial No: 565
+Name: சென்னியப்பன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2753044
+Serial No: 567
+Name: கவின் கிருத்திக் ம
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0455444
+Serial No: 568
+Name: சந்திரசேகர் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ1150275
+Serial No: 583
+Name: நவீன் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: NAN
+Serial No: 586
+Name: பிருந்தா -
+House: nan
+Reasons:
+ - EPIC_ID_MISSING
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ2016780
+Serial No: 587
+Name: பழனிசாமி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: WDZ0765438
+Serial No: 591
+Name: துரைராஜ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: GDR5904289
+Serial No: 599
+Name: சிவப்பிரகாஷ் -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+EPIC: GDR2650273
+Serial No: 600
+Name: நித்யானந்தி -
+House: nan
+Reasons:
+ - HOUSE_NO_UNAVAILABLE
+
+Explanation:
+  House number value = 'nan'
+  Rule: house number is missing or unavailable
+  Interpretation: data not provided or unreadable
+  Conclusion: HOUSE_NO_UNAVAILABLE triggered
+----------------------------------------------------
+Reason: INVALID_HOUSE_NO
+Total flagged: 5
+----------------------------------------------------
+EPIC: WDZ2371755
+Serial No: 82
+Name: இந்து ச
+House: Sey
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  House number value = 'Sey'
+  Rule: house number must contain at least one digit (0–9)
+  Observation: value contains only alphabetic characters
+  Conclusion: INVALID_HOUSE_NO triggered
+----------------------------------------------------
+EPIC: WDZ1700525
+Serial No: 83
+Name: ரோகிட் ஷைனி -
+House: SC
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  House number value = 'SC'
+  Rule: house number must contain at least one digit (0–9)
+  Observation: value contains only alphabetic characters
+  Conclusion: INVALID_HOUSE_NO triggered
+----------------------------------------------------
+EPIC: WDZ2488393
+Serial No: 394
+Name: நித்யா
+House: நீல்
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  House number value = 'நீல்'
+  Rule: house number must contain at least one digit (0–9)
+  Observation: value contains only alphabetic characters
+  Conclusion: INVALID_HOUSE_NO triggered
+----------------------------------------------------
+EPIC: WDZ0455916
+Serial No: 574
+Name: லெட்சுமணன் -
+House: na
+Reasons:
+ - INVALID_HOUSE_NO
+
+Explanation:
+  House number value = 'na'
+  Rule: house number must contain at least one digit (0–9)
+  Observation: value contains only alphabetic characters
+  Conclusion: INVALID_HOUSE_NO triggered
+----------------------------------------------------
+EPIC: WDZ0448829
+Serial No: 575
+Name: லதா -
+House: na
+Reasons:
+ - INVALID_HOUSE_NO
+
+Explanation:
+  House number value = 'na'
+  Rule: house number must contain at least one digit (0–9)
+  Observation: value contains only alphabetic characters
+  Conclusion: INVALID_HOUSE_NO triggered
+----------------------------------------------------
+Reason: ORPHAN_ONLY_PERSON_IN_HOME
+Total flagged: 108
+----------------------------------------------------
+EPIC: WDZ0457036
+Serial No: 24
+Name: நீலகண்டன் -
+House: 1-
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1264746
+Serial No: 25
+Name: ஸ்ரீ தர் -
+House: 1-6
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2753085
+Serial No: 33
+Name: நந்தினி
+House: 1,ராஜம்மாள் லே அவுட் ,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150754
+Serial No: 44
+Name: அம்பிகா -
+House: 2-14
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456350
+Serial No: 45
+Name: கணேசன் -
+House: 2-15b
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1910298
+Serial No: 55
+Name: யோகாநாத்
+House: 3/77 இ தெற்கு தோட்டம்
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0332973
+Serial No: 70
+Name: கலையரசி -
+House: 4-10
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2790699
+Serial No: 79
+Name: சுஜுத்ரா
+House: 5/2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2520211
+Serial No: 80
+Name: அபிராமி
+House: 5/18
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2371755
+Serial No: 82
+Name: இந்து ச
+House: Sey
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1700525
+Serial No: 83
+Name: ரோகிட் ஷைனி -
+House: SC
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2371763
+Serial No: 100
+Name: செந்தில் முருகன்
+House: 6/18
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0442038
+Serial No: 118
+Name: இசக்கி -
+House: 7-8
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897413
+Serial No: 120
+Name: ராணி -
+House: 8
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: GDR2357937
+Serial No: 128
+Name: மகேஸ்வரி
+House: 10/12
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2524817
+Serial No: 129
+Name: ஆகாஷ் கிருஷ்ணா பா &
+House: 10/24
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897215
+Serial No: 146
+Name: விஜயா -
+House: 13
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456897
+Serial No: 147
+Name: ரேஞ்சல் -
+House: 13-27
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0811117
+Serial No: 154
+Name: மாதேஸ்வரன் -
+House: 15-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456111
+Serial No: 155
+Name: மேரி ஸ்டெல்லா -
+House: 15/23
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1430404
+Serial No: 156
+Name: கிருஷ்ணகுமாரி -
+House: 168
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0442343
+Serial No: 176
+Name: உமாவெங்கடேஸ்வரி -
+House: 20
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897470
+Serial No: 185
+Name: காவேரி -
+House: 23
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 194
+Name: மோகன் -
+House: 25
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0357095
+Serial No: 200
+Name: கீதா -
+House: 28
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2510808
+Serial No: 216
+Name: ராணி நெல்சன்
+House: 30
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150432
+Serial No: 218
+Name: மல்லிகா -
+House: 31
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 224
+Name: பர்வதா -
+House: 32-1
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1910249
+Serial No: 233
+Name: பிரவீன்குமார் பிரவீன்குமார்
+House: 34
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1430578
+Serial No: 241
+Name: ரேவதி -
+House: 35-45
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 251
+Name: மஞ்சுரேகா
+House: 36/41
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2366805
+Serial No: 265
+Name: சுபாஷ்
+House: 39/67
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1766484
+Serial No: 266
+Name: முகைதீன் -
+House: 40
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0333039
+Serial No: 279
+Name: சிவக்குமார் -
+House: 43-32
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1634385
+Serial No: 280
+Name: தனலட்சுமி -
+House: 44
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 290
+Name: அஞ்சு அலெக்ஸ்
+House: 46/2
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1634450
+Serial No: 291
+Name: கிருத்திகா -
+House: 46-51
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150713
+Serial No: 295
+Name: சுசிலா -
+House: 47-77
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0441618
+Serial No: 296
+Name: சரோஜினி -
+House: 50
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897330
+Serial No: 299
+Name: ருக்குமணி -
+House: 52
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2559011
+Serial No: 302
+Name: தீபா
+House: 53/1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 306
+Name: சரஸ்வதி
+House: 54,
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0000612
+Serial No: 320
+Name: ஷேக்ஒலிபரித்கான் -
+House: 55/4
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1265198
+Serial No: 328
+Name: செளமியா -
+House: 59
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0333054
+Serial No: 329
+Name: வசந்தாமணி -
+House: 59-102
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 333
+Name: கோவிந்தம்மாள் -
+House: 60,
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456210
+Serial No: 334
+Name: சரவணன் -
+House: 63
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897793
+Serial No: 340
+Name: சாந்தி -
+House: 66
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897041
+Serial No: 353
+Name: கண்ணம்மாள் -
+House: 77
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0811653
+Serial No: 354
+Name: பர்கத்நிஷா -
+House: 78
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1996107
+Serial No: 355
+Name: அமீர்தீஏன்
+House: 79/21
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 358
+Name: சரண்யாதேவி -
+House: 84
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 359
+Name: சன்மிதா
+House: 84/51
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 360
+Name: அருளாம்பிகை
+House: 88/130
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2771020
+Serial No: 365
+Name: நிஷாந்த் நிஷாந்த்
+House: 93/136
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2510816
+Serial No: 373
+Name: கெளதம்
+House: 108
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1530989
+Serial No: 374
+Name: சங்கீதா -
+House: 114A
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150465
+Serial No: 375
+Name: குணா
+House: 115
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 385
+Name: சுபாஷ்
+House: 145/96
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 386
+Name: சிவசங்கர் -
+House: 151
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1264878
+Serial No: 387
+Name: வனராஜா -
+House: 152
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897124
+Serial No: 392
+Name: ராஜன் கோமஸ் -
+House: 88
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2749828
+Serial No: 393
+Name: சஞ்சய்
+House: C/o பிரவீண ஸ்,58ஏ
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2488393
+Serial No: 394
+Name: நித்யா
+House: நீல்
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - INVALID_HOUSE_NO
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2749836
+Serial No: 395
+Name: மரகதம்
+House: எண் 41/69
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 398
+Name: சரவண மனோஜ் -
+House: 1-8
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0898007
+Serial No: 400
+Name: இந்திராணி -
+House: 2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0811034
+Serial No: 401
+Name: மணிமேகலை
+House: 3/5 er
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015865
+Serial No: 409
+Name: இந்திரா -
+House: 5
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 411
+Name: சிவகாமி -
+House: 5-1
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0521716
+Serial No: 414
+Name: சந்திரசேகரன் -
+House: 6b
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0442301
+Serial No: 425
+Name: மகேஷ்வரன் -
+House: 7-8
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0448969
+Serial No: 431
+Name: சந்திரசேகர் -
+House: 10
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015972
+Serial No: 433
+Name: சுதாகர் -
+House: 11
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456483
+Serial No: 435
+Name: அங்கத்தாள் பொன்னாசாமி
+House: 12-34
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0456970
+Serial No: 437
+Name: புவனா -
+House: 13
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2015980
+Serial No: 441
+Name: சுதா -
+House: 17
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 447
+Name: லதா
+House: 18/31
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0441816
+Serial No: 449
+Name: பால்ஜெயகுமார் -
+House: 19-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1531268
+Serial No: 473
+Name: சுரேஷ்குமார் -
+House: 28
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2016053
+Serial No: 474
+Name: பூங்கோதை -
+House: 29
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0280750
+Serial No: 476
+Name: விஜயலட்சுமி -
+House: 30
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2714145
+Serial No: 485
+Name: சுபிக்ஷா விகா
+House: 31 முருங்கபாளையம்
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 502
+Name: அசோக் -
+House: 33
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1700475
+Serial No: 509
+Name: பத்மஸ்ரீ -
+House: 34
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0280818
+Serial No: 510
+Name: நடராஜன் -
+House: 34-3
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1264985
+Serial No: 511
+Name: சாந்தி -
+House: 34-A
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1993245
+Serial No: 515
+Name: ஜமில் பீவிம்
+House: 35/16
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0333187
+Serial No: 520
+Name: நித்யகல்யாணி -
+House: 36-21
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1530963
+Serial No: 527
+Name: சமினா -
+House: 374
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WRK0907048
+Serial No: 534
+Name: ராதா -
+House: 40/36/ஏ
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0280768
+Serial No: 538
+Name: சங்கீதா -
+House: 41-1
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 544
+Name: ராதா -
+House: 45-76
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0333195
+Serial No: 545
+Name: சி உதயராணி
+House: 49-19-2
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0280875
+Serial No: 548
+Name: சசிகலா -
+House: 51
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0897967
+Serial No: 562
+Name: விஜயகுமாரி -
+House: 57
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ0280958
+Serial No: 566
+Name: சிவகாமி -
+House: 70-112
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: NAN
+Serial No: 573
+Name: சாந்தநாதன் -
+House: 81
+Reasons:
+ - EPIC_ID_MISSING
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2004950
+Serial No: 576
+Name: காமிலா பேகம்
+House: எண்.23
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+ - AGE_ZERO_OR_INVALID
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WRK1164920
+Serial No: 581
+Name: சுமத்ரா அரவிந்த்
+House: 1-0
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2690865
+Serial No: 582
+Name: அரவிந்த் செல்வம்
+House: 1டி மேர்கல தோட்டம்
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2016764
+Serial No: 584
+Name: நிர்மலா -
+House: 16
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2016772
+Serial No: 585
+Name: லட்சுமி -
+House: 17
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2016798
+Serial No: 588
+Name: புஷ்பா -
+House: 19
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150531
+Serial No: 589
+Name: ஜானகி -
+House: 19,
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1265065
+Serial No: 590
+Name: கல்யாணி -
+House: 21
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ1150283
+Serial No: 594
+Name: ஜோதி கிருஷ்ணன் -
+House: 22-38
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+EPIC: WDZ2016806
+Serial No: 601
+Name: வசந்தாமணி -
+House: 44
+Reasons:
+ - ORPHAN_ONLY_PERSON_IN_HOME
+
+Explanation:
+  Observation:
+   - Only one voter is registered under this house number
+  Interpretation:
+   - This may represent a single-person household or incomplete data
+  Conclusion:
+   - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
+----------------------------------------------------
+Reason: TWO_WIVES_SAME_HUSBAND
+Total flagged: 4
+----------------------------------------------------
+EPIC: WDZ0896571
+Serial No: 47
+Name: முத்துலட்சுமி -
+House: 3
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WDZ0896555
+Serial No: 48
+Name: முத்து காமாட்சி -
+House: 3
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WDZ2016103
+Serial No: 488
+Name: அன்னம்மாள் -
+House: 32
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: GDR3143856
+Serial No: 498
+Name: ரோஸ்லின்டெய்தி -
+House: 32
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - BULK_10_PLUS
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------

@@ -119,3 +119,48 @@ Ser No: 12410
 Ser No: 12411
 Ser No: 12412
 
+INVALID_EPIC_ID - total suspects ---- 42
+--------------------------------------------------
+Ser No: 8921
+Ser No: 9076
+Ser No: 9405
+Ser No: 9412
+Ser No: 9418
+Ser No: 9475
+Ser No: 9848
+Ser No: 9938
+Ser No: 9990
+Ser No: 10018
+Ser No: 10082
+Ser No: 10115
+Ser No: 10153
+Ser No: 10186
+Ser No: 10202
+Ser No: 10273
+Ser No: 10362
+Ser No: 10621
+Ser No: 10639
+Ser No: 10775
+Ser No: 10829
+Ser No: 10935
+Ser No: 11009
+Ser No: 11042
+Ser No: 11063
+Ser No: 11108
+Ser No: 11192
+Ser No: 11204
+Ser No: 11205
+Ser No: 11207
+Ser No: 11219
+Ser No: 11232
+Ser No: 11244
+Ser No: 11256
+Ser No: 11344
+Ser No: 11573
+Ser No: 11769
+Ser No: 11777
+Ser No: 11878
+Ser No: 12011
+Ser No: 12160
+Ser No: 12161
+

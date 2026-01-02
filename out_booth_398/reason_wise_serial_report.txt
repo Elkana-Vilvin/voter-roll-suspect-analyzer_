@@ -1,177 +1,68 @@
-ADOPTED_NO_RELATIVE - total suspects ---- 172
+ADOPTED_NO_RELATIVE - total suspects ---- 63
 --------------------------------------------------
 Ser No: 16
 Ser No: 17
-Ser No: 22
-Ser No: 23
 Ser No: 53
 Ser No: 59
 Ser No: 66
 Ser No: 67
-Ser No: 90
-Ser No: 92
-Ser No: 95
-Ser No: 105
-Ser No: 121
 Ser No: 123
 Ser No: 137
 Ser No: 139
 Ser No: 144
-Ser No: 147
-Ser No: 149
-Ser No: 153
-Ser No: 154
-Ser No: 156
-Ser No: 157
 Ser No: 159
-Ser No: 180
 Ser No: 187
 Ser No: 191
-Ser No: 201
 Ser No: 210
-Ser No: 211
-Ser No: 212
-Ser No: 215
-Ser No: 221
 Ser No: 248
-Ser No: 261
-Ser No: 262
-Ser No: 270
 Ser No: 285
-Ser No: 288
-Ser No: 291
-Ser No: 304
-Ser No: 309
 Ser No: 323
-Ser No: 327
-Ser No: 332
-Ser No: 335
 Ser No: 345
 Ser No: 347
-Ser No: 350
-Ser No: 351
-Ser No: 352
 Ser No: 357
-Ser No: 363
-Ser No: 364
 Ser No: 374
 Ser No: 375
-Ser No: 401
-Ser No: 403
 Ser No: 404
 Ser No: 405
 Ser No: 406
 Ser No: 407
-Ser No: 410
-Ser No: 413
 Ser No: 416
-Ser No: 419
-Ser No: 421
 Ser No: 426
 Ser No: 428
-Ser No: 430
-Ser No: 434
-Ser No: 435
 Ser No: 439
-Ser No: 452
-Ser No: 454
-Ser No: 465
-Ser No: 466
 Ser No: 469
-Ser No: 473
-Ser No: 478
-Ser No: 485
 Ser No: 493
 Ser No: 495
-Ser No: 502
-Ser No: 503
-Ser No: 504
-Ser No: 527
-Ser No: 528
-Ser No: 545
-Ser No: 546
-Ser No: 548
 Ser No: 553
 Ser No: 554
 Ser No: 555
-Ser No: 559
 Ser No: 561
 Ser No: 562
-Ser No: 563
-Ser No: 564
-Ser No: 571
-Ser No: 574
 Ser No: 604
 Ser No: 607
-Ser No: 609
-Ser No: 616
 Ser No: 619
 Ser No: 620
-Ser No: 624
-Ser No: 626
-Ser No: 630
-Ser No: 631
-Ser No: 640
 Ser No: 658
 Ser No: 661
 Ser No: 662
 Ser No: 663
 Ser No: 674
-Ser No: 679
-Ser No: 680
 Ser No: 688
-Ser No: 695
-Ser No: 699
 Ser No: 718
 Ser No: 721
 Ser No: 723
 Ser No: 734
-Ser No: 742
-Ser No: 746
-Ser No: 756
 Ser No: 760
 Ser No: 761
-Ser No: 769
-Ser No: 772
-Ser No: 783
 Ser No: 791
-Ser No: 811
-Ser No: 813
-Ser No: 814
 Ser No: 815
 Ser No: 816
-Ser No: 817
-Ser No: 819
-Ser No: 820
-Ser No: 821
 Ser No: 823
-Ser No: 826
-Ser No: 832
-Ser No: 833
-Ser No: 839
 Ser No: 841
-Ser No: 869
-Ser No: 870
-Ser No: 885
-Ser No: 887
-Ser No: 894
-Ser No: 898
-Ser No: 903
 Ser No: 910
-Ser No: 912
-Ser No: 926
-Ser No: 933
 Ser No: 938
-Ser No: 955
-Ser No: 956
-Ser No: 957
 Ser No: 962
-Ser No: 967
-Ser No: 972
-Ser No: 979
-Ser No: 980
 Ser No: 1007
-Ser No: 1015
 
 AGE_ZERO_OR_INVALID - total suspects ---- 27
 --------------------------------------------------
@@ -278,20 +169,11 @@ Ser No: 766
 Ser No: 796
 Ser No: 1042
 
-INVALID_EPIC_ID - total suspects ---- 12
+INVALID_EPIC_ID - total suspects ---- 03
 --------------------------------------------------
-Ser No: 97
-Ser No: 98
-Ser No: 308
-Ser No: 441
-Ser No: 446
 Ser No: 523
-Ser No: 552
-Ser No: 585
-Ser No: 653
 Ser No: 777
 Ser No: 1040
-Ser No: 1045
 
 INVALID_HOUSE_NO - total suspects ---- 01
 --------------------------------------------------
@@ -547,6 +429,19 @@ Ser No: 1064
 Ser No: 1065
 Ser No: 1066
 Ser No: 1067
+
+TWO_WIVES_SAME_HUSBAND - total suspects ---- 10
+--------------------------------------------------
+Ser No: 251
+Ser No: 253
+Ser No: 288
+Ser No: 291
+Ser No: 568
+Ser No: 570
+Ser No: 596
+Ser No: 597
+Ser No: 748
+Ser No: 749
 
 UNDER_18 - total suspects ---- 07
 --------------------------------------------------

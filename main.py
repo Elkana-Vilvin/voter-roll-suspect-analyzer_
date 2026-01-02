@@ -22,25 +22,16 @@ from logic.door_rules import apply_door_rules
 def normalize_house_no(x):
     """
     Normalize house numbers so that:
-    3/53 == 3 - 53 == 3–53 == 3-53
+    3/53 == 3-53 == 3 – 53
     """
     if pd.isna(x):
         return ""
 
     x = str(x).upper().strip()
-
-    # Normalize all separators to "-"
     x = re.sub(r"[\/–—]", "-", x)
-
-    # Remove spaces around dash
     x = re.sub(r"\s*-\s*", "-", x)
-
-    # Remove all remaining spaces
     x = re.sub(r"\s+", "", x)
-
-    # Collapse multiple dashes
     x = re.sub(r"-{2,}", "-", x)
-
     return x
 
 
@@ -52,7 +43,7 @@ def main():
     parser.add_argument("--input", required=True, help="Input CSV file")
     parser.add_argument("--output", required=True, help="Output directory")
 
-    # Scope control
+    # Scope control (RESTORED)
     parser.add_argument(
         "--scope",
         choices=["assembly", "booth"],
@@ -80,21 +71,16 @@ def main():
     # --------------------------------------------------
     # NORMALIZATION (CRITICAL)
     # --------------------------------------------------
-
-    # Extract numeric assembly number (116 from "116-SULUR")
     df["assembly_no"] = (
         df["assembly"]
         .astype(str)
         .str.extract(r"(\d+)")
     )
 
-    # part_no must be integer
     df["part_no"] = df["part_no"].astype(int)
 
-    # ✅ FIXED house number normalization
     df["house_no_norm"] = df["house_no"].apply(normalize_house_no)
 
-    # Street normalization
     df["street_norm"] = (
         df["street"]
         .astype(str)
@@ -102,7 +88,7 @@ def main():
         .str.upper()
     )
 
-    # Initialize suspect reasons container
+    # Initialize suspect reasons
     df["suspect_reasons"] = [[] for _ in range(len(df))]
 
     # --------------------------------------------------
@@ -114,8 +100,6 @@ def main():
     # --------------------------------------------------
     # PHASE 2 — SCOPE FILTER
     # --------------------------------------------------
-
-    # Normalize CLI assembly value
     assembly_raw = str(args.assembly).strip().upper()
     m = re.search(r"\d+", assembly_raw)
     if not m:
@@ -123,11 +107,12 @@ def main():
     assembly_cli = m.group()
 
     booth_cli = None
-    if args.booth:
+    if args.booth is not None:
         booth_cli = int(args.booth)
 
     if args.scope == "assembly":
-        scoped_df = df[df["assembly_no"] == assembly_cli]
+        scoped_df = df[df["assembly_no"] == assembly_cli].copy()
+        print(f"[INFO] Rows after scope filter (assembly): {len(scoped_df)}")
 
     elif args.scope == "booth":
         if booth_cli is None:
@@ -136,15 +121,15 @@ def main():
         scoped_df = df[
             (df["assembly_no"] == assembly_cli) &
             (df["part_no"] == booth_cli)
-        ]
+        ].copy()
+
+        print(f"[INFO] Rows after scope filter (booth): {len(scoped_df)}")
+
     else:
         raise ValueError("Invalid scope")
 
-    scoped_df = scoped_df.copy()
-    print(f"[INFO] Rows after scope filter ({args.scope}): {len(scoped_df)}")
-
     if scoped_df.empty:
-        print("[WARNING] Scoped dataset is EMPTY — check assembly/booth values")
+        print("[WARNING] Scoped dataset is EMPTY — check inputs")
         return
 
     # --------------------------------------------------
@@ -157,7 +142,7 @@ def main():
         apply_id_age_rules(scoped_df)
         apply_door_rules(scoped_df)
     else:
-        print("[INFO] Assembly-level analysis: skipping local household rules")
+        print("[INFO] Assembly-level analysis: skipping local rules")
 
     # --------------------------------------------------
     # FINAL FLAGS
@@ -166,10 +151,14 @@ def main():
     print(f"[INFO] Total suspects in scope: {scoped_df['is_suspect'].sum()}")
 
     # --------------------------------------------------
-    # OUTPUTS
+    # OUTPUTS (RESTORED)
     # --------------------------------------------------
     write_outputs(scoped_df, args.output)
-    write_excel_summary(scoped_df, args.output)
+
+    # scoped_df → local context
+    # df        → full dataset for GLOBAL explanations
+    write_excel_summary(scoped_df, args.output, df)
+
     generate_evidence_report(scoped_df, args.output)
     generate_reason_wise_serial_report(scoped_df, args.output)
 

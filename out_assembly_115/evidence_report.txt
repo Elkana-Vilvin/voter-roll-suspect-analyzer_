@@ -1,7 +1,7 @@
 EVIDENCE-BACKED SUSPECT REPORT
 ============================================================
 Total voters: 1067
-Total suspects: 18
+Total suspects: 21
 
 Reason: DUPLICATE_DETAILS
 Total flagged: 4
@@ -209,4 +209,40 @@ Reasons:
 Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: EPIC_ID_MISSING triggered
+----------------------------------------------------
+Reason: INVALID_EPIC_ID
+Total flagged: 3
+----------------------------------------------------
+EPIC: WRK29972845
+Serial No: 523
+Name: Kaliathal -
+House: 4-142
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: 41052091
+Serial No: 777
+Name: Pappal -
+House: 4-241
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
+----------------------------------------------------
+EPIC: YI1258508
+Serial No: 1040
+Name: Gomathi -
+House: 4/235-5
+Reasons:
+ - INVALID_EPIC_ID
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: INVALID_EPIC_ID triggered
 ----------------------------------------------------
