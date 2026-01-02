@@ -1,18 +1,26 @@
-
 import re
+import pandas as pd
 
-def normalize(text):
-    if not isinstance(text, str):
+def normalize(name):
+    """
+    Strong, OCR-safe name normalization
+    Used ONLY for family linking (not duplicates)
+    """
+    if pd.isna(name):
         return ""
-    text = text.upper().strip()
-    text = re.sub(r"\s+", " ", text)
-    return text
 
-def split_name(name):
-    name = normalize(name)
-    parts = name.split()
-    if not parts:
-        return "", "", True
-    if len(parts) == 1:
-        return parts[0], parts[0], True
-    return parts[0], parts[-1], False
+    name = str(name).upper().strip()
+
+    if name in {"", "NAN", "NONE"}:
+        return ""
+
+    # Remove OCR junk
+    name = re.sub(r"[~=\-_.]", " ", name)
+
+    # Remove non-letters (keep spaces)
+    name = re.sub(r"[^A-Z\s]", "", name)
+
+    # Collapse multiple spaces
+    name = re.sub(r"\s+", " ", name)
+
+    return name.strip()

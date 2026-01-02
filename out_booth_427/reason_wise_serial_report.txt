@@ -1,22 +1,23 @@
-ADOPTED_NO_RELATIVE - total suspects ---- 155
+ADOPTED_NO_RELATIVE - total suspects ---- 136
 --------------------------------------------------
 Ser No: 10208
+Ser No: 10222
+Ser No: 10227
+Ser No: 10235
 Ser No: 10246
-Ser No: 10249
-Ser No: 10250
-Ser No: 10251
 Ser No: 10253
 Ser No: 10254
+Ser No: 10255
 Ser No: 10260
 Ser No: 10262
-Ser No: 10272
-Ser No: 10273
-Ser No: 10283
-Ser No: 10284
+Ser No: 10263
+Ser No: 10265
+Ser No: 10281
 Ser No: 10296
 Ser No: 10303
-Ser No: 10305
-Ser No: 10306
+Ser No: 10311
+Ser No: 10346
+Ser No: 10347
 Ser No: 10357
 Ser No: 10360
 Ser No: 10361
@@ -25,67 +26,54 @@ Ser No: 10365
 Ser No: 10367
 Ser No: 10391
 Ser No: 10406
-Ser No: 10421
-Ser No: 10422
-Ser No: 10423
+Ser No: 10417
+Ser No: 10426
 Ser No: 10428
 Ser No: 10432
 Ser No: 10438
 Ser No: 10439
 Ser No: 10445
+Ser No: 10450
 Ser No: 10452
 Ser No: 10454
 Ser No: 10458
-Ser No: 10463
-Ser No: 10464
-Ser No: 10465
-Ser No: 10469
-Ser No: 10472
-Ser No: 10487
-Ser No: 10488
+Ser No: 10476
+Ser No: 10489
+Ser No: 10490
+Ser No: 10493
+Ser No: 10505
 Ser No: 10513
 Ser No: 10515
 Ser No: 10518
 Ser No: 10544
-Ser No: 10551
+Ser No: 10548
+Ser No: 10549
 Ser No: 10555
 Ser No: 10557
 Ser No: 10561
 Ser No: 10565
-Ser No: 10567
-Ser No: 10568
-Ser No: 10577
 Ser No: 10584
 Ser No: 10592
 Ser No: 10594
+Ser No: 10595
+Ser No: 10600
 Ser No: 10604
 Ser No: 10605
+Ser No: 10611
 Ser No: 10615
-Ser No: 10617
 Ser No: 10618
+Ser No: 10621
 Ser No: 10622
 Ser No: 10630
 Ser No: 10636
 Ser No: 10639
-Ser No: 10641
-Ser No: 10642
-Ser No: 10645
-Ser No: 10648
-Ser No: 10649
 Ser No: 10652
 Ser No: 10653
 Ser No: 10657
 Ser No: 10665
-Ser No: 10667
 Ser No: 10668
 Ser No: 10669
-Ser No: 10672
-Ser No: 10674
-Ser No: 10680
-Ser No: 10681
 Ser No: 10685
-Ser No: 10688
-Ser No: 10689
 Ser No: 10696
 Ser No: 10702
 Ser No: 10703
@@ -95,56 +83,51 @@ Ser No: 10733
 Ser No: 10736
 Ser No: 10746
 Ser No: 10747
+Ser No: 10748
 Ser No: 10750
 Ser No: 10751
 Ser No: 10755
 Ser No: 10769
+Ser No: 10779
 Ser No: 10780
-Ser No: 10782
+Ser No: 10791
+Ser No: 10793
+Ser No: 10795
 Ser No: 10797
 Ser No: 10799
 Ser No: 10801
+Ser No: 10810
 Ser No: 10812
+Ser No: 10817
 Ser No: 10827
 Ser No: 10832
 Ser No: 10841
 Ser No: 10850
 Ser No: 10855
 Ser No: 10861
-Ser No: 10862
-Ser No: 10863
 Ser No: 10868
 Ser No: 10876
-Ser No: 10877
-Ser No: 10878
 Ser No: 10881
 Ser No: 10883
 Ser No: 10893
-Ser No: 10895
 Ser No: 10898
 Ser No: 10899
 Ser No: 10900
-Ser No: 10903
 Ser No: 10910
 Ser No: 10914
 Ser No: 10916
-Ser No: 10928
-Ser No: 10929
-Ser No: 10930
-Ser No: 10931
 Ser No: 10938
 Ser No: 10939
 Ser No: 10943
-Ser No: 10945
-Ser No: 10946
 Ser No: 10958
 Ser No: 10959
+Ser No: 10960
+Ser No: 10963
 Ser No: 10970
 Ser No: 10975
 Ser No: 10979
 Ser No: 10986
-Ser No: 10991
-Ser No: 10992
+Ser No: 10989
 Ser No: 11008
 Ser No: 11009
 Ser No: 11010
@@ -153,8 +136,6 @@ Ser No: 11029
 Ser No: 11032
 Ser No: 11033
 Ser No: 11037
-Ser No: 11045
-Ser No: 11046
 
 AGE_ZERO_OR_INVALID - total suspects ---- 15
 --------------------------------------------------
@@ -233,7 +214,7 @@ Ser No: 11022
 Ser No: 11052
 Ser No: 11063
 
-INVALID_EPIC_ID - total suspects ---- 10
+INVALID_EPIC_ID - total suspects ---- 08
 --------------------------------------------------
 Ser No: 10273
 Ser No: 10362
@@ -241,8 +222,6 @@ Ser No: 10621
 Ser No: 10639
 Ser No: 10775
 Ser No: 10829
-Ser No: 10935
-Ser No: 11009
 Ser No: 11042
 Ser No: 11063
 
@@ -424,12 +403,10 @@ Ser No: 11055
 Ser No: 11056
 Ser No: 11057
 
-SAME_NAME_IN_SAME_HOUSE - total suspects ---- 04
+SAME_NAME_IN_SAME_HOUSE - total suspects ---- 02
 --------------------------------------------------
-Ser No: 10346
-Ser No: 10347
-Ser No: 10869
-Ser No: 10875
+Ser No: 10361
+Ser No: 10362
 
 STREET_NAME_UNAVAILABLE - total suspects ---- 20
 --------------------------------------------------
@@ -453,6 +430,17 @@ Ser No: 11074
 Ser No: 11075
 Ser No: 11076
 Ser No: 11077
+
+TWO_WIVES_SAME_HUSBAND - total suspects ---- 08
+--------------------------------------------------
+Ser No: 10217
+Ser No: 10218
+Ser No: 10253
+Ser No: 10254
+Ser No: 10361
+Ser No: 10362
+Ser No: 10433
+Ser No: 10435
 
 UNDER_18 - total suspects ---- 05
 --------------------------------------------------

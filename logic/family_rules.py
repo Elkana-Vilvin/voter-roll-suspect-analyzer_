@@ -20,6 +20,15 @@ def _similar(a, b, threshold=0.85):
         return False
     return SequenceMatcher(None, a, b).ratio() >= threshold
 
+def _parent_similar(a, b, threshold=0.88):
+    """
+    Fuzzy match for parent names (OCR-safe)
+    Used ONLY inside same house
+    """
+    if not a or not b:
+        return False
+    return SequenceMatcher(None, a, b).ratio() >= threshold
+
 
 def apply_family_rules(df):
     """
@@ -144,6 +153,25 @@ def apply_family_rules(df):
                     ) > 1
                 ):
                     valid = True
+                # Siblings (same mother)
+                if (
+                  row["_mother_norm"]
+                 and list(house_grp["_mother_norm"]).count(
+                    row["_mother_norm"]
+                    ) > 1
+                ):
+                    valid = True
+                # 🔥 FUZZY SIBLINGS (FATHER - OCR SAFE)
+                if row["_father_norm"]:
+                 for f in house_grp["_father_norm"]:
+                   if _parent_similar(row["_father_norm"], f):
+                      valid = True
+
+                # 🔥 FUZZY SIBLINGS (MOTHER - OCR SAFE)
+                if row["_mother_norm"]:
+                  for m in house_grp["_mother_norm"]:
+                   if _parent_similar(row["_mother_norm"], m):
+                      valid = True
 
                 # Wife → husband matches father
                 if (

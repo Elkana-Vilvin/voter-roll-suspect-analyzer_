@@ -1,15 +1,81 @@
 EVIDENCE-BACKED SUSPECT REPORT
 ============================================================
 Total voters: 870
-Total suspects: 385
+Total suspects: 368
 
 Reason: ADOPTED_NO_RELATIVE
-Total flagged: 155
+Total flagged: 136
 ----------------------------------------------------
 EPIC: JRT4503140
 Serial No: 1
 Name: Gunavanthi -
 House: 1
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB2690253
+Serial No: 15
+Name: Padmavathi -
+House: 4
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB2198117
+Serial No: 20
+Name: Srikala -
+House: 4
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB4132056
+Serial No: 28
+Name: Sowmiya
+House: 6
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -50,77 +116,12 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB0306340
-Serial No: 42
-Name: Priyanga -
-House: 10
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4437091
-Serial No: 43
-Name: AMSAVENI
-House: 10
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4437000
-Serial No: 44
-Name: AJITH KUMAR
-House: 10
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: JRT2762623
 Serial No: 46
 Name: Annapoorani -
 House: 10-1
 Reasons:
+ - TWO_WIVES_SAME_HUSBAND
  - ADOPTED_NO_RELATIVE
 
 Explanation:
@@ -143,8 +144,31 @@ Serial No: 47
 Name: Nivethitha -
 House: 10-1
 Reasons:
+ - TWO_WIVES_SAME_HUSBAND
  - ADOPTED_NO_RELATIVE
  - UNDER_18
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB0492892
+Serial No: 48
+Name: Karnaladevi -
+House: 11
+Reasons:
+ - ADOPTED_NO_RELATIVE
 
 Explanation:
   Observation:
@@ -206,10 +230,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB0151100
-Serial No: 65
-Name: Thangavelu -
-House: 14
+EPIC: WJB1056456
+Serial No: 56
+Name: Vinothini -
+House: 12-33
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -228,33 +252,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB39688165
-Serial No: 66
-Name: Velumani -
-House: 14
-Reasons:
- - ADOPTED_NO_RELATIVE
- - INVALID_EPIC_ID
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB0150573
-Serial No: 76
-Name: Riyaz -
-House: 17-21
+EPIC: WJB4330155
+Serial No: 58
+Name: nan
+House: 12/44
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -273,10 +274,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB3473220
-Serial No: 77
-Name: Rizwana Azeem
-House: 17/21
+EPIC: WJB4890364
+Serial No: 74
+Name: SUDHA
+House: 15
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -339,10 +340,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: JRT1615475
-Serial No: 98
-Name: Manikaarumugam -
-House: 24
+EPIC: WJB2284319
+Serial No: 104
+Name: Kalaiavani -
+House: 25
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -361,12 +362,35 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: JRT1615467
-Serial No: 99
-Name: Karpagam -
-House: 24
+EPIC: WJB4401246
+Serial No: 139
+Name: nan
+House: 255
 Reasons:
  - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB4399382
+Serial No: 140
+Name: nan
+House: 255
+Reasons:
+ - ADOPTED_NO_RELATIVE
+ - AGE_ZERO_OR_INVALID
 
 Explanation:
   Observation:
@@ -434,6 +458,8 @@ Serial No: 154
 Name: RETNAMMA
 House: NO
 Reasons:
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
  - ADOPTED_NO_RELATIVE
  - INVALID_HOUSE_NO
 
@@ -457,8 +483,10 @@ Serial No: 155
 Name: RETNAMMA,
 House: NO
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
  - INVALID_HOUSE_NO
 
 Explanation:
@@ -564,10 +592,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB4582516
-Serial No: 214
-Name: RANJITHKUMAR M
-House: 17
+EPIC: WJB1874932
+Serial No: 210
+Name: Suji -
+House: 15
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -586,32 +614,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: RIV1682863
-Serial No: 215
-Name: Kaleeshwari -
-House: 17
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4357810
-Serial No: 216
-Name: Chandru
-House: 17
+EPIC: WJB4691184
+Serial No: 219
+Name: Magline Velantina
+House: 18
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -740,6 +746,28 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: JRT1637669
+Serial No: 243
+Name: Kaliswani -
+House: 24
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: WJB3968971
 Serial No: 245
 Name: Sivabakiyam -
@@ -806,10 +834,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB2018794
-Serial No: 256
-Name: muthu kumar -
-House: 30
+EPIC: WJB1602309
+Serial No: 269
+Name: Brinda -
+House: 32
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -828,10 +856,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB2553501
-Serial No: 257
-Name: Pradap -
-House: 30
+EPIC: WJB3969045
+Serial No: 282
+Name: Balarmmal -
+House: 40
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -850,10 +878,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB4112231
-Serial No: 258
-Name: Praveen kumar
-House: 30
+EPIC: WJB1603125
+Serial No: 283
+Name: Kannammial -
+House: 40
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -872,10 +900,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB1374537
-Serial No: 262
-Name: Ramasamy -
-House: 31A
+EPIC: WJB0493197
+Serial No: 286
+Name: Latha Rajeswari -
+House: 40
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -894,55 +922,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB4817169
-Serial No: 265
-Name: SHEK ABDUL RAHMAN MOHAMED
-House: 31A
-Reasons:
- - ADOPTED_NO_RELATIVE
- - AGE_ZERO_OR_INVALID
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3969037
-Serial No: 280
-Name: Baby -
-House: 39
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: JRT4503603
-Serial No: 281
-Name: Chadrasekar -
-House: 39
+EPIC: WJB0493445
+Serial No: 298
+Name: Rajalakshmi -
+House: 44
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -1049,12 +1032,33 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 344
-Name: Nithya
-House: 62
+EPIC: WJB4674867
+Serial No: 341
+Name: KARTHIPTIYA
+House: 61
 Reasons:
- - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB4562039
+Serial No: 342
+Name: Poorinima S
+House: 61
+Reasons:
  - ADOPTED_NO_RELATIVE
 
 Explanation:
@@ -1160,72 +1164,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB0493163
-Serial No: 360
-Name: Samsutheen -
-House: 68
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB1602614
-Serial No: 361
-Name: Gothar bava -
-House: 68
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB0492975
-Serial No: 370
-Name: Shanthi -
-House: 72
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: NAN
 Serial No: 377
 Name: Kalavathi -
@@ -1293,6 +1231,50 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: WJB4585493
+Serial No: 388
+Name: Pandian
+House: 77
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB1104868
+Serial No: 393
+Name: Hema -
+House: 78
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: JRT7941115
 Serial No: 397
 Name: Thulzhasiyarmmal -
@@ -1337,11 +1319,12 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB1602655
-Serial No: 408
-Name: Geethamani -
-House: 85
+EPIC: NAN
+Serial No: 404
+Name: nan
+House: 83
 Reasons:
+ - EPIC_ID_MISSING
  - ADOPTED_NO_RELATIVE
 
 Explanation:
@@ -1359,10 +1342,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB3971405
-Serial No: 410
-Name: Jothimani -
-House: 86
+EPIC: WJB1602655
+Serial No: 408
+Name: Geethamani -
+House: 85
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -1386,6 +1369,29 @@ Serial No: 411
 Name: Rajamani -
 House: 88
 Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: Y110118687
+Serial No: 414
+Name: Renuka
+House: 88-A
+Reasons:
+ - INVALID_EPIC_ID
  - ADOPTED_NO_RELATIVE
 
 Explanation:
@@ -1474,117 +1480,7 @@ Serial No: 432
 Name: Ponmathi -
 House: 94
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: JRT4506184
-Serial No: 434
-Name: Mahalingam -
-House: 95
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3394822
-Serial No: 435
-Name: Sivagnnam
-House: 95
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3971447
-Serial No: 438
-Name: Vellingiri -
-House: 97
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: JRT1636091
-Serial No: 441
-Name: Senthilkumar -
-House: 98
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: JRT2735249
-Serial No: 442
-Name: Prabhu -
-House: 98
-Reasons:
  - ADOPTED_NO_RELATIVE
 
 Explanation:
@@ -1690,28 +1586,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB3971488
-Serial No: 460
-Name: Jegannathan -
-House: 102A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: WJB3971496
 Serial No: 461
 Name: Poongodi -
@@ -1756,143 +1630,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB2553469
-Serial No: 465
-Name: Ajaykosh -
-House: 102A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NAN
-Serial No: 467
-Name: Sunil kishore
-House: 102A
-Reasons:
- - EPIC_ID_MISSING
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB2553667
-Serial No: 473
-Name: Pazhani -
-House: 103A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4817094
-Serial No: 474
-Name: MANOJ MOORTHI
-House: 103A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: WJB1602721
 Serial No: 478
 Name: Uma devi -
 House: 104
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3364247
-Serial No: 481
-Name: Divyabharathi
-House: 107
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3364296
-Serial No: 482
-Name: Nithyabharathi
-House: 107
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -2109,6 +1850,28 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: WJB4639290
+Serial No: 541
+Name: ARUMUGAM
+House: 124
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: WJB1875210
 Serial No: 543
 Name: Aseena -
@@ -2197,6 +1960,28 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: WJB4585741
+Serial No: 572
+Name: nan
+House: 138
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: WJB3971710
 Serial No: 573
 Name: Amaia -
@@ -2219,10 +2004,54 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB4860250
-Serial No: 575
-Name: Sheela
-House: 139
+EPIC: WJB2553485
+Serial No: 584
+Name: nan
+House: 144
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB4363362
+Serial No: 586
+Name: Deepika
+House: 144
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB3971769
+Serial No: 588
+Name: Laksmi -
+House: 145
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -2307,10 +2136,54 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
+EPIC: WJB3971827
+Serial No: 603
+Name: Ramathal -
+House: 152
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
 EPIC: JRT4504247
 Serial No: 605
 Name: Janaki -
 House: 153
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB0493478
+Serial No: 610
+Name: Eslirajakumari -
+House: 154
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -2461,51 +2334,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: NAN
-Serial No: 655
-Name: JENIFAR
-House: 173
-Reasons:
- - EPIC_ID_MISSING
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4112215
-Serial No: 656
-Name: Jayakumar
-House: 173
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: WJB4919106
 Serial No: 661
 Name: Loganayaki
@@ -2532,50 +2360,6 @@ EPIC: WJB2018489
 Serial No: 669
 Name: selvi -
 House: 1784
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB0486357
-Serial No: 670
-Name: Leelavathi
-House: 1784
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB2018703
-Serial No: 671
-Name: eswarn -
-House: 178-AB
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -2660,28 +2444,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB1374669
-Serial No: 688
-Name: Gunasekaran -
-House: 183-A
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: WJB3972049
 Serial No: 691
 Name: Saraswathy -
@@ -2748,28 +2510,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB3972072
-Serial No: 696
-Name: Pappal -
-House: 188
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: NHH3291630
 Serial No: 703
 Name: Shamemunisa Begam
@@ -2818,94 +2558,6 @@ EPIC: WJB4586004
 Serial No: 709
 Name: Variakani
 House: 195
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB3972130
-Serial No: 721
-Name: Rajamani -
-House: 202
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB0493056
-Serial No: 722
-Name: Ayyasamy -
-House: 202
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: JRT4503116
-Serial No: 723
-Name: Vijayababu -
-House: 202
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: NHHO650044
-Serial No: 724
-Name: jeevakariya
-House: 202
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -2991,50 +2643,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB4562971
-Serial No: 738
-Name: VIGNESH
-House: 211
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB4553756
-Serial No: 739
-Name: SATHYAM
-House: 211
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 EPIC: WJB0493023
 Serial No: 751
 Name: Palaniyammal -
@@ -3061,6 +2669,50 @@ EPIC: JRT2748101
 Serial No: 752
 Name: Muthuselvi -
 House: 218
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB3972247
+Serial No: 753
+Name: Saraswathy -
+House: 220
+Reasons:
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Observation:
+   - Multiple voters exist in the same street and house
+   - The voter has declared parent/spouse information OR none
+   - No declared relation could be resolved within the same house
+
+  Checked logic:
+   - Direct name match with father/mother/husband
+   - Reverse linkage (child ↔ parent)
+   - Husband acting as father of another voter
+
+  Conclusion:
+   - No valid family linkage found inside the house
+   - ADOPTED_NO_RELATIVE flagged for manual verification
+----------------------------------------------------
+EPIC: WJB2018562
+Serial No: 756
+Name: prajitha -
+House: 220
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -3168,32 +2820,10 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: WJB1374644
-Serial No: 784
-Name: Thiraviyarn -
-House: 235
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB1374651
-Serial No: 785
-Name: Muthulakshmi -
-House: 235
+EPIC: WJB0493437
+Serial No: 782
+Name: Nirmala -
+House: 233
 Reasons:
  - ADOPTED_NO_RELATIVE
 
@@ -3240,7 +2870,6 @@ Name: Vasanthamani -
 House: 244
 Reasons:
  - ADOPTED_NO_RELATIVE
- - INVALID_EPIC_ID
 
 Explanation:
   Observation:
@@ -3390,50 +3019,6 @@ Explanation:
    - No valid family linkage found inside the house
    - ADOPTED_NO_RELATIVE flagged for manual verification
 ----------------------------------------------------
-EPIC: JRT1636117
-Serial No: 838
-Name: Kandhasamy -
-House: 262
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
-EPIC: WJB2018802
-Serial No: 839
-Name: manoj -
-House: 262
-Reasons:
- - ADOPTED_NO_RELATIVE
-
-Explanation:
-  Observation:
-   - Multiple voters exist in the same street and house
-   - The voter has declared parent/spouse information OR none
-   - No declared relation could be resolved within the same house
-
-  Checked logic:
-   - Direct name match with father/mother/husband
-   - Reverse linkage (child ↔ parent)
-   - Husband acting as father of another voter
-
-  Conclusion:
-   - No valid family linkage found inside the house
-   - ADOPTED_NO_RELATIVE flagged for manual verification
-----------------------------------------------------
 Reason: AGE_ZERO_OR_INVALID
 Total flagged: 15
 ----------------------------------------------------
@@ -3468,7 +3053,7 @@ Serial No: 140
 Name: nan
 House: 255
 Reasons:
- - SAME_NAME_IN_SAME_HOUSE
+ - ADOPTED_NO_RELATIVE
  - AGE_ZERO_OR_INVALID
 
 Explanation:
@@ -3507,7 +3092,6 @@ Serial No: 265
 Name: SHEK ABDUL RAHMAN MOHAMED
 House: 31A
 Reasons:
- - ADOPTED_NO_RELATIVE
  - AGE_ZERO_OR_INVALID
 
 Explanation:
@@ -3609,8 +3193,8 @@ Serial No: 856
 Name: DEVIGA
 House: nan
 Reasons:
- - STREET_NAME_UNAVAILABLE
  - INVALID_EPIC_ID
+ - STREET_NAME_UNAVAILABLE
  - AGE_ZERO_OR_INVALID
  - HOUSE_NO_UNAVAILABLE
 
@@ -3773,7 +3357,6 @@ Name: Nithya
 House: 62
 Reasons:
  - EPIC_ID_MISSING
- - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -3820,6 +3403,7 @@ Name: nan
 House: 83
 Reasons:
  - EPIC_ID_MISSING
+ - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -3831,7 +3415,6 @@ Name: Sunil kishore
 House: 102A
 Reasons:
  - EPIC_ID_MISSING
- - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -3887,7 +3470,6 @@ Name: JENIFAR
 House: 173
 Reasons:
  - EPIC_ID_MISSING
- - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -4250,8 +3832,8 @@ Serial No: 856
 Name: DEVIGA
 House: nan
 Reasons:
- - STREET_NAME_UNAVAILABLE
  - INVALID_EPIC_ID
+ - STREET_NAME_UNAVAILABLE
  - AGE_ZERO_OR_INVALID
  - HOUSE_NO_UNAVAILABLE
 
@@ -4262,14 +3844,13 @@ Explanation:
   Conclusion: HOUSE_NO_UNAVAILABLE triggered
 ----------------------------------------------------
 Reason: INVALID_EPIC_ID
-Total flagged: 10
+Total flagged: 8
 ----------------------------------------------------
 EPIC: WJB39688165
 Serial No: 66
 Name: Velumani -
 House: 14
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
 
 Explanation:
@@ -4281,8 +3862,10 @@ Serial No: 155
 Name: RETNAMMA,
 House: NO
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
  - INVALID_HOUSE_NO
 
 Explanation:
@@ -4295,6 +3878,7 @@ Name: Renuka
 House: 88-A
 Reasons:
  - INVALID_EPIC_ID
+ - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -4305,8 +3889,8 @@ Serial No: 432
 Name: Ponmathi -
 House: 94
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
+ - ADOPTED_NO_RELATIVE
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -4328,31 +3912,8 @@ Serial No: 622
 Name: Govindaraji -
 House: 158
 Reasons:
+ - INVALID_EPIC_ID
  - ORPHAN_ONLY_PERSON_IN_HOME
- - INVALID_EPIC_ID
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: INVALID_EPIC_ID triggered
-----------------------------------------------------
-EPIC: WJBO0493049
-Serial No: 728
-Name: Nithya -
-House: 204
-Reasons:
- - INVALID_EPIC_ID
-
-Explanation:
-  Rule triggered based on deterministic business logic
-  Conclusion: INVALID_EPIC_ID triggered
-----------------------------------------------------
-EPIC: WJBO0493098
-Serial No: 802
-Name: Vasanthamani -
-House: 244
-Reasons:
- - ADOPTED_NO_RELATIVE
- - INVALID_EPIC_ID
 
 Explanation:
   Rule triggered based on deterministic business logic
@@ -4374,8 +3935,8 @@ Serial No: 856
 Name: DEVIGA
 House: nan
 Reasons:
- - STREET_NAME_UNAVAILABLE
  - INVALID_EPIC_ID
+ - STREET_NAME_UNAVAILABLE
  - AGE_ZERO_OR_INVALID
  - HOUSE_NO_UNAVAILABLE
 
@@ -4432,6 +3993,8 @@ Serial No: 154
 Name: RETNAMMA
 House: NO
 Reasons:
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
  - ADOPTED_NO_RELATIVE
  - INVALID_HOUSE_NO
 
@@ -4446,8 +4009,10 @@ Serial No: 155
 Name: RETNAMMA,
 House: NO
 Reasons:
- - ADOPTED_NO_RELATIVE
  - INVALID_EPIC_ID
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
  - INVALID_HOUSE_NO
 
 Explanation:
@@ -6459,8 +6024,8 @@ Serial No: 622
 Name: Govindaraji -
 House: 158
 Reasons:
- - ORPHAN_ONLY_PERSON_IN_HOME
  - INVALID_EPIC_ID
+ - ORPHAN_ONLY_PERSON_IN_HOME
 
 Explanation:
   Observation:
@@ -6970,70 +6535,44 @@ Explanation:
    - ORPHAN_ONLY_PERSON_IN_HOME flagged for manual verification
 ----------------------------------------------------
 Reason: SAME_NAME_IN_SAME_HOUSE
-Total flagged: 4
+Total flagged: 2
 ----------------------------------------------------
-EPIC: WJB4401246
-Serial No: 139
-Name: nan
-House: 255
+EPIC: WJB4698577
+Serial No: 154
+Name: RETNAMMA
+House: NO
 Reasons:
  - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+ - INVALID_HOUSE_NO
 
 Explanation:
   Self-row consistency check:
-   - name = 'nan'
+   - name = 'RETNAMMA'
    - father_name = 'nan'
    - mother_name = 'nan'
-   - husband_name = 'nan'
+   - husband_name = 'NARAYANA PILLAI'
   Rule: voter name must not equal their own parent/spouse name
   Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
 ----------------------------------------------------
-EPIC: WJB4399382
-Serial No: 140
-Name: nan
-House: 255
+EPIC: WJ84683637
+Serial No: 155
+Name: RETNAMMA,
+House: NO
 Reasons:
+ - INVALID_EPIC_ID
  - SAME_NAME_IN_SAME_HOUSE
- - AGE_ZERO_OR_INVALID
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+ - INVALID_HOUSE_NO
 
 Explanation:
   Self-row consistency check:
-   - name = 'nan'
+   - name = 'RETNAMMA,'
    - father_name = 'nan'
    - mother_name = 'nan'
-   - husband_name = 'SARAVANASAMY'
-  Rule: voter name must not equal their own parent/spouse name
-  Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
-----------------------------------------------------
-EPIC: WJB1875350
-Serial No: 662
-Name: nan
-House: 178
-Reasons:
- - SAME_NAME_IN_SAME_HOUSE
-
-Explanation:
-  Self-row consistency check:
-   - name = 'nan'
-   - father_name = 'Kumarasaami -'
-   - mother_name = 'nan'
-   - husband_name = 'nan'
-  Rule: voter name must not equal their own parent/spouse name
-  Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
-----------------------------------------------------
-EPIC: WJB4185740
-Serial No: 668
-Name: nan
-House: 178
-Reasons:
- - SAME_NAME_IN_SAME_HOUSE
-
-Explanation:
-  Self-row consistency check:
-   - name = 'nan'
-   - father_name = 'SELVARAJ'
-   - mother_name = 'nan'
-   - husband_name = 'nan'
+   - husband_name = 'NARAYANA PILLAI'
   Rule: voter name must not equal their own parent/spouse name
   Conclusion: SAME_NAME_IN_SAME_HOUSE triggered
 ----------------------------------------------------
@@ -7100,8 +6639,8 @@ Serial No: 856
 Name: DEVIGA
 House: nan
 Reasons:
- - STREET_NAME_UNAVAILABLE
  - INVALID_EPIC_ID
+ - STREET_NAME_UNAVAILABLE
  - AGE_ZERO_OR_INVALID
  - HOUSE_NO_UNAVAILABLE
 
@@ -7265,6 +6804,107 @@ Explanation:
   Rule triggered based on deterministic business logic
   Conclusion: STREET_NAME_UNAVAILABLE triggered
 ----------------------------------------------------
+Reason: TWO_WIVES_SAME_HUSBAND
+Total flagged: 8
+----------------------------------------------------
+EPIC: JRT4502175
+Serial No: 10
+Name: Simarao -
+House: 3
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: JRT4502183
+Serial No: 11
+Name: Apoorva -
+House: 3
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: JRT2762623
+Serial No: 46
+Name: Annapoorani -
+House: 10-1
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: JRT4504031
+Serial No: 47
+Name: Nivethitha -
+House: 10-1
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+ - UNDER_18
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WJB4698577
+Serial No: 154
+Name: RETNAMMA
+House: NO
+Reasons:
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+ - INVALID_HOUSE_NO
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WJ84683637
+Serial No: 155
+Name: RETNAMMA,
+House: NO
+Reasons:
+ - INVALID_EPIC_ID
+ - SAME_NAME_IN_SAME_HOUSE
+ - TWO_WIVES_SAME_HUSBAND
+ - ADOPTED_NO_RELATIVE
+ - INVALID_HOUSE_NO
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WJB3968906
+Serial No: 226
+Name: Shanthamani -
+House: 20
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
+EPIC: WJB0493353
+Serial No: 228
+Name: Geethanjali -
+House: 20
+Reasons:
+ - TWO_WIVES_SAME_HUSBAND
+
+Explanation:
+  Rule triggered based on deterministic business logic
+  Conclusion: TWO_WIVES_SAME_HUSBAND triggered
+----------------------------------------------------
 Reason: UNDER_18
 Total flagged: 5
 ----------------------------------------------------
@@ -7273,6 +6913,7 @@ Serial No: 47
 Name: Nivethitha -
 House: 10-1
 Reasons:
+ - TWO_WIVES_SAME_HUSBAND
  - ADOPTED_NO_RELATIVE
  - UNDER_18
 
